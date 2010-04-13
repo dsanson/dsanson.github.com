@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+
+    <meta charset="utf-8" />
+    <title>{{ page.title }}</title>
+    <meta name="author" content="David Sanson" />
+    {% if page.keywords %}
+ 	<meta name="keywords" content="{{ page.keywords }}">
+ 	{% endif %}
+ 	
+    {% if page.pdf %}
+    <link rel="alternate" type="application/pdf" href=""/>
+    {% endif %}
+ 	{% if page.feed %}
+   	<link rel="alternate" type="application/atom+xml" href="{{ page.feed }}" title="RSS feed" />
+	{% endif %}    
+	
+	<!-- turn off automatic phone number linking -->
+	<meta name="format-detection" content="telephone=no" />
+	
+	<link rel="archives" href=""/>
+
+    <link rel="first" href="/" />
+    <link rel="next" href="/" />
+    <link rel="prev" href="/" />
+    <link rel="last" href="/" />
+    <link rel="up" href="/" />
+    
+    <link rel="stylesheet" href="/files/css/styles.css" />
+
+    <!--Make Internet Explorer recognize HTML5 tags-->
+    <!--[if IE]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <script type="text/javascript">
+    	var disqus_developer = true; 
+    	var disqus_iframe_css = "/files/css/styles.css"
+    </script>
+
+</head>
+
+<body class="{{ page.section }}">
+    <div id="content">
+
+        {{ content }}
+        
+        <footer>
+            <hr>
+            
+            <!--hcard-->
+            <div style="display:none" id="hcard-David-Sanson" class="vcard">
+            <img style="float:left; margin-right:4px" src="http://www.gravatar.com/avatar.php?gravatar_id=f5c32764cbb1669dd68cb9130ee9fe86" alt="photo of David Sanson" class="photo"/>
+            <p>
+             <a class="url fn" href="{{ site.url }}">David Sanson</a>, <span class="title">Assistant Professor</span>, <span class="organization-unit">Department of Philosophy</span>, <span class="organization-name">The Ohio State University</span>.
+            </p>
+            <p> <a class="email" href="mailto:&#115;&#097;&#110;&#115;&#111;&#110;&#046;&#055;&#064;&#111;&#115;&#117;&#046;&#101;&#100;&#117;">&#115;&#097;&#110;&#115;&#111;&#110;&#046;&#055;&#064;&#111;&#115;&#117;&#046;&#101;&#100;&#117;</a>, <span class="adr"><span class="extended-address">372 University Hall</span>, <span class="street-address">230 North Oval Mall</span>, <span class="locality">Columbus</span>, <span class="region">OH</span> <span class="postal-code">43212</span>, <span class="country-name">USA</span>.</span> <span class="tel">(614) 292–2235</span>
+            </div>
+            <!--end hcard-->
+            <hr>
+            <p>design by <a href="{{ site.url }}/colophon.html" title="colophon">David Sanson</a> (<a href="{{ site.url }}/license.html">some rights reserved</a>)<br>powered by <a href="http://jekyllrb.com/" title="A static, minimalist CMS">Jekyll</a>,
+            comments by <a href="http://disqus.com" class="dsq-brlink">Disqus</a></p>
+            
+        </footer>  
+    </div>  
+
+</body>
+</html>

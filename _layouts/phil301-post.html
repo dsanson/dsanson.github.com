@@ -1,0 +1,31 @@
+---
+layout: phil301
+feed: atom.xml
+---
+
+<article>
+
+  <h1 class="emphnext">{{ page.title }}</h1>
+
+{{ content }}
+
+
+</article>
+
+{% if page.comments %}
+<!--Disqus Comments-->
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_identifier = "{{ page.id }}";
+   (function() {
+   var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+   dsq.src = 'http://301.disqus.com/embed.js';
+   (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+</script>
+<noscript>
+	<p><a href="http://301.disqus.com/?url=ref">View the discussion thread.</a></p>
+</noscript>
+{% endif %}
+
+

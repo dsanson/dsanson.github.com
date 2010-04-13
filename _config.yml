@@ -1,0 +1,17 @@
+---
+destination : _site
+auto        : true
+lsi         : false
+pygments    : false
+permalink   : none
+markdown    : maruku
+url         : dsanson.github.com
+
+maruku:
+    use_divs: true
+    use_tex: false
+    png_engine : blahtex
+    png_dir    : images/latex/
+    png_url    : /images/latex/
+
+    

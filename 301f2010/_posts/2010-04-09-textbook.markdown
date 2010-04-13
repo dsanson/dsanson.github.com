@@ -1,0 +1,12 @@
+---
+title: Text
+layout: phil301-post
+section: home
+---
+
+The required text for the course is 
+
++  Cohen SM, Curd P, and Reeve CDC (2005). *[Readings in Ancient Greek Philosophy: From Thales to Aristotle (3rd edition)](http://books.google.com/books?id=XVHj_gwk39QC)*. Hackett Publishing. ISBN: 9780872207691 
+
+If buying a used copy, be certain you are buying the 3rd edition.
+

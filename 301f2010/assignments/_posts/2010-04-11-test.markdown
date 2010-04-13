@@ -1,0 +1,9 @@
+---
+title: Test 2
+layout: phil301-post
+section: assignments
+comments: 1
+
+---
+
+This is another test!

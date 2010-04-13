@@ -9,7 +9,7 @@ feed: atom.xml
 
 <article class="postindex">
     
-<h1><a href="announcements.html">Announcements</a></h1>
+<h1><a href="announcements">Announcements</a></h1>
 
 <ul>
 {% for post in site.categories.301f2010 %}

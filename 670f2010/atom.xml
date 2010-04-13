@@ -21,7 +21,7 @@ layout: nil
  {% for post in site.categories.670f2010 %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="http://davidsanson.com/{{ post.url }}"/>
+   <link href="{{ site.url }}/{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>id:{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>

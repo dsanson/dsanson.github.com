@@ -34,16 +34,21 @@ nav {
     display: block;
     text-align: center;
     padding-top: 1em;
+	font-size: 100% !important;
 }
 
 nav li {
-    display: block;	
+	padding: .1em;
+	border: none !important;
+}
+nav li a {
+    display: block !important;	
     text-align: center;	
     padding-left: .5em;
     padding-right: .5em;
-    display: inline;
     width: auto;
     list-style-type: none;
+ 	border: thin solid #98AFC7;
 }
 
 nav ul {
@@ -52,10 +57,36 @@ nav ul {
     	padding-right: 0em;
 }
 
-nav a {
-#    padding: .5em;
-#    display: block;
+
+
+body.home li.home a,
+body.about li.about a,
+body.gizmos li.gizmos a,
+body.courses li.courses a,
+body.research li.research a,
+body.cv li.cv a,
+body.readings li.readings a,
+body.assignments li.assignments a,
+body.syllabus li.syllabus a
+{ 
+	border: 1px solid #98AFC7;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background: white;
 }
+
+body.home li.home a,
+body.about li.about a,
+body.gizmos li.gizmos a,
+body.courses li.courses a,
+body.research li.research a,
+body.cv li.cv a,
+body.readings li.readings a,
+body.assignments li.assignments a {
+	color: black;
+}
+
 
 a {
 	text-decoration: none;

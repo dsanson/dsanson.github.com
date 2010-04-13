@@ -1,4 +1,4 @@
-Redirect 301 /home/me.html /home/about-me
+Redirect 301 /home/me.html /about-me
 Redirect 301 /philosophy301 /301f2010
 Redirect 301 /301 /301f2010
 Redirect 301 /phil670 /670f2010
@@ -9,7 +9,7 @@ RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.html -f
 RewriteRule ^(.*)$ $1.html
-RewriteRule ^home/?(.*)$ /$1
+RewriteRule ^home?/?(.*)$ /$1
 </IfModule>
 
 ErrorDocument 404 404.html

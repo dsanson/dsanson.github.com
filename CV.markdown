@@ -2,6 +2,7 @@
 layout: cv
 title: Curriculum Vitae
 section: cv
+pdf: 1
 ---
 
 Department of Philosophy  

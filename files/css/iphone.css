@@ -34,21 +34,32 @@ nav {
     display: block;
     text-align: center;
     padding-top: 1em;
+	padding-bottom: em !important;
 	font-size: 100% !important;
 }
 
 nav li {
 	padding: .1em;
 	border: none !important;
+	display: block !important;
 }
 nav li a {
     display: block !important;	
     text-align: center;	
     padding-left: .5em;
     padding-right: .5em;
+	padding-top: 0em;
+	padding-bottom: 0em;
     width: auto;
     list-style-type: none;
- 	border: thin solid #98AFC7;
+	border: 1px solid #98AFC7;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+
+nav li a:hover {
+	background: #eee;
 }
 
 nav ul {
@@ -69,24 +80,9 @@ body.readings li.readings a,
 body.assignments li.assignments a,
 body.syllabus li.syllabus a
 { 
-	border: 1px solid #98AFC7;
-	-moz-border-radius: 5px;
-	-webkit-border-radius: 5px;
-	border-radius: 5px;
-	background: white;
-}
-
-body.home li.home a,
-body.about li.about a,
-body.gizmos li.gizmos a,
-body.courses li.courses a,
-body.research li.research a,
-body.cv li.cv a,
-body.readings li.readings a,
-body.assignments li.assignments a {
+	background-color: #ffffff;
 	color: black;
 }
-
 
 a {
 	text-decoration: none;

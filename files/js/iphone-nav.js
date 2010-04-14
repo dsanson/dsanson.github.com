@@ -1,10 +1,10 @@
 if (window.innerWidth && window.innerWidth <= 480) { 
     $(document).ready(function(){  
-		$('nav ul').addClass('hide');
-        $('nav').prepend('<div id="menuButton" onclick="toggleMenu()">Menu</div>'); 
+        $('nav ul').prepend('<li id="menuButton" onclick="toggleMenu()">Navigation Menu</li>'); 
     });
     function toggleMenu() { 
-        $('nav ul').toggleClass('hide'); 
-        $('#menuButton').toggleClass('pressed'); 
+        $('nav ul li').toggleClass('hide'); 
+        $('#menuButton').toggleClass('pressed');
+		
     }
 }

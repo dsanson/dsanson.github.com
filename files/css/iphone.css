@@ -55,9 +55,8 @@ nav {
     text-align: center;
     padding-top: 0px;
 	padding-bottom: em !important;
-	margin-left: auto;
-	width: 40%;
-	margin-right: 0px;
+	margin-right: 17px;
+	margin-left: 17px;
 	font-size: 17px !important;
 	padding: 0em 1em 0em 1em;
 }
@@ -71,7 +70,7 @@ nav li {
 nav li a {
     display: block !important;
 	background: white !important;
-    text-align: right;	
+    text-align: left;	
     padding-left: 10px;
     padding-right: 10px;
 	padding-top: .5em;
@@ -95,17 +94,22 @@ nav li a:hover {
 	background: #eee;
 }
 
+nav li.left {
+	float: none;
+	text-align: inherit;
+	padding-left: 0px !important;
+	padding-right: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
 nav ul {
 	display: block !important;
-	position: absolute;
-	top: 49px;
-	right: 17px;
 	-webkit-padding-start: 0em;
-	padding-left: 0em;
-    padding-right: 0em;
+	padding-left: 10px;
+    padding-right: 10px;
 	margin: 0em 0em 17px 0em !important;
 	margin-right: 17px;
-	z-index: 2;
 }
 
 nav li.left:after {
@@ -178,26 +182,40 @@ img.shadowed {
 
 #menuButton {
 	display: block;
-	position: absolute;
-    top: 19px;
-    right: 18px;
 	background: white;
-	vertical-align: bottom;
-	-webkit-border-top-right-radius: 8px;
-	-webkit-border-top-left-radius: 8px;
 	padding: 5px;
-	font-size: 17px;
+	padding-right: 10px;
+	font-size: 12px;
 	border-bottom: 1px solid;
 }
 
 #menuButton.pressed {
 	border-bottom: none;
-	
 }
 
-nav ul.hide {
+nav li.hide {
 	display: none !important;
 }
+
+nav li:first-child {
+	display: block !important;
+	border: 1px solid #98AFC7 !important;
+}
+
+nav li:first-child.hide {
+	-webkit-border-bottom-right-radius: 8px;
+	-webkit-border-bottom-left-radius: 8px;
+	}
+
+nav li:first-child:before {
+	content: "Hide ";
+}
+
+nav li:first-child.hide:before {
+	content: "Display ";
+}
+
+
 
 nav li.left {
 	float: none;

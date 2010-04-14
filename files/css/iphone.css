@@ -22,7 +22,21 @@ body {
 header {
 	display: block;
     margin: 0em;
-	padding-top: 0px;
+	padding: 0px;
+	background-color: #ddd !important;
+    background: -webkit-gradient(linear, left bottom, left top, from(#eee), color-stop(1, #eeeeee), to(#fff));
+}
+
+header h1 a {
+    background-color: #ccc;
+    border-bottom: 1px solid #666;
+    color: #222;
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 0;
+    text-align: center;
+    text-decoration: none;
 }
 
 #blog-title {
@@ -36,15 +50,18 @@ nav {
     padding-top: 1em;
 	padding-bottom: em !important;
 	font-size: 100% !important;
+	padding: 0em 1em 0em 1em;
 }
 
 nav li {
-	padding: .1em;
+	padding: 0em;
 	border: none !important;
 	display: block !important;
+	margin: 0em !important;
 }
 nav li a {
-    display: block !important;	
+    display: block !important;
+	background: white !important;
     text-align: center;	
     padding-left: .5em;
     padding-right: .5em;
@@ -53,9 +70,18 @@ nav li a {
     width: auto;
     list-style-type: none;
 	border: 1px solid #98AFC7;
-	-moz-border-radius: 5px;
-	-webkit-border-radius: 5px;
-	border-radius: 5px;
+	border-top: none;
+	font-weight: bold;
+}
+
+nav li:first-child a {
+	border-top: thin solid #98AFC7;
+    -webkit-border-top-left-radius: 8px;
+    -webkit-border-top-right-radius: 8px;
+}
+nav li:last-child a {
+    -webkit-border-bottom-left-radius: 8px;
+    -webkit-border-bottom-right-radius: 8px;
 }
 
 nav li a:hover {
@@ -63,9 +89,11 @@ nav li a:hover {
 }
 
 nav ul {
+	display: block !important;
 	-webkit-padding-start: 0em;
 	padding-left: 0em;
     	padding-right: 0em;
+	margin: 1em 0em 1em 0em !important;
 }
 
 
@@ -80,7 +108,7 @@ body.readings li.readings a,
 body.assignments li.assignments a,
 body.syllabus li.syllabus a
 { 
-	background-color: #ffffff;
+	background-color: #ffffff !important;
 	color: black;
 }
 

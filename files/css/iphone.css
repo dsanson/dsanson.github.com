@@ -97,11 +97,15 @@ nav li a:hover {
 
 nav ul {
 	display: block !important;
+	position: absolute;
+	top: 49px;
+	right: 17px;
 	-webkit-padding-start: 0em;
 	padding-left: 0em;
     padding-right: 0em;
 	margin: 0em 0em 17px 0em !important;
 	margin-right: 17px;
+	z-index: 2;
 }
 
 nav li.left:after {
@@ -175,7 +179,7 @@ img.shadowed {
 #menuButton {
 	display: block;
 	position: absolute;
-    top: 21px;
+    top: 19px;
     right: 18px;
 	background: white;
 	vertical-align: bottom;

@@ -181,3 +181,13 @@ nav li.left {
 	text-align: inherit;
 	padding-left: inherit;
 }
+
+.flickr_badge_image a img {
+	-webkit-transform: rotate(0deg); 
+	-moz-transform: rotate(0deg);
+}
+
+img.gravatar {
+	-webkit-transform: rotate(0deg); 
+	-moz-transform: rotate(0deg);
+}

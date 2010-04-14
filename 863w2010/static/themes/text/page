@@ -1,0 +1,24 @@
+<!-- blosxom content_type text/plain; charset=utf-8 -->
+
+<!-- blosxom head -->
+$blog_title
+================================
+
+<!-- blosxom date -->
+
+<!-- blosxom story -->
+$title
+
+$body
+
+<?$meta::page ne="1" />
+posted on $yr $mo $da at $hr12:$min $ampm
+[permanent link]($url$path/$fn.$flavour)
+
+-----------------
+</?>
+<!-- blosxom foot -->
+<?$meta::page ne="1" />
+[powered by blosxom](http://blosxom.sourceforge.net/)
+</?>
+

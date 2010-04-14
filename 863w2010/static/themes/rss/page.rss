@@ -1,0 +1,36 @@
+<!-- blosxom content_type text/xml -->
+<!-- blosxom head -->
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+       <channel>
+                <title>$blog_title<?$path_info ne="/">: $path_info</?></title>
+                <link>$url/$path_info</link>
+                <description>$blog_description</description>
+                <dc:date>$lastmodified::latest_iso8601</dc:date>
+                <dc:language>en-us</dc:language>
+                <dc:creator>mailto:$hostinfo::email</dc:creator>
+                <dc:rights>Copyright $yr</dc:rights>
+                <admin:generatorAgent rdf:resource="http://www.raelity.org/apps/blosxom/?v=$blosxom::version" />
+                <sy:updatePeriod>hourly</sy:updatePeriod>
+                <sy:updateFrequency>1</sy:updateFrequency>
+                <sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+<!-- blosxom date -->
+
+<!-- blosxom story -->
+                <item>                                                          
+                        <title>$title</title>                                   
+                        <link>$url$path/$fn.html</link>                                                                             
+                        <description>$body</description>                                                         
+                        <comments>$url$writeback::trackback_path_and_filename.writeback</comments>                                                                     
+                        <guid isPermaLink="true">$url$path/$fn.html</guid>                                                          
+                        <dc:date>$lastmodified::story_iso8601</dc:date>        
+                        </item>                                                 
+<!-- blosxom foot -->
+                </channel>                                                      
+	        </rss>

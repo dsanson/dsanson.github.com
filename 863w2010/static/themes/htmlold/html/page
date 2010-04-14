@@ -1,0 +1,120 @@
+<!-- blosxom content_type text/html; charset=utf-8 --> 
+
+<!-- blosxom head --> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" id="sixapart-standard">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link rel="stylesheet" href="$theme::theme_dir_url/html/styles.css" type="text/css" />
+		<link rel="stylesheet" href="$theme::theme_dir_url/html/print.css" type="text/css" media="print" /><!--[if !IE]>-->
+		<link type="text/css" rel="stylesheet" media="only screen and (max-width: 480px)" href="$theme::theme_dir_url/html/iphone.css" />
+		<meta name="viewport" content="width=320; initial-scale=1.0;" /><!--<![endif]-->
+		<title>
+			$better_title::title
+		</title>
+		<link rel="alternate" type="application/rss+xml" title="Phil863 (RSS 2.0)" href="$url/$path_info/index.rss" />
+		<link rel="unapi-server" type="application/xml" title="unAPI" href="http://davidsanson.com/cgi-bin/unapi.cgi" />
+		<script type="text/javascript" src="$theme::theme_dir_url/html//flickr.js">
+		</script>
+	</head>
+	<body onload="loadFlickr()">
+		<div id="content">
+			<div id="header">
+				<h1 id="blog-title">
+					<a href="$url">$blog_title</a>
+				</h1>
+				<p id="blog-description">
+					$blog_description
+				</p>
+				<div id="navbar">
+					<hr>
+					<ul>
+					  $pagelist::display
+   					  $categorylist::display
+					</ul>
+				</div>
+			</div>
+<!-- blosxom date -->
+
+<!-- blosxom writeback -->
+
+<div class="comment">
+
+<@pandocmd.encode_comment output="yes">
+$writeback::comment
+</@pandocmd.encode_comment>
+
+<p class="comment-attribution">posted by $writeback::name on $writeback::date</p>
+
+</div>
+
+<!-- blosxom writebacksform -->
+
+<div id="comment-form">
+<h3>Leave a comment...</h3>
+
+<!-- A simple comments form -->
+
+<form method="POST" action="$url/$path_info">
+
+<p>Name:<br/><input name="name" size="35" value="$writeback::pref_name" /></p>
+<p>Comments:<br/><textarea id="comment-box" name="comment" rows="20" cols="60"></textarea></p>
+
+<input type="hidden" name="plugin" value="writeback" />
+
+<p><input type="submit" value="Post" /> <input type="checkbox" name="save_preferences" value="1" checked /> Save name for next time.</p>
+
+</form>
+</div>
+
+<!-- blosxom story -->
+<div id="story">
+	<hr/>
+	<?$meta::toc eq="1"><!-- toc --></?>
+	<h2 class="story-title">
+		<a name="$title" id="$title" href="$url$path/$fn.$flavour">$title</a>
+	</h2>
+	<div id="story-content">
+$body
+	</div>
+	<ul id="story-info">
+		<li> <?$meta::page eq="1" />updated</?><?!$meta::page />posted</?> $mo $da, $yr at $hr12:$min $ampm </li>
+		<li> <a href="$url$path/$fn.$flavour#comments"><?$writeback::count lt="1">no comments</?><?$writeback::count eq="1">$writeback::count comment</?><?$writeback::count gt="1">$writeback::count comments</?></a> </li>
+		<li> <a href="$url$path/$fn.$flavour"><?$meta::page eq="1" />canonical</?><?!$meta::page />permanent</?> link</a></li>
+	</ul>
+    <?$pagetype::pagetype ne="story">
+	</?>
+	<?$pagetype::pagetype eq="story">
+	<div id="comments">
+	<h3>Comments</h3>
+	$writeback::writebacks
+	</div>
+	$writeback::writebacksform
+	</?>
+
+</div>
+
+<!-- blosxom foot -->
+<div id="footer">
+<!--	<div id="categories">
+	<ul>
+		$categorylist::display
+	</ul>
+	</div>
+-->
+	<form action="http://www.feedmyinbox.com/feeds/verify/" method="post" id="fmi" target="fmi" onsubmit="window.open('http://www.feedmyinbox.com/', 'fmi', 'scrollbars=yes,width=520,height=490');return true;">
+	Want email updates?	
+	Email Address: <input type="text" value="" name="email" />
+	<input type="hidden" value="http://davidsanson.com/863/index.rss" name="feed"/>
+	<input type="submit" value="Submit"/>
+	(Powered by <a href="http://www.feedmyinbox.com" title="Visit FeedMyInbox">Feed My Inbox</a>)
+	</form>
+
+       <a href="http://blosxom.sourceforge.net/"><img src="http://blosxom.sourceforge.net/images/pb_blosxom.gif" alt="powered by blosxom" border="0" width="90" height="33" ></a> 
+</div>
+</div>
+</body>
+</html>
+
+

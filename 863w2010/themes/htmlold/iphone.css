@@ -1,0 +1,49 @@
+html {
+min-height:none;
+}
+
+body {
+     font-family: Optima, Helvetica, Verdana, sans-serif;
+     background: white;
+}
+
+#content {
+        margin: -.5em;
+        margin-top: 0em;
+	max-width: none;
+	border: none;
+	-webkit-box-shadow: 0px 0px 0px #2B3856;
+	-webkit-border-radius: 0px;
+}
+
+#header {
+        margin: 0em;
+}
+
+#blog-title {
+    text-align: center;
+    display: block;
+}
+
+#navbar {
+    display: block;
+    text-align: center;
+}
+
+#navbar li, #navbar ul {
+    padding-left: 1em;
+    padding-right: 1em;
+    display: inline;
+    width: auto;
+}
+
+#navbar a {
+    padding: .5em;
+    display: block;
+}
+
+img.shadowed {
+    display: block;
+    margin: 0em auto 0em auto;
+    width: 100%
+}

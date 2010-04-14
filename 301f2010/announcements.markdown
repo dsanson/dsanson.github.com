@@ -1,7 +1,7 @@
 ---
 title: Announcements
 layout: phil301
-section: home
+section: main
 
 ---
 

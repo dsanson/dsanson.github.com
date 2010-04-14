@@ -1,7 +1,7 @@
 ---
 title: Philosophy 301
 layout: phil301
-section: home
+section: main
 feed: atom.xml
 
 ---

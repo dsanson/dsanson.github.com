@@ -1,7 +1,7 @@
 ---
 title: Course Description
 layout: phil301-post
-section: home
+section: main
 ---
 
 Fall 2010, TuTh 12:30-2:18.

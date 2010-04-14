@@ -1,7 +1,7 @@
 ---
 title: Text
 layout: phil301-post
-section: home
+section: main
 ---
 
 The required text for the course is 

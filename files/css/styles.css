@@ -89,7 +89,21 @@ nav li {
     width: auto;
 }
 
+nav li.left {
+	float: left;
+	text-align: center;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+nav li.left:after {
+	content: "→";
+}
+
 body.home li.home,
+body.main li.main,
 body.about li.about,
 body.gizmos li.gizmos,
 body.courses li.courses,
@@ -111,6 +125,7 @@ body.syllabus li.syllabus
 }
 
 body.home li.home a,
+body.main li.main a,
 body.about li.about a,
 body.gizmos li.gizmos a,
 body.courses li.courses a,

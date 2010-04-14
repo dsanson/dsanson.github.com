@@ -3,13 +3,14 @@ min-height:none;
 }
 
 body {
-     font-family: Optima, Helvetica, Verdana, sans-serif;
+     font-family: Helvetica, Verdana, sans-serif;
      background: white;
+	 margin: 0px !important;
+	margin-top: -1px !important;
 }
 
 #content {
-    margin: -8px;
-    margin-top: 0em;
+    margin: 0px;
 	max-width: none;
 	border: none;
 	padding-left: 0px;
@@ -37,6 +38,9 @@ header h1 a {
     padding: 10px 0;
     text-align: center;
     text-decoration: none;
+	text-shadow: 0px 1px 0px #fff;
+    background-image: -webkit-gradient(linear, left top, left bottom, 
+                                       from(#ccc), to(#999));
 }
 
 #blog-title {
@@ -49,7 +53,9 @@ nav {
     text-align: center;
     padding-top: 1em;
 	padding-bottom: em !important;
-	font-size: 100% !important;
+	margin-left: 2em;
+	margin-right: 2em;
+	font-size: 110% !important;
 	padding: 0em 1em 0em 1em;
 }
 
@@ -62,11 +68,11 @@ nav li {
 nav li a {
     display: block !important;
 	background: white !important;
-    text-align: center;	
-    padding-left: .5em;
+    text-align: left;	
+    padding-left: 1em;
     padding-right: .5em;
-	padding-top: 0em;
-	padding-bottom: 0em;
+	padding-top: .5em;
+	padding-bottom: .5em;
     width: auto;
     list-style-type: none;
 	border: 1px solid #98AFC7;
@@ -96,9 +102,12 @@ nav ul {
 	margin: 1em 0em 1em 0em !important;
 }
 
-
+nav li.left:after {
+	content: "";
+}
 
 body.home li.home a,
+body.main li.main a,
 body.about li.about a,
 body.gizmos li.gizmos a,
 body.courses li.courses a,
@@ -124,4 +133,51 @@ img.shadowed {
     display: block;
     margin: 0em auto 0em auto;
     width: 100%
+}
+
+#menuButton {
+	display: block;
+	position: absolute;
+/*	padding: .1em;
+	padding-left: .3em;
+	padding-right: .3em;*/
+    top: 7px;
+    right: 6px;
+    height: 30px;
+    font-weight: bold;
+	font-size: 12px;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	width: 80px;
+    text-align: center;
+    color: white;
+    text-shadow: rgba(0,0,0,0.6) 0px -1px 0px;
+    line-height: 28px;
+	text-shadow: 0px 1px 0px #000;
+}
+
+#buttonBackground {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+	border-right-width: 15px;
+	border-bottom-width: 0px;
+	border-left-width: 15px;
+	-webkit-border-image: url('/files/img/button.png') 0 15 0 15 repeat stretch;
+}
+
+#buttonBackground.pressed {
+	-webkit-border-image: url('/files/img/button_clicked.png') 0 15 0 15 repeat stretch;
+}
+
+nav ul.hide {
+	display: none !important;
+}
+
+nav li.left {
+	float: none;
+	text-align: inherit;
+	padding-left: inherit;
 }

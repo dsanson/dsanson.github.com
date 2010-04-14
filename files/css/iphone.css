@@ -186,11 +186,6 @@ img.shadowed {
 	padding: 5px;
 	padding-right: 10px;
 	font-size: 12px;
-	border-bottom: 1px solid;
-}
-
-#menuButton.pressed {
-	border-bottom: none;
 }
 
 nav li.hide {
@@ -198,21 +193,25 @@ nav li.hide {
 }
 
 nav li:first-child {
-	display: block !important;
-	border: 1px solid #98AFC7 !important;
-}
-
-nav li:first-child.hide {
 	-webkit-border-bottom-right-radius: 8px;
 	-webkit-border-bottom-left-radius: 8px;
+	border: 1px solid #98AFC7 !important;
+	
 	}
 
+nav li:first-child.hide {
+	display: block !important;
+	-webkit-border-radius: 0px;
+}
+
+
+
 nav li:first-child:before {
-	content: "Hide ";
+	content: "Display ";
 }
 
 nav li:first-child.hide:before {
-	content: "Display ";
+	content: "Hide ";
 }
 
 

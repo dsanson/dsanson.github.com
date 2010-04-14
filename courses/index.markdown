@@ -10,18 +10,18 @@ When emailing about a course, please include your full name in the body of your 
 ## Future
 
 -	Fall 2010
-	-   [Ancient Philosophy (301)]({{ site.url }}/301f2010), TR 12:30PM - 2:18PM
-	-   [Topics in Philosophy of Religion (670)]({{ site.url }}/670f2010), TR 10:30AM - 12:18PM
+	-   [Ancient Philosophy (301)](/301f2010), TR 12:30PM - 2:18PM
+	-   [Topics in Philosophy of Religion (670)](/670f2010), TR 10:30AM - 12:18PM
 
 +	Spring 2011
-	+	[Symbolic Logic (250)](http://davidsanson.com/250/)
+	+	[Symbolic Logic (250)](/250s2011)
 	+	Dissertation Seminar (999)
 	
 ## Past
 
 -   Winter 2010
-    +   [Introduction to Metaphysics (463)](/463/)
-    +   [Graduate Seminar: The Metaphysics of Tense (863)](/863/)
+    +   [Introduction to Metaphysics (463)](/463w2010)
+    +   [Graduate Seminar: The Metaphysics of Tense (863)](/863w2010)
 
 -	Fall 2009
 	-   [Honors Introduction to Philosophy (H101)](http://davidsanson.com/philh101)

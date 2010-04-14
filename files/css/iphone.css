@@ -33,9 +33,10 @@ header h1 a {
     border-bottom: 1px solid #666;
     color: #222;
     display: block;
-    font-size: 20px;
-    font-weight: bold;
+    font-size: 20px !important;
+    font-weight: bold !important;
     padding: 10px 0;
+	height: 28px;
     text-align: left;
 	padding-left: 1em;
     text-decoration: none;
@@ -52,10 +53,11 @@ header h1 a {
 nav {
     display: block;
     text-align: center;
-    padding-top: 1em;
+    padding-top: 0px;
 	padding-bottom: em !important;
-	margin-left: 10px;
-	margin-right: 10px;
+	margin-left: auto;
+	width: 40%;
+	margin-right: 0px;
 	font-size: 17px !important;
 	padding: 0em 1em 0em 1em;
 }
@@ -69,7 +71,7 @@ nav li {
 nav li a {
     display: block !important;
 	background: white !important;
-    text-align: left;	
+    text-align: right;	
     padding-left: 10px;
     padding-right: 10px;
 	padding-top: .5em;
@@ -82,9 +84,7 @@ nav li a {
 }
 
 nav li:first-child a {
-	border-top: thin solid #98AFC7;
-    -webkit-border-top-left-radius: 8px;
-    -webkit-border-top-right-radius: 8px;
+	border-top: none;
 }
 nav li:last-child a {
     -webkit-border-bottom-left-radius: 8px;
@@ -99,8 +99,9 @@ nav ul {
 	display: block !important;
 	-webkit-padding-start: 0em;
 	padding-left: 0em;
-    	padding-right: 0em;
-	margin: 1em 0em 1em 0em !important;
+    padding-right: 0em;
+	margin: 0em 0em 17px 0em !important;
+	margin-right: 17px;
 }
 
 nav li.left:after {
@@ -136,12 +137,9 @@ img.shadowed {
     width: 100%
 }
 
-#menuButton {
+/* #menuButton {
 	display: block;
 	position: absolute;
-/*	padding: .1em;
-	padding-left: .3em;
-	padding-right: .3em;*/
     top: 7px;
     right: 10px;
     height: 30px;
@@ -171,6 +169,26 @@ img.shadowed {
 
 #buttonBackground.pressed {
 	-webkit-border-image: url('/files/img/button_clicked.png') 0 15 0 15 repeat stretch;
+}
+*/
+
+#menuButton {
+	display: block;
+	position: absolute;
+    top: 21px;
+    right: 18px;
+	background: white;
+	vertical-align: bottom;
+	-webkit-border-top-right-radius: 8px;
+	-webkit-border-top-left-radius: 8px;
+	padding: 5px;
+	font-size: 17px;
+	border-bottom: 1px solid;
+}
+
+#menuButton.pressed {
+	border-bottom: none;
+	
 }
 
 nav ul.hide {

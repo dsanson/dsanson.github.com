@@ -1,8 +1,0 @@
----
-title: Test
-layout: phil301-post
-section: readings
-
----
-
-This is a test!

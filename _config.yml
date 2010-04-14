@@ -1,11 +1,11 @@
 ---
 destination : _site
-auto        : true
+auto        : false
 lsi         : false
 pygments    : false
 permalink   : none
 markdown    : rdiscount
-url         : http://dsanson.github.com
+url         : http://davidsanson.com/test
 
 
     

@@ -4,7 +4,7 @@ auto        : false
 lsi         : false
 pygments    : false
 permalink   : none
-markdown    : pandoc
+markdown    : rdiscount
 url         : http://davidsanson.com
 
 

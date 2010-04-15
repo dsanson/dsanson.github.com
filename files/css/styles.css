@@ -98,11 +98,11 @@ nav li.left {
 	margin-right: 0px;
 }
 
-nav li.left:after {
+nav li.left:before {
 	content: "→";
 }
 
-nav li.left:first-child:after {
+nav li.left:first-child:before {
 	content: "";
 }
 

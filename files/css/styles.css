@@ -282,6 +282,10 @@ footer a {
     max-width: 240px;
 }
 
+a img {
+	border: none;
+}
+
 a:hover img{
 	filter:alpha(opacity=80);
 	-moz-opacity:0.8;
@@ -385,3 +389,4 @@ span.comments {
 -webkit-box-shadow: 10px 10px 8px #CCC; 
 -moz-box-shadow: #CCC 10px 10px 8px;
 }
+

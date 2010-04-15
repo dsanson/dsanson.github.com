@@ -1,6 +1,7 @@
 #Redirect 301 /index.html /home/
 Redirect 301 /home/me.html /home/about-me
 Redirect 301 /home/gizmos.html /home/gizmos
+Redirect 301 /404.html /404.shtml
 
 Redirect 301 /philosophy301 /301
 Redirect 301 /philosophyh101 /h101

@@ -10,7 +10,7 @@ An introduction to Ancient Greek Philosophy, from the death of Aristotle in 322 
 
 If you want to see what previous versions of this course looked like, 
 follow the links from 
-[{{ site.url }}/courses]({{ site.url }}/courses) 
+[the page that lists every course I have taught](/courses) 
 to old course webpages.
 
-And a silly flyer is [here]({{ site.url }}/301f2010/301flyer.pdf).
+And a silly flyer is [here](/301f2010/301flyer.pdf).

@@ -14,4 +14,4 @@ Questions to be considered may include: Can an omnipotent God create a stone tha
 
 Readings will be drawn from both contemporary and medieval sources.
 
-For a silly flyer, see [this]({{ site.url }}/670f2010/670flyer.pdf).
+For a silly flyer, see [this](/670f2010/670flyer.pdf).

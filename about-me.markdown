@@ -13,4 +13,5 @@ When not working, I am probably playing with [the tyke](http://flickr.com/photos
 
 You can ~~stalk~~ find me on [Flickr](http://www.flickr.com/photos/davsans/) and [Facebook](http://www.facebook.com/people/David_Sanson/12455093) and [Twitter](http://twitter.com/davsans22) and [Github](http://github.com/dsanson).
 
-
++   [Colophon](/colophon.html)
++   [License](/license.html)

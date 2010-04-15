@@ -98,14 +98,6 @@ nav li.left {
 	margin-right: 0px;
 }
 
-nav li.left:before {
-	content: "→";
-}
-
-nav li.left:first-child:before {
-	content: " ";
-}
-
 body.home li.home,
 body.main li.main,
 body.about li.about,

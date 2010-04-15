@@ -102,6 +102,10 @@ nav li.left:after {
 	content: "→";
 }
 
+nav li.left:first-child:after {
+	content: "";
+}
+
 body.home li.home,
 body.main li.main,
 body.about li.about,

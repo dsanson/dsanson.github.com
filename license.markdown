@@ -1,7 +1,7 @@
 ---
 title: License
 layout: name
-section: home
+section: about
 ---
 
 Unless specified otherwise:

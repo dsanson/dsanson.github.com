@@ -2,7 +2,7 @@
 layout: name
 title: Colophon
 
-section: home
+section: about
 ---
 
 ## Software used to host this page ##

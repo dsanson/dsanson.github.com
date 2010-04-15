@@ -16,7 +16,7 @@ body {
     margin: 1em auto 2em auto;
     max-width: 33em;
     padding: 1em;
-    text-align: justify;
+    text-align: left;
     background: white;
     -moz-border-radius: 20px;
 	-webkit-border-radius: 20px;

@@ -5,7 +5,5 @@ lsi         : false
 pygments    : false
 permalink   : none
 markdown    : rdiscount
+markdowns   : pandoc-ruby, rdiscount, maruku
 url         : http://davidsanson.com
-
-
-    

@@ -15,4 +15,4 @@ You can ~~stalk~~ find me on [Flickr](http://www.flickr.com/photos/davsans/) and
 
 You can read about software and services I use to produce this site: [colophon](/colophon.html). 
 
-Unless specified otherwise all design and content within this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License. For more, see [license](/license.html)
+Unless specified otherwise all design and content within this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License ([license](/license.html)).

@@ -15,9 +15,9 @@ title: Page Not Found!
 <div class="sitesearch">    
     <form method="get" action="http://www.google.com/search">
 <p>
-    <input type="search" name="q" size="50" maxlength="255" value="" placeholder="Search dsanson.github.com" />
+    <input type="search" name="q" size="50" maxlength="255" value="" placeholder="Search davidsanson.com" />
     <input type="submit" value="Go" />
-    <input type="hidden"  name="sitesearch" value="dsanson.github.com" />
+    <input type="hidden"  name="sitesearch" value="davidsanson.com" />
 </p>
   </form>
 </div>

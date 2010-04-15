@@ -17,7 +17,7 @@ Redirect 301 /670 /670f2010/
 Redirect 301 /301 /301f2010/
 Redirect 301 /home /
 
-ErrorDocument 404 404.html
+ErrorDocument 404 /404.html
 
 DirectoryIndex index.html index.markdown
 

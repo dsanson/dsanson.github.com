@@ -6,7 +6,9 @@ title: Page Not Found!
 
 <h1>404 Error</h1>
 
-<p>This page is not, and so cannot be found: the same thing is for browsing and for being.
+</b></p>
+
+<p><!--#echo var="HTTP_HOST" --><!--#echo var="REQUEST_URI" --> is not, and so cannot be found: the same thing is for browsing and for being.
 </p>
 
 <p>Return now to <a href="/">the way of truth</a>, or continue on the way on which mortals, knowing nothing, two-headed, wander:</p>

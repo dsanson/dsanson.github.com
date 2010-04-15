@@ -103,7 +103,7 @@ nav li.left:before {
 }
 
 nav li.left:first-child:before {
-	content: "";
+	content: " ";
 }
 
 body.home li.home,

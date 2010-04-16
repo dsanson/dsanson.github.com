@@ -12,7 +12,7 @@ The Ohio State University
 Columbus, Ohio 43210
 
 614-292-2235  
-"sanson" followed by ".7" @osu.edu
+<sanson.7@osu.edu>
 
 ## Employment
 

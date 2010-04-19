@@ -9,7 +9,6 @@ section: about
 
 * [Jekyll](http://jekyllrb.com/) (a lightweight CMS)
 * [git](http://git.or.cz/) (version control software) allows [easy deployment of a website with jekyll](http://tatey.com/2009/04/29/jekyll-meets-dreamhost-automated-deployment-for-jekyll-with-git/).
-* [h2v](http://h2v.1daylater.com/) (javascript hcard to vcard converter) Doesn't seem to work with Firefox, but works with Safari. 
 
 ## Services used to host this page ##
 
@@ -17,6 +16,7 @@ section: about
 * [Github pages](http://pages.github.com/) hosts a [mirror](http://dsanson.github.com) of this site.
 * [Github](http://github.com) hosts the [source](http://github.com/dsanson/dsanson.github.com) of this site.
 * [Disqus](http://disqus.com/) manages comments for this site.
+* [H2VX Contacts Conversion Service](http://h2vx.com/vcf/) converts the hcard on the index page to a downloadable vcard.
 * [Gravatar](http://gravatar.com/) provides avatars for commenters and the image on my [about me](/about-me) page.
 
 ## Other Software I use ##

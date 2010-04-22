@@ -1,0 +1,65 @@
+@page { 
+		@bottom-center { 
+        	content: counter(page);
+    	}
+		margin-top:1in;
+		margin-bottom:1in;
+		margin-left:1in;
+		margin-right:1in
+}
+
+
+body
+{color: black;
+background: white;
+ font-family: Garamond, Palatino, Times, Times New-Roman, serif;
+ font-size: 12pt;
+ }
+
+#content
+{
+border: none;
+background: white;
+-moz-border-radius: 0px;
+-webkit-border-radius: 0px;
+-webkit-box-reflect: none;
+-webkit-box-shadow: none;
+-moz-box-shadow: none;
+width: auto;
+}
+
+
+h1
+{ 
+font-size: 14pt;
+font-weight: bold;
+}
+
+ul ol {
+	page-break-inside: avoid;
+	page-break-before: never;
+	}
+
+A:link, A:visited {
+	background: white; 
+	color: black; 
+	text-decoration: none;
+   	}
+
+*/ #main a:link:before, #content a:visited:before {
+   content: "[";
+   }
+
+#main a:link:after, #content a:visited:after {
+   content: "] (" attr(href) ") ";
+   }
+*/
+
+header, footer {
+	display: none;
+}
+
+.pdflink {
+	display: none;
+}
+    

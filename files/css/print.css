@@ -46,7 +46,7 @@ A:link, A:visited {
 	text-decoration: none;
    	}
 
-*/ #main a:link:before, #content a:visited:before {
+/* #main a:link:before, #content a:visited:before {
    content: "[";
    }
 

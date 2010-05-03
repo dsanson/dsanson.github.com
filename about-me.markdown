@@ -5,7 +5,7 @@ title: About Me
 section: about
 ---
 
-<img class="gravatar" src="http://www.gravatar.com/avatar.php?gravatar_id=f5c32764cbb1669dd68cb9130ee9fe86" />
+<img class="gravatar" src="http://www.gravatar.com/avatar.php?gravatar_id=f5c32764cbb1669dd68cb9130ee9fe86" alt=""/>
 
 I am an assistant professor of philosophy at the Ohio State University. I work primarily in [contemporary metaphysics](http://plato.stanford.edu/entries/metaphysics/ "metaphysics"). A lot of my research focuses on trying to make sense of the commitments of a tensed or A-theoretic theory of time, and the associated view, called *Presentism*, that only the present is real. I have allied interests in the philosophy of language, the philosophy of action, and medieval philosophy, and I've done some work on the history of the Liar Paradox in the medieval Arabic tradition.
 

@@ -4,8 +4,8 @@
     	}
 		margin-top:1in;
 		margin-bottom:1in;
-		margin-left:1in;
-		margin-right:1in
+		margin-left:1.25in;
+		margin-right:1.25in
 }
 
 
@@ -35,7 +35,17 @@ font-size: 14pt;
 font-weight: bold;
 }
 
-ul ol {
+
+/* allow prince to generate bookmarks */
+h1 { prince-bookmark-level: 1 }
+h2 { prince-bookmark-level: 2 }
+h3 { prince-bookmark-level: 3 }
+h4 { prince-bookmark-level: 4 }
+h5 { prince-bookmark-level: 5 }
+h6 { prince-bookmark-level: 6 }
+
+
+ul, ol {
 	page-break-inside: avoid;
 	page-break-before: never;
 	}

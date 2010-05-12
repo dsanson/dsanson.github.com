@@ -17,7 +17,7 @@ This process has been described on a few different sites, which provide iPhone f
 To use, drag this link -- 
 <a class="bml" href="javascript:function%20F()%20{var%20i,L;L=document.links;for%20(i=0;i<L.length;i++)%20{if%20(L[i].protocol==%22javascript:%22)%20{L[i].href=%22http://example.com/#%22+L[i].href;L[i].style.padding=%225px%22;L[i].style.border=%22thin%20solid%20#ccc%22;L[i].style.background=%22#ff3%22;L[i].style.color=%22#000%22;}}};F();">iPhonlets</a> -- to your browser's toolbar on your computer and sync your bookmarks with your iPhone.
 
-Just kidding. You can do that, of course, but to add the bookmarklet directly to your iPhone, you need to first use the bookmarklet to transform itself (and all the other bookmarklets on this page). So click once on the bookmarklet above right now. It should turn yellow. Now click on it again, bookmark the resulting page, and edit out the `http://example.com/#` bit. Isn't it fabulous that you can use it to install itself?
+Just kidding. You can do that, of course, but to add the bookmarklet directly to your iPhone, you need to first use the bookmarklet to transform itself (and all the other bookmarklets on this page). So click once on the bookmarklet above, right now, on your iphone. It should turn yellow. Now click on it again, bookmark the resulting page, and edit out the `http://example.com/#` bit. Isn't it fabulous that you can use it to install itself?
 
 For those interested in tweaking the bookmarklet, here is the human readable source:
 

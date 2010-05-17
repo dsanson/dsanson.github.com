@@ -5,18 +5,20 @@ section: gizmos
 comments: 1
 ---
 
-This is a meta-bookmarklet: it is a bookmarklet that makes it possible to add  bookmarklets directly to browsers that don't allow you to bookmark javascript links, like Mobile Safari and Opera Mini. 
+This is a meta-bookmarklet: it is a bookmarklet that makes it possible to bookmark bookmarklets in browsers that only allow you to bookmark the page you are on. This includes Mobile Safari, the browser on the iPhone and iPod Touch. It also includes Opera Mini, I am told.
 
-It is not the only bookmarklet that does this. The "[Grady Morgan Bookmarklet](http://www.ipodtouchfans.com/forums/showthread.php?t=91132)" did something similar; the [CSS Ninja](http://www.thecssninja.com/javascript/iphone-bookmarklet) also has a bookmarklet that does the same thing.
+It is not the only bookmarklet that does this. The "[Grady Morgan Bookmarklet](http://www.ipodtouchfans.com/forums/showthread.php?t=91132)" did something similar but has gone missing; the [CSS Ninja](http://www.thecssninja.com/javascript/iphone-bookmarklet) wrote a bookmarklet that does the same thing.
 
-The bookmarklet changes all `href="javascript:blah"` links on a page to `href="http://example.com/#javascript:blah"` links. (As a visual cue, it surrounds converted links in a yellow box.) You can then follow the link to `http://example.com#javascript:blah` and bookmark it. You can then edit the bookmarked address, deleting the `http://example.com/#` bit, leaving just the `javascript:blah` bit. The process is a pain, but it is less of a pain than any other option, and it works.
+A bookmarklet is a link of the form `href="javascript:blah"`. Rather than taking you to a new webpage, it executes a bit of javascript on the page that you have already loaded. The iPhonlets bookmarklet changes all `href="javascript:blah"` links on a page to `href="http://example.com/#javascript:blah"` links. (As a visual cue, it surrounds converted links in a yellow box.) Once this has been done, you can follow the link to `http://example.com#javascript:blah` and bookmark the page. You can then edit the bookmark, deleting the `http://example.com/#` bit from the URL, leaving just the `javascript:blah` bit. 
 
-My instructions aren't great. The [CSS Ninja](http://www.thecssninja.com/javascript/iphone-bookmarklet) provides screen shots detailing how it is done.
+The process is a pain, but it is less of a pain than any other option, and it works.
 
-To use, drag this link -- 
-<a class="bml" href="javascript:function%20F()%20{var%20i,L;L=document.links;for%20(i=0;i<L.length;i++)%20{if%20(L[i].protocol==%22javascript:%22)%20{L[i].href=%22http://example.com/#%22+L[i].href;L[i].style.padding=%225px%22;L[i].style.border=%22thin%20solid%20#ccc%22;L[i].style.background=%22#ff3%22;L[i].style.color=%22#000%22;}}};F();">iPhonlets</a> -- to your browser's toolbar on your computer and sync your bookmarks with your iPhone.
+I realize that my instructions are hard to follow. The [CSS Ninja](http://www.thecssninja.com/javascript/iphone-bookmarklet) provides screen shots detailing how it is done. So does the site for the [iTransmogrify](http://joemaller.com/___) bookmarklet.
 
-Just kidding. You can do that, of course, but to add the bookmarklet directly to your iPhone, you need to first use the bookmarklet to transform itself (and all the other bookmarklets on this page). So click once on the bookmarklet above, right now, on your iPhone. It should turn yellow. Now click on it again, bookmark the resulting page, and edit out the `http://example.com/#` bit. Isn't it fabulous that you can use it to install itself?
+To install the iPhonlets bookmarklet, drag this link -- 
+<a class="bml" href="javascript:function%20F()%20{var%20i,L;L=document.links;for%20(i=0;i<L.length;i++)%20{if%20(L[i].protocol==%22javascript:%22)%20{L[i].href=%22http://example.com/#%22+L[i].href;L[i].style.padding=%225px%22;L[i].style.border=%22thin%20solid%20#ccc%22;L[i].style.background=%22#ff3%22;L[i].style.color=%22#000%22;}}};F();">iPhonlets</a> -- to the toolbar on your desktop computer and sync your bookmarks with your iPhone.
+
+Just kidding. You can do that, but you can also use the bookmarklet to install itself: click once on the bookmarklet above, right now, on your iPhone. It should turn yellow. Now click on it again, bookmark the resulting page, and edit out the `http://example.com/#` bit. Isn't it fabulous that you can use it to install itself?
 
 For those interested in tweaking the bookmarklet, here is the human readable source:
 

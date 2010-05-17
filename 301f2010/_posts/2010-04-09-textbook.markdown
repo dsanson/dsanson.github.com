@@ -6,7 +6,12 @@ section: main
 
 The required texts for the course are 
 
+[<img style="float:right" src="/files/img/pps.jpg">](http://books.google.com/books?id=njPV7OzivLEC&lpg=PP1&ots=QaYr6R7h7t&dq=Philosophy%20before%20Socrates%3A%20An%20Introduction%20with%20Texts%20and%20Commentary&pg=PP1#v=onepage&q&f=false)
+
 +    McKirahan, R. D. (1994) *[Philosophy before Socrates: An Introduction with Texts and Commentary](http://books.google.com/books?id=njPV7OzivLEC&lpg=PP1&ots=QaYr6R7h7t&dq=Philosophy%20before%20Socrates%3A%20An%20Introduction%20with%20Texts%20and%20Commentary&pg=PP1#v=onepage&q&f=false)*. Indianapolis: Hackett. ISBN: 9780872201750
+
+[<img style="clear:both;float:right" src="/files/img/ccr.jpg">](http://books.google.com/books?id=XVHj_gwk39QC&lpg=PP1&pg=PP1#v=onepage&q&f=false)
+
 +    S. Marc Cohen, Patricia Curd, and C.D.C Reeve (eds.), *[Readings in Ancient Greek Philosophy: From Thales to Aristotle](http://books.google.com/books?id=XVHj_gwk39QC&lpg=PP1&pg=PP1#v=onepage&q&f=false).* Third Edition. Indianapolis: *Hackett Publishing, 2005. ISBN: 9780872207691
 
 If buying a used copy of *Readings in Ancient Greek Philosophy*, be certain you are buying the 3rd edition.

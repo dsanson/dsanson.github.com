@@ -23,8 +23,7 @@ Here is one important exception:
 ## Services used to host this page ##
 
 * [Dreamhost](http://dreamhost.com/) hosts this site. Purchased when they were offering 2 years for $20; not sure what I'll do when those 2 years are up.
-* [Github pages](http://pages.github.com/) hosts a [mirror](http://dsanson.github.com) of this site.
-* [Github](http://github.com) hosts the [source](http://github.com/dsanson/dsanson.github.com) of this site.
+* [Github pages](http://pages.github.com/) hosts both a [mirror](http://dsanson.github.com) of this site and the [source](http://github.com/dsanson/dsanson.github.com) of this site.
 * [Disqus](http://disqus.com/) manages comments for this site.
 * [H2VX Contacts Conversion Service](http://h2vx.com/vcf/) converts the hcard on the index page to a downloadable vcard.
 * [Gravatar](http://gravatar.com/) provides avatars for commenters and the image on my [about me](/about-me) page.

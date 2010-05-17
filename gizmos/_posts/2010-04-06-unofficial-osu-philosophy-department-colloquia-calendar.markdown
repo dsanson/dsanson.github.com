@@ -18,7 +18,7 @@ Let me know if there is a talk that I should add or if you notice any mistakes.
 +   Use this link to subscribe to the calendar in your feed reader: [xml](http://www.google.com/calendar/feeds/pgpbqbvg98d0a0opno8n688tsc%40group.calendar.google.com/public/basic)
 +   Use this link to subscribe to the calendar in your calendar software: [ical](webcal://www.google.com/calendar/ical/pgpbqbvg98d0a0opno8n688tsc%40group.calendar.google.com/public/basic.ics)
 
-If the above link didn't work, copy this URL
+If the above ical link didn't work, copy this URL
 
      http://www.google.com/calendar/ical/pgpbqbvg98d0a0opno8n688tsc%40group.calendar.google.com/public/basic.ics
 

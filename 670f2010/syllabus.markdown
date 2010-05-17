@@ -10,9 +10,7 @@ section: syllabus
 
 ## Philosophy 670: Topics in Philosophy of Religion ##
 
-
 Fall 2010, University Hall 0353, TuTh 10:30-12:18pm.
-
 
 Professor
 :	David Sanson, 372 University Hall, Office hours: TBA or by appointment, sanson.7@osu.edu

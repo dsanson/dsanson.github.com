@@ -20,9 +20,7 @@ Let me know if there is a talk that I should add or if you notice any mistakes.
 
 If the above link didn't work, copy this URL
 
-~~~~~~
-http://www.google.com/calendar/ical/pgpbqbvg98d0a0opno8n688tsc%40group.calendar.google.com/public/basic.ics
-~~~~~~
+     http://www.google.com/calendar/ical/pgpbqbvg98d0a0opno8n688tsc%40group.calendar.google.com/public/basic.ics
 
 then open your calendar software and tell it to subscribe to the calendar by URL.
 

@@ -234,7 +234,7 @@ footer {
 	padding-right: 1em;
 }
 
-footer * {
+footer {
 	font-size: x-small;
 	text-align: center;
 }
@@ -323,6 +323,7 @@ img.gravatar {
 }
 
 h1, h2, h3 {
+	font-family: 'Lucida Sans';
     font-weight: bold;
     font-size: medium;
     font-variant: small-caps;

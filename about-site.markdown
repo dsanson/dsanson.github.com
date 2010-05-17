@@ -1,9 +1,19 @@
 ---
 layout: name
-title: Colophon
+title: About this site
 
 section: about
 ---
+
+## License
+
+Unless specified otherwise:
+
++   all design and content within this site is licensed under a [Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/ "License"). 
+
+Here is one important exception:
+
++   all rights reserved for research papers and drafts of research papers, e.g., any documents linked from my [Research]({{ site.url }}/research "Research") page.
 
 ## Software used to host this page ##
 
@@ -19,7 +29,7 @@ section: about
 * [H2VX Contacts Conversion Service](http://h2vx.com/vcf/) converts the hcard on the index page to a downloadable vcard.
 * [Gravatar](http://gravatar.com/) provides avatars for commenters and the image on my [about me](/about-me) page.
 
-## Other Software I use ##
+## Other software I use and recommend ##
 
 * [Quicksilver](http://code.google.com/p/blacktree-alchemy/) (an OSX application launcher and much more)
 * [TextMate](http://macromates.com/) (a powerful text editor)

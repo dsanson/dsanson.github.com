@@ -1,7 +1,7 @@
 ---
 title: Philosophy 670
 layout: phil670
-section: home
+section: main
 feed: atom.xml
 
 ---

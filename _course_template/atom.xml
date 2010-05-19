@@ -1,0 +1,32 @@
+---
+layout: nil
+---
+
+{% assign base = '/XXXTYYYY' %}
+{% assign sectiontitle = 'Philosophy XXX' %}
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>{{sectiontitle}}</title>
+ <link href="{{site.url}}{{base}}/atom.xml" rel="self"/>
+ <link href="{{site.url}}{{base}}"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>{{site.url}}{{base}}</id>
+ 
+ <author>
+   <name>David Sanson</name>
+   <email></email>
+ </author>
+ 
+ {% for post in site.categories.XXXTYYYY %}
+ <entry>
+   <title>{{ post.title }}</title>
+   <link href="{{ site.url }}/{{ post.url }}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>id:{{ post.id }}</id>
+   <content type="html">{{ post.content | xml_escape }}</content>
+ </entry>
+ {% endfor %}
+ 
+</feed>

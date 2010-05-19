@@ -1,0 +1,4 @@
+- Copy the contents of the folder to a directory named 250s2011
+- Replace all occurrences of '250' with the course number in all files.
+- Replace all occurrences of '250s2011' with the course number, term, and year, in all files: e.g., 301w2010.
+- Move the files phil250.html and phil250-post.html to the _layouts folder.

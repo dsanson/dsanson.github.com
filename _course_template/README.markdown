@@ -1,0 +1,4 @@
+- Copy the contents of the folder to a directory named XXXTYYYY
+- Replace all occurrences of 'XXX' with the course number in all files.
+- Replace all occurrences of 'XXXTYYYY' with the course number, term, and year, in all files: e.g., 301w2010.
+- Move the files philXXX.html and philXXX-post.html to the _layouts folder.

@@ -1,0 +1,15 @@
+---
+title: Announcements
+layout: phil250
+section: main
+
+---
+
+{% for post in site.categories.250s2011 %}
+<article>
+  <h1><a class="title" href="{{ post.url }}">{{ post.title }}</a> {% if post.comments %}<span class="comments">(<a href="{{ post.url }}#disqus_thread">View Comments</a>)</span>{% endif %}
+  </h1>
+  {{ post.content }}
+  <hr>
+</article>
+{% endfor %}

@@ -1,7 +1,7 @@
 ---
 title: Course Description
 layout: phil670-post
-section: home
+section: main
 ---
 
 The aim of this course is to explore various philosophical issues concerning God and his relation to the temporal world. These issues are of interest for many reasons:

@@ -11,4 +11,3 @@ pandoc-ruby:
     number-sections : false
     toc             : false
     from            : markdown
-    

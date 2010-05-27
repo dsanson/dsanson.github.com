@@ -6,8 +6,11 @@ section: main
 
 TBA.
 
-Probably one of:
+Probably
 
 +   Bergmann, Moor, and Nelson, *The Logic Book*, 5th edition. McGraw-Hill, 2008.
+
+But maybe, just maybe,
+
 +   Magnus, P.D., *Forall x: An Introduction to Formal Logic*. <http://www.fecundity.com/logic/index.html>.
 

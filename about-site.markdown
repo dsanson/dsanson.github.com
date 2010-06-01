@@ -30,7 +30,7 @@ Here is one important exception:
 
 ## Other software I use and recommend ##
 
-* [Quicksilver](http://code.google.com/p/blacktree-alchemy/) (an OSX application launcher and much more)
+* [Quicksilver](http://github.com/tiennou/blacktree-alchemy) (an OSX application launcher and much more)
 * [TextMate](http://macromates.com/) (a powerful text editor)
 * [Scrivener](http://www.literatureandlatte.com/scrivener.html) ("a project management tool [...] for writers")
 * [Pandoc](http://johnmacfarlane.net/pandoc/) (generates HTML, LaTeX, RTF, PDF, and ODT documents from [markdown](http://daringfireball.net/projects/markdown/) documents)

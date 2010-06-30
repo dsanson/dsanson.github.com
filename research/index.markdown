@@ -6,13 +6,13 @@ section: research
 
 # Work in Progress
 
--   "[The Once Present and the Now Past](/home/research/oncepresent.pdf)"
+-   "[The Once Present and the Now Past](/home/research/OncePresent.pdf)"
 
     -   An argument that tensers must make reference to past facts which, by their own lights, are no longer real.
 
 # Papers
 
--   "[The Way Things Were](http://people.cohums.ohio-state.edu/caplan16/the_way_things_were.pdf)" (with [Ben Caplan](http://people.cohums.ohio-state.edu/caplan16/)), *Philosophy and Phenomenological Research* (81.1) 2010: 24-39.
+-   "[The Way Things Were](/home/research/WayThingsWere.pdf)" (with [Ben Caplan](http://people.cohums.ohio-state.edu/caplan16/)), *Philosophy and Phenomenological Research* (81.1) 2010: 24-39.
     
     -   An argument against the explanatory relevance of presently existing truthmakers for propositions about the past.
 

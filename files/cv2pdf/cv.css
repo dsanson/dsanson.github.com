@@ -1,0 +1,19 @@
+ul {
+    list-style-type: none;
+    padding-left: 0;
+    margin-left: 1em;
+}
+.title, .subtitle {
+	text-align: center;
+}
+
+h1, h2, h3 {
+	font-variant: small-caps;
+	font-size: 14pt;
+}
+
+@page { 
+    @bottom { 
+        content: counter(page);
+    }
+}

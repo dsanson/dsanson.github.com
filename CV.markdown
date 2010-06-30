@@ -107,6 +107,7 @@ Columbus, Ohio 43210
 ## Departmental Service
 
 -   Colloquium Committee, 2005-present
+-   Salary Commitee, 2009-10
 -	Hiring Committee, 2008-09
 -	Undergraduate Committee, 2008-09, 2005-06
 -	Bingham Committee, 2008-09

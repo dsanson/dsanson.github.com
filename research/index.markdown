@@ -12,12 +12,11 @@ section: research
 
 # Papers
 
--   "[The Way Things Were](http://people.cohums.ohio-state.edu/caplan16/the_way_things_were.pdf)" (with [Ben Caplan](http://people.cohums.ohio-state.edu/caplan16/)), forthcoming in
-    *Philosophy and Phenomenological Research*.
+-   "[The Way Things Were](http://people.cohums.ohio-state.edu/caplan16/the_way_things_were.pdf)" (with [Ben Caplan](http://people.cohums.ohio-state.edu/caplan16/)), *Philosophy and Phenomenological Research* (81.1) 2010: 24-39.
     
     -   An argument against the explanatory relevance of presently existing truthmakers for propositions about the past.
 
--   "[The Early Arabic Liar](/home/research/ArabicLiar.pdf)" (with [Ahmed Alwishah](http://www.pitzer.edu/academics/faculty/alwishah/index.asp)), *Vivarium* (47:1) 2009, 97-127.
+-   "[The Early Arabic Liar](/home/research/ArabicLiar.pdf)" (with [Ahmed Alwishah](http://www.pitzer.edu/academics/faculty/alwishah/index.asp)), *Vivarium* (47:1) 2009: 97-127.
 
     -   An analysis of the earliest discussions of the Liar Paradox in
         the Medieval Arabic tradition, including the earliest known text in

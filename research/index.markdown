@@ -4,6 +4,12 @@ title: Research
 section: research
 ---
 
+# Work in Progress
+
+-   "[The Once Present and the Now Past](/home/research/oncepresent.pdf)"
+
+    -   An argument that tensers must make reference to past facts which, by their own lights, are no longer real.
+
 # Papers
 
 -   "[The Way Things Were](http://people.cohums.ohio-state.edu/caplan16/the_way_things_were.pdf)" (with [Ben Caplan](http://people.cohums.ohio-state.edu/caplan16/)), forthcoming in

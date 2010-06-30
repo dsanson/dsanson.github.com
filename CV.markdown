@@ -41,8 +41,8 @@ Columbus, Ohio 43210
 
 ## Publications
 
--   "The Way Things Were," with Ben Caplan, *Philosophy and Phenomenological Research* (forthcoming).
--   "The Early Arabic Liar," with Ahmed Alwishah, *Vivarium* (47:1) 2009, 97-127.
+-   "The Way Things Were," with Ben Caplan, *Philosophy and Phenomenological Research* (81.1) 2010: 24–39.
+-   "The Early Arabic Liar," with Ahmed Alwishah, *Vivarium* (47:1) 2009: 97-127.
 
 ## Presentations
 
@@ -75,12 +75,12 @@ Columbus, Ohio 43210
 
 ## Teaching
 
-
++   Philosophy 863: Graduate Seminar on Tense and Passage (Winter 2010)
 +	Philosophy 863: Graduate Seminar on Nonexistents (Fall 2007)
 +	Philosophy 863: Graduate Seminar on Time and Change (Spring 2006)
 +	Philosophy 700: First Year Proseminar (Fall 2008)
 +	Philosophy 663: Advanced Metaphysics (Winter 2009)
--   Philosophy 463: Introduction to Metaphysics (Winter 2007)
+-   Philosophy 463: Introduction to Metaphysics (Winter 2010, Winter 2007)
 -   Philosophy 302: Introduction to Medieval Philosophy (Fall 2008, Fall 2007, Spring 2007,
     Winter 2006)
 -   Philosophy 301: Introduction to Ancient Philosophy (Fall 2009, Winter 2009, Winter 2008, Winter 2007)

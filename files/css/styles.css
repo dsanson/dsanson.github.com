@@ -4,7 +4,8 @@ html {
 
 body {
      font-family: Optima, 'Gill Sans', 'Lucida Sans', 'Lucida Grande', Corbel, Verdana, sans-serif;
-     background: #336699;
+     text-rendering: optimizeLegibility;
+	 background: #336699;
      background: -moz-radial-gradient(45px 45px 45deg, 
         circle cover, #77AAFF 0%, #336699 100%, #556677 95%);
      background: -webkit-gradient(radial, 45 45, 10, 

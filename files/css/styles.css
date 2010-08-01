@@ -354,6 +354,19 @@ ul ul {
 	list-style-type: none;
 }
 
+dt {
+	font-weight: bold;
+	float: left;
+	padding-right: 1em;
+}
+
+dt:after {
+	content: ".";
+}
+
+dd {
+}
+
 hr {
     display: none;
 }

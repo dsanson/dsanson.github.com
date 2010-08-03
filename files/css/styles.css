@@ -318,7 +318,7 @@ img.gravatar {
 	-moz-transform: rotate(-2deg);
 }
 
-#pdf-link {
+.pdflink {
         float:right;
         font-size:small;
 }

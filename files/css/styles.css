@@ -5,11 +5,12 @@ html {
 body {
      font-family: Optima, 'Gill Sans', 'Lucida Sans', 'Lucida Grande', Corbel, Verdana, sans-serif;
      text-rendering: optimizeLegibility;
-	 background: #336699;
-     background: -moz-radial-gradient(45px 45px 45deg, 
-        circle cover, #77AAFF 0%, #336699 100%, #556677 95%);
-     background: -webkit-gradient(radial, 45 45, 10, 
-        70% 80%, 3000, from(#77AAFF), color-stop(50%,#336699), to(#556677));
+	 background: #3d3d3d;
+/* 	 background: -moz-radial-gradient(45px 45px 45deg, 
+	        circle cover, #aaaaaa 0%, #3d3d3d 100%, #2d2d2d 95%);
+	 background: -webkit-gradient(radial, 45 45, 10, 
+	        70% 80%, 3000, from(#aaaaaa), color-stop(50%,#3d3d3d), to(#2d2d2d));
+*/
 }
 
 #content {
@@ -19,19 +20,18 @@ body {
     padding: 1em;
     text-align: left;
     background: white;
-    -moz-border-radius: 20px;
-	-webkit-border-radius: 20px;
-	border-radius: 20px;
-	-webkit-box-shadow: 10px 10px 8px #2B3856;
-	-moz-box-shadow: #2B3856 10px 10px 8px;
+	-webkit-border-top-right-radius: 30px;
+	-moz-border-radius-topright: 30px;
+	border-top-right-radius: 30px;
 }
 
 header {
     display: block;
     border-bottom: thin solid #98AFC7;
     margin-bottom: 2em;
-	background: -webkit-gradient(linear, left bottom, left top, from(#eee), color-stop(0.3, #fff), to(#fff));
-	background: -moz-linear-gradient(bottom, #eee, #fff 30%);
+    margin-top: 10px;
+	background: -webkit-gradient(linear, left bottom, left top, from(#eee), color-stop(0.3, #fff), to(#ffffff));
+	background: -moz-linear-gradient(bottom, #eee, rgba(255,255,255,0) 30%);
 	margin-left: -1em;
 	padding-left: 1em;
 	margin-right: -1em;
@@ -55,6 +55,10 @@ a {
 }
 a:hover{
 	text-decoration: underline;
+}
+
+a:link {
+	color: #3333BB;
 }
 
 #blog-title {

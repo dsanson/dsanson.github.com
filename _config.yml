@@ -8,7 +8,7 @@ markdown    : rdiscount
 markdowns   : pandoc-ruby, rdiscount, maruku
 exclude     : ['README.markdown', 'scripts']
 url         : http://davidsanson.com
-pandoc-ruby:
+pandoc-ruby :
     number-sections : false
     toc             : false
     from            : markdown

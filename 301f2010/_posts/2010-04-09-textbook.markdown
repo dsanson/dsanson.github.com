@@ -4,6 +4,7 @@ layout: phil301-post
 section: main
 ---
 
+
 The required texts for the course are 
 
 [<img style="float:right" src="/files/img/pps.jpg">](http://books.google.com/books?id=njPV7OzivLEC&lpg=PP1&ots=QaYr6R7h7t&dq=Philosophy%20before%20Socrates%3A%20An%20Introduction%20with%20Texts%20and%20Commentary&pg=PP1#v=onepage&q&f=false)

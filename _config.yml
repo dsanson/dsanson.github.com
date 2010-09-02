@@ -5,7 +5,7 @@ lsi         : false
 pygments    : false
 permalink   : none
 markdown    : rdiscount
-markdowns   : pandoc-ruby, rdiscount, maruku
+markdowns   : rdiscount, pandoc-ruby, maruku
 exclude     : ['README.markdown', 'scripts']
 url         : http://davidsanson.com
 pandoc-ruby :

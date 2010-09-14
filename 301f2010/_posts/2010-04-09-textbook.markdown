@@ -1,7 +1,8 @@
 ---
-title: Texts
+title: 
 layout: phil301-post
 section: main
+published: false
 ---
 
 

@@ -25,7 +25,7 @@ When emailing about a course, please include your full name in the body of your 
 
 -	Fall 2009
 	-   [Honors Introduction to Philosophy (H101)](/101f2009)
-	-   [Ancient Philosophy (301)](http://davidsanson.com/phil301f2009)
+	-   [Ancient Philosophy (301)](/301f2009)
 
 -	Winter 2009
 	-   [Ancient Philosophy (301)](http://phil301w2009.wordpress.com)

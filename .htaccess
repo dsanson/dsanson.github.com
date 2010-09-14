@@ -2,8 +2,9 @@ Redirect 301 /home/me.html /about-me
 Redirect 301 /home/gizmos.html /gizmos
 Redirect 301 /home /
 Redirect 301 /404.html /404.shtml
+Redirect 301 /410.html /410.shtml
 
-Redirect gone /phil301w2009.*
+Redirect gone /phil301w2009
 
 Redirect 301 /philosophy301 /301
 Redirect 301 /philosophyh101 /101
@@ -21,6 +22,7 @@ Redirect 301 /670 /670f2010/
 Redirect 301 /301 /301f2010/
 
 ErrorDocument 404 /404.shtml
+ErrorDocument 410 /410.shtml
 
 Options -Indexes +FollowSymLinks +IncludesNOEXEC
 

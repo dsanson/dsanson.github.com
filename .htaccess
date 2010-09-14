@@ -1,0 +1,31 @@
+Redirect 301 /home/me.html /about-me
+Redirect 301 /home/gizmos.html /gizmos
+Redirect 301 /home /
+Redirect 301 /404.html /404.shtml
+
+Redirect gone /phil301w2009.*
+
+Redirect 301 /philosophy301 /301
+Redirect 301 /philosophyh101 /101
+Redirect 301 /philosophy101 /101
+Redirect 301 /phil463 /463
+Redirect 301 /philosophy463 /463
+Redirect 301 /phil863 /863
+Redirect 301 /philosophy863 /863
+Redirect 301 /phil670 /670
+Redirect 301 /philosophy670 /670
+Redirect 301 /101 /101f2009/
+Redirect 301 /863 /863w2010/
+Redirect 301 /463 /463w2010/
+Redirect 301 /670 /670f2010/
+Redirect 301 /301 /301f2010/
+
+ErrorDocument 404 /404.shtml
+
+Options -Indexes +FollowSymLinks +IncludesNOEXEC
+
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.html -f
+RewriteRule ^(.*)$ $1.html

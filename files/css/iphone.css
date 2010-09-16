@@ -54,6 +54,7 @@ nav li a {
 }
 
 nav li.left {
+	display: none;
 	float: inherit;
 	text-align: left;
 	padding-left: inherit;
@@ -74,8 +75,9 @@ body.readings li.readings a,
 body.assignments li.assignments a,
 body.syllabus li.syllabus a
 { 
-	background-color: #eeeeee !important;
+	background-color: #ffffff !important;
 	color: black;
+	font-weight: bold;
 }
 
 a {

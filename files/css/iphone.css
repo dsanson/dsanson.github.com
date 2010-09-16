@@ -4,6 +4,8 @@ min-height:none;
 
 body {
      font-family: Helvetica, Verdana, sans-serif;
+	 margin: 0px !important;
+	 margin-top: -1px !important;
 }
 
 #content {

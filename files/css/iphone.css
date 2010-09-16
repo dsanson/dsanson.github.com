@@ -21,7 +21,6 @@ body {
 }
 
 header {
-	display: block;
     margin: 0em;
 	padding: 0px;
 	background: white;
@@ -47,17 +46,18 @@ header h1 a {
 
 
 nav {
-    display: block;
+    display: inline;
     text-align: left;
-	margin: 0px !important;
-	font-size: 10px !important;
+	margin-right: 20px;
+	font-size: 10px;
 	padding: 0px;
+	float:left;
 }
 
 nav li {
 	padding: 0em;
 	border: none !important;
-	display: block !important;
+	display: inline !important;
 	margin: 0em !important;
 }
 nav li a {
@@ -68,7 +68,6 @@ nav li a {
     padding-right: 10px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	width: 75%;
     list-style-type: none;
 	border: 1px solid #98AFC7;
 	font-weight: bold;
@@ -95,12 +94,10 @@ nav li.left {
 }
 
 nav ul {
-	display: block !important;
 	-webkit-padding-start: 0em;
 	padding-left: 0px;
     padding-right: 0px;
-	margin: 0em 0em 0px 0em !important;
-	margin-right: 0px;
+	margin: 0px !important;
 }
 
 body.home li.home a,

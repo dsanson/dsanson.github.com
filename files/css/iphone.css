@@ -22,16 +22,21 @@ header {
 	background: none;
 }
 
+header h1 {
+	font-size: 17px !important;
+}
+
 nav {
     display: block;
-    text-align: left;
-    font-size: small;
+	text-align: left;
+    font-size: 12px;
     margin: 0em;
     padding: 0em;
 }
 
 nav ul {
     margin-left: 0em;
+	padding-left: 0em;
 }
 
 nav li {
@@ -39,10 +44,11 @@ nav li {
 	margin-left: 1px;
 	margin-right: 1px;
     padding: 0px;
+	text-align: left;
 }
 
 nav li a {
-	padding: 5px;
+	padding: 5px 5px 0px 0px;
 }
 
 nav li.left {

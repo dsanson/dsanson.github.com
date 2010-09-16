@@ -7,11 +7,13 @@ section: courses
 
 When emailing about a course, please include your full name in the body of your email and the course number (e.g., "463") in the subject line. 
 
-## Future
+## Present
 
 -	Fall 2010
 	-   [Ancient Philosophy (301)](/301f2010), TR 12:30PM - 2:18PM
 	-   [Topics in Philosophy of Religion (670)](/670f2010), TR 10:30AM - 12:18PM
+
+## Future
 
 +	Spring 2011
 	+	[Symbolic Logic (250)](/250s2011)

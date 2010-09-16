@@ -7,12 +7,17 @@ section: about
 
 <img class="gravatar" src="http://www.gravatar.com/avatar.php?gravatar_id=f5c32764cbb1669dd68cb9130ee9fe86" alt=""/>
 
-I am an assistant professor of philosophy at the Ohio State University. I work primarily in [contemporary metaphysics](http://plato.stanford.edu/entries/metaphysics/ "metaphysics"). A lot of my research focuses on trying to make sense of the commitments of a tensed or A-theoretic theory of time, and the associated view, called *Presentism*, that only the present is real. I have allied interests in the philosophy of language, the philosophy of action, and medieval philosophy, and I've done some work on the history of the Liar Paradox in the medieval Arabic tradition.
+I am an assistant professor of philosophy at the Ohio State University. 
 
+I'm primarily a metaphysician, but I dabble in history on the side.
 
-When not working, I am probably playing with [my daughter](http://flickr.com/photos/davsans/tags/hazel/), working in the garden, or watching TV. If I were the person I'd like to be, I'd be [collecting wild mushrooms](http://morelmushroomhunting.com/morelfinds.html) and guerilla camping from my [East German folding kayak](http://www.poucher-boote.de/index.php?rz85).
+A chunk of my current research focuses on the unreal: the past and future, the merely possible, the fictional. A related chunk of my current research focuses on temporal instability (change) and modal instability (contingency). 
 
-You can ~~stalk~~ find me on [Flickr](http://www.flickr.com/photos/davsans/) and [Facebook](http://www.facebook.com/people/David_Sanson/12455093) and [Twitter](http://twitter.com/davsans22) and [Github](http://github.com/dsanson).
+I've also done some work on the history of the Liar Paradox.
+
+When not working, I am probably playing with [my daughter](http://flickr.com/photos/davsans/tags/hazel/), working in the garden, or watching TV. If I were the person I'd like to be, I'd instead be [collecting wild mushrooms](http://morelmushroomhunting.com/morelfinds.html) and guerilla camping from my [East German folding kayak](http://www.poucher-boote.de/index.php?rz85).
+
+You can ~~stalk~~ find me on [Flickr](http://www.flickr.com/photos/davsans/) and [Facebook](http://www.facebook.com/people/David_Sanson/12455093) and [Academia.edu](http://osu.academia.edu/DavidSanson/) and [Twitter](http://twitter.com/davsans22) and [Github](http://github.com/dsanson). 
 
 You can also read more [about this site](/about-site) or check out the [source](http://github.com/dsanson/dsanson.github.com) on github.
 

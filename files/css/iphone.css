@@ -75,7 +75,6 @@ body.readings li.readings a,
 body.assignments li.assignments a,
 body.syllabus li.syllabus a
 { 
-	background-color: #ffffff !important;
 	color: black;
 	font-weight: bold;
 }

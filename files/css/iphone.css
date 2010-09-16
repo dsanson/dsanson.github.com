@@ -24,40 +24,39 @@ header {
 	display: block;
     margin: 0em;
 	padding: 0px;
-	background-color: #ddd !important;
-    background: -webkit-gradient(linear, left bottom, left top, from(#eee), color-stop(1, #eeeeee), to(#fff));
+	background: white;
+	border: none;
 }
 
 header h1 a {
     background-color: #ccc;
     border-bottom: 1px solid #666;
     color: #222;
+    text-align: center;
     display: block;
     font-size: 20px !important;
     font-weight: bold !important;
     padding: 10px 0;
-	height: 28px;
-    text-align: left;
-	padding-left: 1em;
+	height: 24px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	padding-left: 0px;
     text-decoration: none;
 	text-shadow: 0px 1px 0px #fff;
     background-image: -webkit-gradient(linear, left top, left bottom, 
                                        from(#ccc), to(#999));
 }
 
-#blog-title {
-    text-align: center;
-    display: block;
-}
 
 nav {
     display: block;
     text-align: center;
     padding-top: 0px;
-	padding-bottom: em !important;
-	margin-right: 17px;
-	margin-left: 17px;
-	font-size: 17px !important;
+	padding-bottom: 0em !important;
+	margin-right: 5px;
+	margin-left: 5px;
+	margin-bottom: 0px;
+	font-size: 10px !important;
 	padding: 0em 1em 0em 1em;
 }
 
@@ -70,15 +69,14 @@ nav li {
 nav li a {
     display: block !important;
 	background: white !important;
-    text-align: left;	
+    text-align: center;	
     padding-left: 10px;
     padding-right: 10px;
-	padding-top: .5em;
-	padding-bottom: .5em;
+	padding-top: 2px;
+	padding-bottom: 2px;
     width: auto;
     list-style-type: none;
 	border: 1px solid #98AFC7;
-	border-top: none;
 	font-weight: bold;
 }
 
@@ -86,8 +84,8 @@ nav li:first-child a {
 	border-top: none;
 }
 nav li:last-child a {
-    -webkit-border-bottom-left-radius: 8px;
-    -webkit-border-bottom-right-radius: 8px;
+    -webkit-border-bottom-left-radius: 3px;
+    -webkit-border-bottom-right-radius: 3px;
 }
 
 nav li a:hover {
@@ -106,10 +104,10 @@ nav li.left {
 nav ul {
 	display: block !important;
 	-webkit-padding-start: 0em;
-	padding-left: 10px;
-    padding-right: 10px;
-	margin: 0em 0em 17px 0em !important;
-	margin-right: 17px;
+	padding-left: 0px;
+    padding-right: 0px;
+	margin: 0em 0em 0px 0em !important;
+	margin-right: 0px;
 }
 
 nav li.left:after {
@@ -145,73 +143,12 @@ img.shadowed {
     width: 100%
 }
 
-/* #menuButton {
-	display: block;
-	position: absolute;
-    top: 7px;
-    right: 10px;
-    height: 30px;
-    font-weight: bold;
-	font-size: 12px;
-	text-overflow: ellipsis;
-	white-space: nowrap;
-	width: 80px;
-    text-align: center;
-    color: white;
-    text-shadow: rgba(0,0,0,0.6) 0px -1px 0px;
-    line-height: 28px;
-	text-shadow: 0px 1px 0px #000;
-}
-
-#buttonBackground {
-	position: absolute;
-	top: 0px;
-	left: 0px;
-	right: 0px;
-	bottom: 0px;
-	border-right-width: 15px;
-	border-bottom-width: 0px;
-	border-left-width: 15px;
-	-webkit-border-image: url('/files/img/button.png') 0 15 0 15 repeat stretch;
-}
-
-#buttonBackground.pressed {
-	-webkit-border-image: url('/files/img/button_clicked.png') 0 15 0 15 repeat stretch;
-}
-*/
-
 #menuButton {
-	display: block;
+	display: hidden;
 	background: white;
 	padding: 5px;
 	padding-right: 10px;
 	font-size: 12px;
-}
-
-nav li.hide {
-	display: none !important;
-}
-
-nav li:first-child {
-	-webkit-border-bottom-right-radius: 8px;
-	-webkit-border-bottom-left-radius: 8px;
-	border: 1px solid #98AFC7 !important;
-	
-	}
-
-nav li:first-child.hide {
-	display: block !important;
-	-webkit-border-radius: 0px;
-}
-
-
-
-nav li:first-child:before {
-	content: "Display ";
-}
-
-nav li:first-child.hide:before {
-	content: "Hide ";
 }
 
 

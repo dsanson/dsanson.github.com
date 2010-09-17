@@ -13,4 +13,4 @@ follow the links from
 [the page that lists every course I have taught](/courses) 
 to old course webpages.
 
-And a silly flyer is [here](/301f2010/301flyer.pdf).
+~~And a silly flyer is [here](/301f2010/301flyer.pdf)~~.

@@ -30,4 +30,4 @@ On the flip side, we will discuss some of the following topics
 
 Readings will be drawn from both contemporary and medieval sources. Expect to read some Aquinas, Scotus, Ockham, some Molina; and some Kretzmann, Stump, Dummett, Geach, Freddoso, Lewis, and Brower.
 
-For a silly flyer, see [this](/670f2010/670flyer.pdf).
+~~For a silly flyer, see [this](/670f2010/670flyer.pdf).~~

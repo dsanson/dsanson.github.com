@@ -409,3 +409,15 @@ span.comments {
 -moz-box-shadow: #CCC 10px 10px 8px;
 }
 
+.old-post {
+	display: none;
+}
+
+#expand-switch, #collapse-switch {
+	margin: 0px;
+	padding: 0px;
+	font-size: x-small;
+}
+#collapse-switch {
+	display: none;
+}

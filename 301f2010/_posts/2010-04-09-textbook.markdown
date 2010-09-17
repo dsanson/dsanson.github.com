@@ -2,9 +2,8 @@
 title: 
 layout: phil301-post
 section: main
-published: false
+published: true
 ---
-
 
 The required texts for the course are 
 

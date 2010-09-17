@@ -45,7 +45,7 @@ I will not let you take the final exam on a different day in order to accomodate
 
 ## Academic Misconduct  ##
 
-You are encouraged to discuss the course material with your peers--philosophical conversation is one of the best ways to get better at doing philosophy. But your papers must be your own work, and **all sources must be cited**. I will report offenders to the committee on academic misconduct. Academic misconduct can take on many forms: if you are confused, or need more guidance on this issue, ask. If you have not already, take a look at <http://oaa.osu.edu/coam/faq>
+You are encouraged to discuss the course material with your peers--philosophical conversation is one of the best ways to get better at doing philosophy. But **your papers must be your own work**, and **all sources must be cited**. I will report offenders to the committee on academic misconduct. Academic misconduct can take on many forms, and you are responsible for understanding it: if you are confused, or need more guidance on this issue, ask. If you have not already, take a look at <http://oaa.osu.edu/coam/faq>
 
 ## Disabilities ##
 

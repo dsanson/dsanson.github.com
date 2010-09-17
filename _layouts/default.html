@@ -42,7 +42,14 @@
             $('#expand-switch').toggle();
             $('#collapse-switch').toggle();
         }
+        $(document).ready( function () {
+            if ('.old-post') {
+                $('#postindex').append('<li><a href="javascript:menutoggle();" id="expand-switch">↓Show all↓</a><a href="javascript:menutoggle();" id="collapse-switch">↑Show recent↑</a></li>')
+            }
+        });
+        
     </script>
+
 
     <script type="text/javascript">
     	var disqus_iframe_css = "/files/css/styles.css"

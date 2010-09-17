@@ -10,12 +10,9 @@ feed: atom.xml
 
 <ul>
 {% for post in site.categories.670f2010 %}
-<li><span class="postdate">{{ post.date | date_to_string }}</span>: <a class="title" href="{{ post.url }}">{{ post.title }}</a> </li>
+<li {% if forloop.index > 5 %}class="old-post" {% endif %}><span class="postdate">{{ post.date | date_to_string }}</span>: <a class="title" href="{{ post.url }}">{{ post.title }}</a>  {% if post.comments %}<span class="comments">(<a href="{{ post.url }}#disqus_thread">View Comments</a>)</span>{% endif %} </li>
+
 {% endfor %}
-<li>
-    <a href="javascript:menutoggle();" id="expand-switch">↓Show all↓</a>
-    <a href="javascript:menutoggle();" id="collapse-switch">↑Show recent↑</a>
-</li>
 </ul>
 </article>
 

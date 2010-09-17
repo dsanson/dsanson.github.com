@@ -10,7 +10,7 @@ Omnipotence
 
 # Overview #
 
-+   Hoffman, Joshua, Rosenkrantz, Gary, "Omnipotence", The Stanford Encyclopedia of Philosophy (Fall 2009 Edition), Edward N. Zalta (ed.), URL = <http://plato.stanford.edu/archives/fall2009/entries/omnipotence/>.
++   Hoffman, Joshua, Rosenkrantz, Gary, "Omnipotence", The Stanford Encyclopedia of Philosophy (Fall 2009 Edition), Edward N. Zalta (ed.), URL = [http://plato.stanford.edu/archives/fall2009/entries/omnipotence/](http://plato.stanford.edu/archives/fall2009/entries/omnipotence/).
 
 # Heavy Stones #
 

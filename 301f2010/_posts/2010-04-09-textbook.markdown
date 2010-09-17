@@ -1,5 +1,5 @@
 ---
-title: 
+title: Textbooks
 layout: phil301-post
 section: main
 published: true

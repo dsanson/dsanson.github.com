@@ -6,11 +6,6 @@ body {
      font-family: Optima, 'Gill Sans', 'Lucida Sans', 'Lucida Grande', Corbel, Verdana, sans-serif;
      text-rendering: optimizeLegibility;
 	 background: #3d3d3d;
-/* 	 background: -moz-radial-gradient(45px 45px 45deg, 
-	        circle cover, #aaaaaa 0%, #3d3d3d 100%, #2d2d2d 95%);
-	 background: -webkit-gradient(radial, 45 45, 10, 
-	        70% 80%, 3000, from(#aaaaaa), color-stop(50%,#3d3d3d), to(#2d2d2d));
-*/
 }
 
 #content {
@@ -29,13 +24,16 @@ header {
     display: block;
     border-bottom: thin solid #98AFC7;
     margin-bottom: 2em;
-    margin-top: 10px;
+    margin-top: 0px;
 	background: -webkit-gradient(linear, left bottom, left top, from(#eee), color-stop(0.3, #fff), to(#ffffff));
 	background: -moz-linear-gradient(bottom, #eee, rgba(255,255,255,0) 30%);
 	margin-left: -1em;
 	padding-left: 1em;
 	margin-right: -1em;
 	padding-right: 2em;
+	-webkit-border-top-right-radius: 30px;
+	-moz-border-radius-topright: 30px;
+	border-top-right-radius: 30px;
 }
 
 header * {

@@ -21,7 +21,6 @@ header {
 	padding-left: 10px;
 	border: none;
     border-bottom: thin solid #98AFC7;
-	background: none;
 }
 
 header h1 {
@@ -43,14 +42,17 @@ nav ul {
 
 nav li {
 	border: none !important;
-	margin-left: 1px;
-	margin-right: 1px;
+	margin-left: 0px;
+	margin-right: 0px;
     padding: 0px;
 	text-align: left;
 }
 
 nav li a {
-	padding: 5px 5px 0px 0px;
+	padding: 5px 2px 0px 2px;
+	-webkit-border-bottom-radius: 5px;	
+	margin-left: -1px;
+	margin-right: -1px;
 }
 
 nav li.left {

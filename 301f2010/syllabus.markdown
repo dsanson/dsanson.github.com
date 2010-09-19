@@ -57,7 +57,7 @@ Email is the best way to reach me outside of class and office hours. However, I 
 
 Please include "301" in the subject line of your email and your full name somewhere in the body of your email.
 
-Before you dash of an email, take a moment to think about whether or not it is appropriate to do so. For example,
+Before you dash off an email, take a moment to think about whether or not it is appropriate to do so. For example,
 
 +   Don't email me to ask what happened in a class you missed (get notes from a classmate). 
 +   Do email me if you are sick or have a genuine emergency and need to miss class or have missed class.

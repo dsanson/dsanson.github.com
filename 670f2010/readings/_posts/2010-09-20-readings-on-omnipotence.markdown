@@ -5,7 +5,11 @@ section: readings
 published: true
 ---
 
-We will aim to work through this material over three weeks, spending 1 week on each chunk (not counting the overview article). Notice that there are 4 chunks, so this cannot be done. We'll see how it goes and what catches our interest, but I expect to skip the section on Omnipotence and Absolute Goodness.
+# Plan
+
+We will aim to work through this material over three weeks. That may be an impossible task. We'll see how it goes and what catches our interest.
+
+Most of the readings are short. You might wish to read through *everything* quickly to get a sense of the terrain, and then re-read each article slowly in sync with our class discussions.
 
 Some links will only work from on campus. If you are off campus, you will need to access those links via ezproxy. To do this, add ".proxy.lib.ohio-state.edu" to the domain, e.g.,
 
@@ -15,7 +19,7 @@ becomes
 
     http://www.jstor.org.proxy.lib.ohio-state.edu/stable/20009498
 
-# Overview
+# Overview (Optional)
 
 -   Hoffman, Joshua, Rosenkrantz, Gary, "[Omnipotence][]", The Stanford Encyclopedia of Philosophy (Fall 2009 Edition).
 
@@ -23,23 +27,27 @@ becomes
 
 -   Mavrodes, G. I. (1963). "[Some puzzles concerning omnipotence][]". Philosophical Review, 72(2):221–223.
 -   Frankfurt (1964), "[The Logic of Omnipotence][]." *The Philosophical Review*, 73(2):262-263.
--   Plantinga (1967), Selection from his *God and Other Minds*.
+-   Plantinga (1967), [pp. 168--173](http://people.cohums.ohio-state.edu/sanson7/courses/local/plantinga1967a.pdf) from his *God and Other Minds*.
 -   Swinburne, R. (1973). "[Omnipotence][1]." *American Philosophical Quarterly*, 10(3):231–237.
+
+# Omnipotence and Impeccability
+
+-   Pike, N. (1969). "[Omnipotence and God’s ability to sin][]". *American Philosophical Quarterly*, 6(3):208–216.
+-   Adams, R. M. (1972). "[Must God create the best?][]" *Philosophical Review*, 81(3):317–332.
+
+# Against Omnipotence
+
+-   Geach, P. T. (1973). "[Omnipotence][2]." *Philosophy*, 48(183):7–20. Reprinted as Chapter 1 of his *Providence and Evil*. Cambridge
+University Press, Cambridge, 1977.
 
 # Omnipotence and Time
 
 -   Damain, P. [Selections from his "Letter on Divine Omniscience"][]
 -   Rosenkrantz, G. and Hoffman, J. (1980). "[What an omnipotent agent can do][]". *International Journal for Philosophy of Religion*, 11(1):1–19.
--   Flint, T.P. and Freddoso, A.J. (1983). "Maximal power". In *The Existence and Nature of God*, pages 81–113. University of Notre Dame Press.
+-   Flint, T.P. and Freddoso, A.J. (1983). "[Maximal power](http://people.cohums.ohio-state.edu/sanson7/courses/local/flint1983a.pdf)". In *The Existence and Nature of God*, pages 81–113. University of Notre Dame Press. Also available in [HTML](http://www.nd.edu/~afreddos/papers/mp.htm) from Freddoso's website.
 
-# Omnipotence and Absolute Goodness
+# Absolute Omnipotence
 
--   Pike, N. (1969). "[Omnipotence and God’s ability to sin][]". *American Philosophical Quarterly*, 6(3):208–216.
--   Adams, R. M. (1972). "[Must God create the best?][]" *Philosophical Review*, 81(3):317–332.
-
-# Radical Moves: Giving up Omnipotence and Absolute Omnipotence
-
--   Geach, P. T. (1973). "[Omnipotence][2]." *Philosophy*, 48(183):7–20.
 -   Conee, E. (1991). "[The possibility of power beyond possibility][]." *Philosophical Perspectives*, 5:447–473.
 
   [Omnipotence]: http://plato.stanford.edu/archives/fall2009/entries/omnipotence/

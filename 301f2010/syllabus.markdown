@@ -2,23 +2,20 @@
 title: Syllabus
 layout: phil301
 section: syllabus
-
 ---
-
-**DRAFT**
 
 ## Philosophy 301: Ancient Philosophy ##
 
-Fall 2010, Caldwell Lab 0120, TuTh 12:30–2:18.
+Fall 2010, [Caldwell Lab 0120](http://www.osu.edu/map/building.php?building=026), TuTh 12:30–2:18.
 
 Professor
-:	David Sanson, 372 University Hall, Office hours: *TBA* or by appointment, sanson.7@osu.edu
+:	David Sanson, 372 University Hall, Office hours: Tues *TBA* or by appointment, sanson.7@osu.edu
 
 Teaching Assistant
-:	Lindsay Mouchet, 214 University Hall, Office hours: *TBA* or by appointment, *email*
+:	Lindsay Mouchet, 214 University Hall, Office hours: *TBA* or by appointment, mouchet.2@osu.edu
 
 Course Webpage
-:	[http://davidsanson.com/301](http://davidsanson.com/301)
+:	[http://www.davidsanson.com/301](http://www.davidsanson.com/301)
 
 ## Course Description ##
 
@@ -27,7 +24,7 @@ An introduction to Ancient Greek Philosophy, from its traditional beginning in 5
 ## Required Texts ##
 
 + McKirahan, R. D. (1994) *Philosophy before Socrates: An Introduction with Texts and Commentary*. Indianapolis: Hackett. ISBN: 9780872201750
-+ S. Marc Cohen, Patricia Curd, and C.D.C Reeve (eds.), *Readings in Ancient Greek Philosophy: From Thales to Aristotle.* Third Edition. Indianapolis: *Hackett Publishing, 2005. ISBN: 9780872207691
++ S. Marc Cohen, Patricia Curd, and C.D.C Reeve (eds.) (2005) *Readings in Ancient Greek Philosophy: From Thales to Aristotle.* Third Edition. Indianapolis: *Hackett. ISBN: 9780872207691
 
 If buying a used copy of *Readings in Ancient Greek Philosophy*, be certain to buy the 3rd edition.
 
@@ -41,7 +38,7 @@ If buying a used copy of *Readings in Ancient Greek Philosophy*, be certain to b
     +   An in-class midterm exam, worth 20% of your grade, on Tuesday, October 26th
     +   A final exam, worth 30% of your grade, on December 8th, from 11:30am--1:18pm, in our ordinary lecture hall.
 
-I will not let you take the final exam on a different day in order to accomodate your exciting winter break travel plans. Don't ask. Don't let your parent ask.
+I will not let you take the final exam on a different day in order to accomodate your exciting winter break travel plans. Don't ask. Don't let your parents ask.
 
 ## Academic Misconduct  ##
 

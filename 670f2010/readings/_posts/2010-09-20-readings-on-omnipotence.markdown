@@ -37,7 +37,7 @@ becomes
 
 # Against Omnipotence
 
--   Geach, P. T. (1973). "[Omnipotence][2]." *Philosophy*, 48(183):7–20. Reprinted as Chapter 1 of his *Providence and Evil*. Cambridge
+-   Geach, P. T. (1973). "[Omnipotence][2]." *Philosophy*, 48(183):7–20. Reprinted as [Chapter 1](http://people.cohums.ohio-state.edu/sanson7/courses/local/geach1977c.pdf) of his *Providence and Evil*. Cambridge
 University Press, Cambridge, 1977.
 
 # Omnipotence and Time

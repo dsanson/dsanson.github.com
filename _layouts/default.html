@@ -36,18 +36,8 @@
     <script type="text/javascript" src="http://code.jquery.com/jquery-1.4.2.min.js">
     </script>
     
-    <script type ="text/javascript">
-        function menutoggle() {
-            $('.old-post').toggle();
-            $('#expand-switch').toggle();
-            $('#collapse-switch').toggle();
-        }
-        $(document).ready( function () {
-            if ('.old-post') {
-                $('#postindex').append('<li><a href="javascript:menutoggle();" id="expand-switch">↓Show all↓</a><a href="javascript:menutoggle();" id="collapse-switch">↑Show recent↑</a></li>')
-            }
-        });
-        
+    <!--various functions for collapsing menus, proxifying links, etc-->
+    <script type ="text/javascript" src="/files/js/functions.js">
     </script>
 
 

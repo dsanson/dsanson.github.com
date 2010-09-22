@@ -27,6 +27,8 @@ you will need to access those links via the library's [EZProxy server](http://li
 
 # Omnipotence and Impossible Tasks
 
+-   Aquinas, *Summa Theologica* Part I, Q. 25, Art. 3: "[Whether God is Omnipotent](http://www.newadvent.org/summa/1025.htm#article3)"
+
 -   Mavrodes, G. I. (1963).
     "[Some puzzles concerning omnipotence][]". Philosophical Review,
     72(2):221–223.
@@ -39,6 +41,7 @@ you will need to access those links via the library's [EZProxy server](http://li
 
 # Omnipotence and Impeccability
 
+-   Aquinas, *Summa Theologica*, Part I, Q. 25, Art. 6: [Whether God can do better than what He does?](http://www.newadvent.org/summa/1025.htm#article6)
 -   Pike, N. (1969). "[Omnipotence and God’s ability to sin][]".
     *American Philosophical Quarterly*, 6(3):208–216.
 -   Adams, R. M. (1972). "[Must God create the best?][]"
@@ -55,6 +58,7 @@ you will need to access those links via the library's [EZProxy server](http://li
 
 -   Damain, P.
     [Selections from his "Letter on Divine Omniscience"][]
+-   Aquinas, *Summa Theologica*, Part I, Q. 25, Art 4: "[Whether God can make the past not to have been?](http://www.newadvent.org/summa/1025.htm#article4)"
 -   Rosenkrantz, G. and Hoffman, J. (1980).
     "[What an omnipotent agent can do][]".
     *International Journal for Philosophy of Religion*, 11(1):1–19.

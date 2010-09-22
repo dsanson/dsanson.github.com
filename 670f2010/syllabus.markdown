@@ -6,8 +6,6 @@ section: syllabus
 ---
 
 
-**DRAFT---ANYTHING CAN CHANGE**
-
 ## Philosophy 670: Topics in Philosophy of Religion ##
 
 Fall 2010, University Hall 0353, TuTh 10:30-12:18pm.
@@ -16,32 +14,49 @@ Professor
 :	David Sanson, 372 University Hall, Office hours: TBA or by appointment, sanson.7@osu.edu
 
 Course Webpage
-:	[http://davidsanson.com/670](http://davidsanson.com/670)
+:	[http://www.davidsanson.com/670](http://www.davidsanson.com/670)
 
 ## Course Description ##
 
-Traditional western philosophical theology tells us that God, in contrast to his creatures, is all-powerful, all-knowing, and timeless. This raises several related puzzles, for example:
+Traditional western philosophical theology tells us that God, in contrast to his creatures, is all-powerful, all-knowing, and all-good. It is often, though not invariably, added that he is simple, eternal and immutable, and impassible. These attributes raise several philosophical puzzles. We will focus on puzzles concerning omnipotence, omniscience, and eternity, with an eye to the more general question of how God---as understood by traditional philosophical theology---is related to the temporal world.
+
+Some questions we will consider that concern omnipotence:
 
 1.	Can an all-powerful God make contradictions true? 
 2.	Can an all-powerful God change the past?
-3.	Can an all-knowing God know what time it is? 
-4.	Can an all-knowing God know what a free agent will freely choose to do before she chooses to do it?
-5.   Can a timeless God be related to temporal things? (If he can, does that 
-6.	Can a timeless God be a creator of temporal things?
-7.	Can a timeless God be a lover of temporal things?
+3.  Can an all-powerful God sin?
+4.  Can an all-powerful God make it the case that I raise my hand of my own free will?
 
-In this course, we will explore some of these puzzles.
+Some questions we will consider that concern omniscience:
 
-Readings will likely be drawn from both contemporary and medieval sources. Expect to read some Aquinas, Scotus, Ockham, some Molina; and some Kretzmann, Stump, Dummett, Geach, Freddoso, Lewis, and Brower.
+1.	Can an all-knowing God know what time it is?
+2.  Can an all-knowing God know that E will happen if it is not yet settled that E will happen? If so, how?
+3.	Can an all-knowing God know what a free agent will freely choose to do before she chooses to do it?
 
+Some questions we will consider that concern eternity, immutability, and impassibility;
 
+1.  What does it mean to say that God is eternal?  
+2.  Does an eternal God undergo "Cambridge Change"?
+3.  How can an eternal God be related to his non-eternal creatures?
+  
 ## Required Texts ##
 
 Readings will be made available through the course webpage.
 
 ## Requirements ##
 
-TBA: probably a few papers.
+Two papers:
+
++   A short (3 page) paper, worth 30%, due near the middle of the term.
++   A longer (8-10 page) paper, worth 40%, due at the end of the term.
+
+Occasional homework:
+
++   2 or 3 small assignments assigned throughout the quarter, collectively worth 15%.
+
+Participation:
+
++   Regular and active participation in discussion, worth 15%.
 
 ## Academic Misconduct  ##
 

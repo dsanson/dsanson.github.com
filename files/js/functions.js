@@ -12,6 +12,7 @@ function proxify() {
 	for (var i=0; i<document.links.length; i++) {
   		document.links[i].href = document.links[i].href.replace("jstor.org", "jstor.org.proxy.lib.ohio-state.edu");
   		document.links[i].href = document.links[i].href.replace("springerlink.com", "springerlink.com.proxy.lib.ohio-state.edu");
+		document.links[i].href = document.links[i].href.replace("wiley.com", "wiley.com.proxy.lib.ohio-state.edu")
 	}
 }
 function deproxify() {

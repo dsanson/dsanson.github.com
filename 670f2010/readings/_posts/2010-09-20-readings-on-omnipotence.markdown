@@ -28,7 +28,8 @@ you will need to access those links via the library's [EZProxy server](http://li
 # Omnipotence and Impossible Tasks
 
 -   Aquinas, *Summa Theologica* Part I, Q. 25, Art. 3: "[Whether God is Omnipotent](http://www.newadvent.org/summa/1025.htm#article3)"
-
+-   Descartes, [Selections](http://people.cohums.ohio-state.edu/sanson7/courses/local/descartes1981a.pdf) from Kenny, A, trans.,
+*Descartes, philosophical letters*. Blackwell, 1981.
 -   Mavrodes, G. I. (1963).
     "[Some puzzles concerning omnipotence][]". Philosophical Review,
     72(2):221–223.

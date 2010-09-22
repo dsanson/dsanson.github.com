@@ -20,47 +20,21 @@ Course Webpage
 
 Traditional western philosophical theology tells us that God, in contrast to his creatures, is all-powerful, all-knowing, and all-good. It is often, though not invariably, added that he is simple, eternal and immutable, and impassible. These attributes raise several philosophical puzzles. We will focus on puzzles concerning omnipotence, omniscience, and eternity, with an eye to the more general question of how God---as understood by traditional philosophical theology---is related to the temporal world.
 
-Some questions we will consider that concern omnipotence:
-
-1.	Can an all-powerful God make contradictions true? 
-2.	Can an all-powerful God change the past?
-3.  Can an all-powerful God sin?
-4.  Can an all-powerful God make it the case that I raise my hand of my own free will?
-
-Some questions we will consider that concern omniscience:
-
-1.	Can an all-knowing God know what time it is?
-2.  Can an all-knowing God know that E will happen if it is not yet settled that E will happen? If so, how?
-3.	Can an all-knowing God know what a free agent will freely choose to do before she chooses to do it?
-
-Some questions we will consider that concern eternity, immutability, and impassibility;
-
-1.  What does it mean to say that God is eternal?  
-2.  Does an eternal God undergo "Cambridge Change"?
-3.  How can an eternal God be related to his non-eternal creatures?
-  
 ## Required Texts ##
 
 Readings will be made available through the course webpage.
 
 ## Requirements ##
 
-Two papers:
-
-+   A short (3 page) paper, worth 30%, due near the middle of the term.
-+   A longer (8-10 page) paper, worth 40%, due at the end of the term.
-
-Occasional homework:
-
-+   2 or 3 small assignments assigned throughout the quarter, collectively worth 15%.
-
-Participation:
-
-+   Regular and active participation in discussion, worth 15%.
++   Two papers:
+    +   A short (3 page) paper, worth 30%, due near the middle of the term.
+    +   A longer (8-10 page) paper, worth 40%, due at the end of the term.
++   One short homework assignment, worth 15%, due early in the term.
++   Regular and active participation in class discussion, worth 15%.
 
 ## Academic Misconduct  ##
 
-You are encouraged to discuss the course material with your peers--philosophical conversation is one of the best ways to get better at doing philosophy. But your papers must be your own work, and all sources must be cited. I will report offenders to the committee on academic misconduct. Academic misconduct can take on many forms: if you are confused, or need more guidance on this issue, ask. If you have not already, take a look at <http://oaa.osu.edu/coam/faq>
+You are encouraged to discuss the course material with your peers--philosophical conversation is one of the best ways to get better at doing philosophy. But your **papers and assignments must be your own work**, and **all sources must be cited**. I will report offenders to the committee on academic misconduct. Academic misconduct can take on many forms: if you are confused, or need more guidance on this issue, ask. If you have not already, take a look at <http://oaa.osu.edu/coam/faq>
 
 ## Disabilities ##
 
@@ -68,5 +42,5 @@ If you need (or may need) an accommodation based on the impact of a disability, 
 
 ## Email ##
 
-Email is the best way to reach me. However, I am not always online. Please allow me 48 hours to respond. If I have not responded in 48 hours please email me again, letting me know it is your second email (I won't take this as harassment). Please include (a) "301" in the subject line of your email and (b) your full name somewhere in the body of your email. 
+Email is the best way to reach me. However, I am not always online. Please allow me 48 hours to respond. If I have not responded in 48 hours please email me again, letting me know it is your second email (I won't take this as harassment). Please include (a) "670" in the subject line of your email and (b) your full name somewhere in the body of your email. 
 

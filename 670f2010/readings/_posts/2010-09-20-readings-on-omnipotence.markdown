@@ -16,7 +16,7 @@ Most of the readings are short. You might wish to read through
 re-read each article slowly in sync with our class discussions.
 
 Some links will only work from on campus. If you are off campus,
-you will need to access those links via ezproxy. {% include proxifybutton.html %}
+you will need to access those links via the library's [EZProxy server](http://library.osu.edu/help/help-with-tools/ezproxy). {% include proxifybutton.html %}
 
 
 

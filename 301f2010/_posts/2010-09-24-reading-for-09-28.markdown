@@ -1,5 +1,5 @@
 ---
-title: 
+title: Reading for Sep 24
 layout: phil301-post
 section: readings
 published: true

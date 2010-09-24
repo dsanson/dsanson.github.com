@@ -1,0 +1,21 @@
+---
+title: 
+layout: phil670-post
+section: readings
+published: true
+---
+
+For next Tuesday, start working through the readings in the section entitled "[Omnipotence and Impossible Tasks](/670f2010/readings/#omnipotence-and-impossible-tasks)". At a minimum, make it up through Frankfurt (1964).
+
+Here are some questions to have in mind:
+
++   Can an omnipotent being bring about the impossible (e.g., that 2 + 2 is not 4? that a man is a donkey)? If not, why not?
+    +   Are there different kinds of impossibility? How are impossibility and logical contradiction related?
+    +   Can an omnipotent being bring about some kinds of impossibility but not others?
++   What is the paradox of the stone?
+    +   Can you present it in premise-conclusion form? Are there different ways to present it? How does Mavrodes present it? Does Frankfurt present it in the same way?
+    +   Which premises can you contemplate denying?
+    +   What is the relationship between a task and an outcome?
+    +   What is the relationship between the description of a task or outcome and the task or outcome itself? Can we give different descriptions of the same task? How does that relate to the question of whether or not a task is logically impossible?
+    
+Aquinas brings up a rich set of issues. If you have time, you might like to read all of [Question 25](http://www.newadvent.org/summa/1025.htm), not just Article 3. 

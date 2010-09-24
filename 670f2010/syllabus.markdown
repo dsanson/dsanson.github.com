@@ -11,7 +11,7 @@ section: syllabus
 Fall 2010, University Hall 0353, TuTh 10:30-12:18pm.
 
 Professor
-:	David Sanson, 372 University Hall, Office hours: TBA or by appointment, sanson.7@osu.edu
+:	David Sanson, 372 University Hall, Office hours: Tue 2:30-3:30; Wed 10:30-11:30; or by appointment; sanson.7@osu.edu
 
 Course Webpage
 :	[http://www.davidsanson.com/670](http://www.davidsanson.com/670)

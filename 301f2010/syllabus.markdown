@@ -9,7 +9,7 @@ section: syllabus
 Fall 2010, [Caldwell Lab 0120](http://www.osu.edu/map/building.php?building=026), TuTh 12:30–2:18.
 
 Professor
-:	David Sanson, 372 University Hall, Office hours: Tues *TBA* or by appointment, sanson.7@osu.edu
+:	David Sanson, 372 University Hall, Office hours: Tue 2:30-3:30; Wed 10:30-11:30; or by appointment; sanson.7@osu.edu
 
 Teaching Assistant
 :	Lindsay Mouchet, 214 University Hall, Office hours: *TBA* or by appointment, mouchet.2@osu.edu

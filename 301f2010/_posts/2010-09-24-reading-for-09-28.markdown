@@ -1,0 +1,23 @@
+---
+title: 
+layout: phil301-post
+section: readings
+published: true
+---
+
+For next Tuesday, I want you to start reading through the chapters in McKirahan on the Milesians. In particular, chapters 4, 5, and 6.
+
+Here are some questions to be thinking about:
+
+# The Arche (i.e., Fundamental Material Principle of All Things)
+
++   Is it obvious that Thales, Anaximander, and Anaximenes think of the *arche* in the same way that Aristotle thinks about matter?
+    +   What are the alternative interpretations?
++   What is Anaximander's argument against Thales' claim that the *arche* is water?
++   What does it mean to say that the *arche* is *apeiron*? 
++   What is Anaximenes arguments against Anaximander's claim that the *arche* is *apeiron*?
+
+# The Earth
+
++   Anaximander does not think the Earth is supported by anything. How can he say this?
+

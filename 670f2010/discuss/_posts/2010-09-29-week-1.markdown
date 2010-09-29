@@ -1,0 +1,51 @@
+---
+title: Issues from Sep 28
+layout: phil670-post
+section: discuss
+published: true
+comments: true
+excerpt: In class on Sep 28, we considered the *Paradox of the Stone*, which I represented as follows
+---
+
+In class on Sep 28, we considered the *Paradox of the Stone*, which I represented as follows:
+
+Consider some individual G.
+
+1. 	Either G can create a stone that is too heavy for G to lift or G cannot.
+2.	If G can, then G is not omnipotent.
+3.	If G cannot, then G is not omnipotent.
+4.	Therefore, G is not omnipotent.
+
+We discussed two responses. The first involved denying (3) by claiming:
+
+A.  The relevant task is impossible.
+B.  Omnipotence does not include the power to perform impossible tasks.
+
+The second involved denying (2) by accepting (A), denying (B), and claiming:
+
+C.  Omnipotence includes the power to perform impossible tasks.
+
+Frankfurt points out that, given (A), the argument fails whether (B) is true or (C) is true. This suggests that we should think carefully about whether or not (A) is true. Note that the following does not appear to express a contradiction:
+
++   Gary creates a stone that is too heavy for Gary to lift.
+
+To get the contradiction, you need something more like:
+
++   Gary creates a stone that is too heavy for an omnipotent being to lift.
+
+Or, perhaps:
+
++   Gary creates a stone that is too heavy for *a being for whom there is no stone to heavy to lift* to lift.
+
+So I'd like to suggest that we need to think more carefully about whether or not the relevant task is impossible. This relates to the issues I was pressing at the end of class about "logical impossibility."
+
+In class, I pressed us to consider (2) more carefully, suggesting that the mere fact that G *can* create such a stone appears only to show he is *possibly* not omnipotent, not that he *is* not omnipotent. This led to a discussion of the coherence of *contingent* omnipotence, and whether an omnipotent being might have the power to make itself not omnipotent.
+
+Tomorrow, I'd like to start discussing more carefully various proposals for restricting omnipotence. (B) already involves such a restriction (though one might argue that it is not a genuine restriction, because there are no impossible tasks). But I want to look more carefully at other proposed restrictions, including:
+
++   the power to do anything possible to one's power (an option Aquinas considers and rejects)
++   A's power to do anything it is possible for A to do (an option Plantinga considers and rejects)
++   A's power to do anything it is possible for an agent of A's kind to do (an option Swinburne considers and rejects)
++   Swinburne's proposed definitions [D], [E] and [F].
+
+The discussion thread is open.

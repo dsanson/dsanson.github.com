@@ -1,0 +1,9 @@
+---
+title: Readings for Sep 30
+layout: phil670-post
+section: readings
+published: true
+---
+
+For tomorrow, finish the readings in the section titled "[Omnipotence and Impossible Tasks](/670f2010/readings/readings-on-omnipotence.html#omnipotence-and-impossible-tasks)".
+

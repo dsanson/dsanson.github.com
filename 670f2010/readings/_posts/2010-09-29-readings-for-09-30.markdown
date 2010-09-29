@@ -1,6 +1,7 @@
 ---
 title: Readings for Sep 30
 layout: phil670-post
+date: 2010-09-29 12:40:44
 section: readings
 published: true
 ---

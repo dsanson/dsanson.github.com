@@ -1,8 +1,9 @@
 ---
-title: Reading for Sep 24
+title: Reading for Sep 28
 layout: phil301-post
 section: readings
 published: true
+excerpt: For next Tuesday, I want you to start reading through the chapters in McKirahan on the Milesians. In particular, chapters 4, 5, and 6.
 ---
 
 For next Tuesday, I want you to start reading through the chapters in McKirahan on the Milesians. In particular, chapters 4, 5, and 6.

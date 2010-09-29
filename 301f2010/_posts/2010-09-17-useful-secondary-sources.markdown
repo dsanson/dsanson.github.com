@@ -3,6 +3,7 @@ title: Useful Secondary Sources
 layout: phil301-post
 section: main
 published: true
+excerpt: I want you to spend most of your time in this course struggling directly with primary sources, using class lecture and discussion to help guide your focus. But there are several online resources that you may find useful along the way. Here are a few
 ---
 
 I want you to spend most of your time in this course struggling directly with primary sources, using class lecture and discussion to help guide your focus. But there are several online resources that you may find useful along the way. Here are a few:

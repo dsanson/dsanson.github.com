@@ -3,6 +3,7 @@ title: Textbooks
 layout: phil301-post
 section: main
 published: true
+excerpt: The required texts for the course are 
 ---
 
 The required texts for the course are 

@@ -75,7 +75,8 @@ body.research li.research a,
 body.cv li.cv a,
 body.readings li.readings a,
 body.assignments li.assignments a,
-body.syllabus li.syllabus a
+body.syllabus li.syllabus a,
+body.discuss li.discuss a
 { 
 	color: black;
 	font-weight: bold;

@@ -2,6 +2,7 @@
 title: Bookstore SNAFU
 layout: phil301-post
 section: main
+excerpt: I seem to have screwed up the textbook order. The bookstores have one of the two required books, *Readings in Ancient Greek Philosophy*, but not the other, *Philosophy before Socrates*.
 ---
 
 I seem to have screwed up the textbook order. The bookstores have one of the two required books, *Readings in Ancient Greek Philosophy*, but not the other, *Philosophy before Socrates*. (ISBNs and further details [here](textbook.html)).

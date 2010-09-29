@@ -2,6 +2,7 @@
 title: Course Description
 layout: phil301-post
 section: main
+excerpt: An introduction to Ancient Greek Philosophy, from the death of Aristotle in 322 BCE to its traditional beginning in 585 BCE.
 ---
 
 Fall 2010, TuTh 12:30-2:18.

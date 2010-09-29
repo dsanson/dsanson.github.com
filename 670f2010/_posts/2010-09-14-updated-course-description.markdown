@@ -3,6 +3,7 @@ title: Updated Course Description
 layout: phil670-post
 section: main
 published: true
+excerpt: Traditional western theism tells us that God is maximally great or perfect along at least three dimensions.
 ---
 
 Traditional western theism tells us that God is maximally great or perfect along at least three dimensions. He is

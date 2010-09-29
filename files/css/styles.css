@@ -110,7 +110,8 @@ body.research li.research,
 body.cv li.cv,
 body.readings li.readings,
 body.assignments li.assignments,
-body.syllabus li.syllabus
+body.syllabus li.syllabus,
+body.discuss li.discuss
 { 
 	border: 1px solid #98AFC7;
 	border-bottom: 1px solid #ffffff;
@@ -131,7 +132,10 @@ body.courses li.courses a,
 body.research li.research a,
 body.cv li.cv a,
 body.readings li.readings a,
-body.assignments li.assignments a {
+body.assignments li.assignments a,
+body.syllabus li.syllabus a,
+body.discuss li.discuss a
+ {
 	color: black;
 }
 

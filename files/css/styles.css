@@ -425,12 +425,12 @@ span.comments {
 	display: none;
 }
 
-#license {
+#license-foot {
 	text-align: center;
 	font-size: x-small;
 	font-style: italic;
 }
 
-#license a:link, #license a:visited {
+#license-foot a:link, #license-foot a:visited {
 	color: #AAAAAA;
 }

@@ -1,5 +1,6 @@
 html {
      min-height: 100%
+	 background: #3d3d3d;
 }
 
 body {
@@ -422,4 +423,14 @@ span.comments {
 }
 #collapse-switch {
 	display: none;
+}
+
+#license {
+	text-align: center;
+	font-size: x-small;
+	font-style: italic;
+}
+
+#license a:link, #license a:visited {
+	color: #AAAAAA;
 }

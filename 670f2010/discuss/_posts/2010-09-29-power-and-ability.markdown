@@ -1,7 +1,7 @@
 ---
 title: Power and Ability
 layout: phil670-post
-section: main
+section: discuss
 date: 2010-09-29 15:46:44
 published: true
 comments: true

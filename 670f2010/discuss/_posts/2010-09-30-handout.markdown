@@ -1,0 +1,189 @@
+---
+title: Handout on Omnipotence
+date: 2010-09-30 16:20:23
+layout: phil670-post
+section: discuss
+comments: true
+published: true
+excerpt: Follow the link for a corrected version of the handout that was passed out in class today.
+---
+
+The handout I passed out in class had some unfortunate formatting errors---most especially in the section that runs through the definitions Swinburne labels [C], [D], and [E]. I've tweaked it to fix those problems, but have not attempted to fix any problems with the content :-)
+
+## Definitions of Omnipotence
+
+Omnipotence~1~
+  ~ the power to bring about any state of affairs
+  ~ ∀S(S is omnipotent ≡ ∀x~SOA~(S is able to bring about x))
+
+Omnipotence~2~
+  ~ the power to bring about any possible state of affairs
+  ~ ∀S(S is omnipotent ≡ ∀x~SOA~(x is possible ⊃ S is able to bring
+    about x))
+
+Omnipotence~3~
+  ~ the power to bring about any state of affairs, even impossible
+    states of affairs
+  ~ ∀S(S is omnipotent ≡ ∀x~SOA~(S is able to bring about x))
+
+Omnipotence~4~
+  ~ the power to do anything (bring about any state of affairs) possible to power P
+  ~ ∀S(S is omnipotent ≡ ∀x(x is possible to P ⊃ S is able to do (bring about) x))
+
+Omnipotence~5~
+  ~ the power for S to bring about every possible state of affairs
+    of the form *that S does x*.
+  ~ ∀S(S is omnipotent ≡ ∀x(*A's performing x* is possible ⊃ S is
+    able to perform x.))
+
+McEar
+  ~ A man who is only able to scratching his ear.
+
+McEar is omnipotent:
+
+-   The only x such that *McEar's performing x* is possible is
+    *scratching McEar's ear*.
+-   McEar is able to perform *scratching McEar's ear*.
+-   So, by O~5~, McEar is omnipotent.
+
+## Swinburne
+
+Omnipotence~C~
+:   ∀S[(S is omnipotent) ≡ ∀x(S is able to bring about x)
+
+Objection: There are states of affairs that are possible, but which
+it is not possible for any agent to bring about.
+
+Examples:
+
+(a) past states (or states earlier than the action), 
+(b) present states (states simultaneous with the action), 
+(c) necessary states.
+
+Argument for (b):
+
+1.  to bring about a state Y of a system Q is to cause Q to pass
+    from being in some state X to being in state Y.
+2.  But an agent can only do that by acting upon Q when it was in
+    state X, that is, before it was in state Y.
+3.  So the action of bringing about a state of affairs must
+    commence before the existence of that state of affairs.
+
+Argument for (c):
+
+1.  All red objects in the world will be colored, no matter what
+    any agent does.
+2.  So no agent can bring it about that all the red objects in the
+    world are colored.
+
+Consider:
+
+1.  Necessarily, some created thing exists.
+2.  So no agent can bring it about that some created thing exists.
+
+Omnipotence~D~
+:   ∀S(t)( S is omnipotent at t ≡ ∀x[( x is a contingent state of affairs after t ) ⊃ (S is able at t to bring about x )]
+
+
+> we must understand here by x being a possible state of affairs
+> after t that x be not merely possible and after t but that x be ...
+> compatible with what has happened at and before t.
+
+Accidental Necessity
+  ~ x is accidentally necessary as of t in @ ≡ every possible world
+    that agrees with @ up to t is a world in which x obtains.
+
+Accidental Necessity (alt)
+  ~ x is accidentally possible ≡ x can (still) come about.
+
+Accidental Possibility
+  ~ x is accidentally possible as of t in @ ≡ there is a possible
+    world that agrees with @ up to t in which x obtains.
+
+Accidental Contingency
+  ~ x is accidentally contingent as of t in @ ≡ x is accidentally
+    possible as of t in @ but not accidentally necessary as of t in
+    @.
+
+
+Objection: Uncaused states, states not caused by S.
+
+> this implies that for S to be omnipotent in 1973, S must be able to
+> bring about a completely uncaused state of affairs in 1974 or a
+> state of affairs in 1974 not brought about by S. For all these
+> states are [accidentally contingent] as of 1973.
+
+Omnipotence~E~
+:   ∀S(t)[( S is omnipotent at t) ≡ ∀x [(( x is accidentally
+contingent as of t ) & (The occurence of x after t does not entail
+that S did not bring about x at t )) ⊃ (S is able at t to bring
+about x ) ]
+
+## Paradox of the Stone (Savage's version)
+
+Where S is any being:
+
+(1) Either S can create a stone which S cannot lift, or S cannot
+    create a stone which S cannot lift.
+(2) If S can create a stone which S cannot lift, then, necessarily,
+    there is at least one task which S cannot perform (lift the stone
+    in question)
+(3) If S cannot create a stone which S cannot lift, then,
+    necessarily, there is at least one task which S cannot perform
+    (create the stone in question)
+(4) Hence there is at least one task S cannot perform
+(5) If S is an omnipotent being, S can perform any task.
+(6) Therefore S is not omnipotent.
+
+### Savage's Solution
+
+Deny:
+
+3.  If S cannot create a stone which S cannot lift, then,
+    necessarily, there is at least one task which S cannot perform.
+
+4.  S cannot create a stone which S cannot lift
+
+
+is equivalent to
+
+B.  If S can create a stone, S can lift it.
+
+And B does not entail that S is limited in power.
+
+### Swinburne's response to Savage:
+
+B does entail a limit on S's power. This becomes clear when you
+bring in time.
+
+### Swinburne's Solution
+
+Reject:
+
+5.  If S is an omnipotent being, then S can perform any task.
+
+6.  If S is an omnipotent being, then S can perform any task which
+    it is possible for S to perform.
+
+7.  If S is omnipotent, then S can bring about any accidentally
+    contingent state of affairs that does not entail that S did not
+    bring it about.
+
+
+This, but not (5), is true.
+
+Now consider the revision of (2):
+
+2.  If S can create a stone which S cannot lift, then, necessarily,
+    there is at least one task which S cannot perform (namely, lift the
+    stone in question).
+
+This is false.
+
+Two claims about (2):
+
+-   The fact that he can doesn't entail that he does.
+-   "But anyway the task described is again an impossible task for
+    S to perform."
+
+

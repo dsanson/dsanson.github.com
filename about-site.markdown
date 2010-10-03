@@ -9,15 +9,15 @@ section: about
 
 Unless specified otherwise:
 
-+   all design and content within this site is licensed under a [Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/ "License"). 
++   Site design and content licensed under a [Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/ "License"). 
 
-Here is one important exception:
+One important exception:
 
-+   all rights reserved for research papers and drafts of research papers, e.g., any documents linked from my [Research]({{ site.url }}/research "Research") page.
++   All rights reserved for research papers and drafts of research papers, including all documents linked to from my [Research]({{ site.url }}/research "Research") page.
 
 ## Site design ##
 
-The design of this site is my own. But I began by taking a careful look at [Mark Reid's site](http://github.com/mreid/mark.reid.name), and the bones of this site's design continue to owe a lot to his design.
+The design of this site is my own. But I began by taking a careful look at [Mark Reid's site](http://github.com/mreid/mark.reid.name), and the bones of this site's design continue to owe a fair bit to his design.
 
 ## Software used to host this site ##
 

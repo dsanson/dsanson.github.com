@@ -79,11 +79,12 @@ Columbus, Ohio 43210
 +	Philosophy 863: Graduate Seminar on Nonexistents (Fall 2007)
 +	Philosophy 863: Graduate Seminar on Time and Change (Spring 2006)
 +	Philosophy 700: First Year Proseminar (Fall 2008)
++   Philosophy 670: Advanced Topics in Philosophy of Religion (Fall 2010)
 +	Philosophy 663: Advanced Metaphysics (Winter 2009)
 -   Philosophy 463: Introduction to Metaphysics (Winter 2010, Winter 2007)
 -   Philosophy 302: Introduction to Medieval Philosophy (Fall 2008, Fall 2007, Spring 2007,
     Winter 2006)
--   Philosophy 301: Introduction to Ancient Philosophy (Fall 2009, Winter 2009, Winter 2008, Winter 2007)
+-   Philosophy 301: Introduction to Ancient Philosophy (Fall 2010, Fall 2009, Winter 2009, Winter 2008, Winter 2007)
 -   Philosophy 250: Symbolic Logic (Winter 2008)
 -   Philosophy 150: Informal Logic (Winter 2006)
 -	Philosophy H101: Introduction to Philosophy, Honors (Fall 2009, Spring 2006)
@@ -103,6 +104,7 @@ Columbus, Ohio 43210
 
 -   *Australasian Journal of Philosophy*
 -   *American Philosophical Quarterly*
+-   *Philosophical Studies*
 
 ## Departmental Service
 
@@ -119,22 +121,25 @@ Columbus, Ohio 43210
 ## Supervision 
 
 +	Dissertation Committee Member:
-	+	Eric Carter, 2007-present
 	+ 	Wesley Cray, 2009-present
 	+	Cathy Muller, 2008-present
 	+	Vassilis Tsompanidis (UC Santa Barbara), 2008-present
+	+	Eric Carter, 2007-present	
 +	Graduate Qualifying Exam Committee Member:
+    +   Scott Brown, 2011
 	+	Wesley Cray, 2009
+	+	Patrick Reeder, 2009	
 	+	Cathy Muller, 2008	
-	+	Patrick Reeder, 2009
 +	Graduate Candidacy Exam Committee Member:
+    +   David Blanks, 2011
+    +   Ben Horne, 2011
 	+	Scott Brown, 2010
-	+	Andrew Choi, 2007
-	+	Wesley Cray, 2008
-	+	Thomas Evans, 2007
-	+	Cathy Muller, 2007
 	+	Daniel Pearlberg, 2009
 	+	Conrad Robinson, 2009
+	+	Wesley Cray, 2008	
+	+	Andrew Choi, 2007
+	+	Thomas Evans, 2007
+	+	Cathy Muller, 2007
 +	Undergraduate Honors Thesis Committee Member:
 	+	Ben Flowers, 2009
 	+	Matthew Grover (Psychology), 2009

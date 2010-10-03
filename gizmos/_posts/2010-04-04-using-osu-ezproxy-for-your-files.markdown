@@ -3,7 +3,10 @@ layout: gizmos-post
 title: Using OSU EZProxy For Your Files
 section: gizmos
 comments: 1
+excerpt: An htaccess file that redirects off-campus visitors through OSU's EZProxy server. This **no longer works** with people.cohums.ohio-state.edu urls.
 ---
+
+**This no longer works** on my OSU humanities web page. It looks like the proxy has been configured to no longer accept people.cohums.ohio-state.edu urls.
 
 Want part of your OSU webpage to be protected behind OSU's EZProxy server? Create a subfolder (e.g., sanson7/local/), create a text file named ".htaccess" in that folder, containing the following lines:
 

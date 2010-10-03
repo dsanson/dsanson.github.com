@@ -3,6 +3,7 @@ layout: gizmos-post
 title: iPhonlets Bookmarklet
 section: gizmos
 comments: 1
+excerpt: A bookmarklet that makes it possible to bookmark bookmarklets in browsers that only allow you to bookmark the page you are on. This includes Mobile Safari, the browser on the iPhone and iPod Touch. It also includes Opera Mini, I am told.
 ---
 
 This is a meta-bookmarklet: it is a bookmarklet that makes it possible to bookmark bookmarklets in browsers that only allow you to bookmark the page you are on. This includes Mobile Safari, the browser on the iPhone and iPod Touch. It also includes Opera Mini, I am told.

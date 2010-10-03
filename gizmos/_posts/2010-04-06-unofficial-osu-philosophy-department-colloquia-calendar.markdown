@@ -3,6 +3,7 @@ layout: gizmos-post
 title: Unofficial OSU Philosophy Department Colloquia Calendar
 section: gizmos
 comments: 1
+excerpt: This is not the [official calendar](http://philosophy.osu.edu/news/colloquia/default.cfm) for our department colloquia. This is an unofficial google calendar which I maintain for my own use. It differs from the official calendar in a few important ways
 ---
 
 This is not the [official calendar](http://philosophy.osu.edu/news/colloquia/default.cfm) for our department colloquia. This is an unofficial google calendar which I maintain for my own use. It differs from the official calendar in a few important ways:

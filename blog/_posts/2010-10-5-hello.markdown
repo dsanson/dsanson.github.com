@@ -1,0 +1,10 @@
+---
+title: Hello World
+date: 2010-10-05 15:07:27
+layout: blog
+section: blog
+comments: true
+published: true
+---
+
+This is not a blog so much as a place for me to post work in progress. Expect the work to be messy and confused. Expect it to break off mid-sentence or mid-thought. If, for some reason, you read something here and have feedback, pass it on.

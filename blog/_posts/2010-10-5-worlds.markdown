@@ -1,0 +1,200 @@
+---
+title: What's a World?
+date: 2010-10-05 20:04:17
+layout: blog
+section: blog
+comments: true
+published: true
+excerpt: Worlds are states, not properties or objects. And there aren't any worlds, impossible, possible, or actual.
+---
+
+# Introduction
+
+The first part of this paper is quite modest. I argue against two views about worlds---actual, possible, or impossible---that seem to have some currency, 
+
+Objects
+  ~ Worlds are maximal concrete objects.
+
+Properties
+  ~ Worlds are maximal properties.
+  
+and in favor of a view about worlds that is has been around for a long time, 
+
+States
+  ~ Worlds are maximal states of affairs.
+ 
+The second part of this paper is a bit less modest. On the question of what worlds there are, I argue against
+
+Actualism
+  ~ There is only one world and it is the actual world.
+
+Possibilism
+  ~ There are many worlds: one is the actual world; the others are possible worlds.
+
+and
+  
+Impossibilism
+  ~ There are many worlds: one is the actual world; some are possible worlds; the rest are impossible worlds.
+
+and in favor of 
+
+Nihilism
+  ~ There are no worlds.
+
+# Objects, Properties, States of Affairs
+
+Intuitively, a states of affairs involves the coming together of an object and a property. In this way, states of affairs have often been compared to propositions.  
+
+[add something about the two ways of thinking about soa's---hint that it will matter later, but not now]
+
+A paradigmatic state of affairs consists of some object having some property, e.g., *Socrates's being ugly*. Intuitively, a possible world is a possibility, and a possibility consists of some objects having some properties, and so is a state of affairs. You can mimic possibilities, and so possible worlds, with properties, but only if you are willing to build the objects into the properties. Likewise, you can mimic possibilities, and so possible worlds, with objects, but only if you are willing to build the properties into the object. Neither move is all that plausible, and the need to make both moves shows that the natural view is the view that possibilities, and so possible worlds, are states of affairs.
+
+That is my argument for *States* in a nutshell. What follows are the details.
+
+# Worlds and Ways
+
+Lewis famously suggests that
+
+(1) A possible world is a way the world could be.
+
+'World' occurs twice in this claim. In its first occurrence, it denotes a *way* something could be. In its second occurrence, it denotes a *thing* that could be some way. Lewis's own view is, roughly, that possible worlds are *counterparts* of the actual world. The counterparts of a thing, for Lewis, are, or, more precisely, *represent*, ways that the thing could be.
+
+But others take (1) differently. The *ways* that an object could be, they suggest, are *properties* that that object could have. So, if *possible worlds* are ways *the world* could be, then *the world* is an object, and *possible worlds* are properties that *the world* could have. Hence we find that 'world' is being used ambiguously in (1) for both properties---possible worlds---and the object that has or can have those properties---the world. Following Salmon, we can reserve 'world' for worlds in the first sense---the properties---and use 'cosmos' for the world in the second sense. So (1) becomes
+
+(2) A possible world is a property the cosmos could have.
+
+One special case worth noting: the actual world, on this picture, is a property of the cosmos.
+
+# The Problem of Other Cosmoi
+
+\(2) does a decent job of accounting for the fact that the cosmos could have been different than it is. But does a terrible job accounting for the fact that there could have been a different cosmos. It is hard to see how to identify this possibility---that some other cosmos might have existed instead of the actual cosmos---with some property that the actual cosmos might have had. The best I can figure is that the property would be *being such that it does not exist and some other cosmos does*, but that is a dubious property. 
+ 
+Perhaps we should reject the possibility described: our cosmos, we say, exists necessarily; it is not possible that some other cosmos exist in its stead. I have nothing deep or insightful to say against someone who insists on this: I think it is wrong; I think it puts a rather mysterious limit on what is possible; I think it is an odd sort of transcendental argument for the existence of a necessary being.
+
+But maybe this just reflects the rigidity of my thought. Perhaps what appears to be a limitation is no limitation at all, because our cosmos is more "modally flexible" than we might have thought. Perhaps our cosmos has no essence beyond its existence. Possibilities that we take to involve some distinct cosmos in place of our own are really just possibilities that involve our cosmos radically transformed.
+
+Consider: we are all parts or constituents of our cosmos; but it is quite possible that none of us exist, and other things exist in our place. Does this possibility involve our cosmos or a distinct cosmos? A mereological essentialist would argue that it must involve a cosmos distinct from ours, on the grounds that our cosmos has its parts essentially. But mereological essentialism is wrong: things are "modally flexible" enough to have different parts in different worlds. So our cosmos can have different parts than it actually has. 
+
+Mereological essentialism is just one of many reasons for thinking that our cosmos has a "thick" essence---an essence that excludes certain obvious possibilities. But perhaps those other reasons can be handled in similar fashion.
+
+But we should not be taken in by this sort of defense. Showing that that cosmos could have been different than it is does nothing to show that it exists necessarily. Suppose that Richard Nixon had no essential properties: he could have been made of sawdust; he could have been a ball of wax. Should we infer that Nixon necessarily exists? No.
+
+The intuition that our cosmos only exists contingently is, I think, a powerful one. The view that possible worlds are properties that our cosmos could have had cannot account for it.
+
+# Properties of Cosmoi
+
+An alternative to (2) is
+
+(3) A possible world is a property that a cosmos could have.
+
+Here we no longer assume that there is a *single* cosmos involved in every possibility: some possibilities involve our cosmos instantiating some possible world; other possibilities involve other cosmoi instantiating possible worlds.
+
+One obvious problem with this view is the ontological status of the other cosmoi, but I'd like to put this problem aside to consider a less obvious problem: there are more possibilities, on this view, than there are possible worlds.
+
+Consider a possible world---some maximal cosmos property---w, and two cosmoi, c~1~ and c~2~. Both c~1~ and c~2~ can instantiate w. So one possibility is this: c~1~'s instantiating w. And a distinct possibility is this: c~2~'s instantiating w. But these two distinct possibilities involve the same possible world. So there are more possibilities than there are possible worlds.
+
+This consequence can be avoided by insisting that no world can be instantiated by distinct cosmoi: each world is, if you like, cosmos-bound. The only way to do this is, as far as I can see, to assume that each possible world includes a cosmos haecceity: a property that exactly one cosmos can instantiate.
+
+I don't believe in haecceities, and I count it as a mark against a view that it forces us to posit them. But I know that some philosophers see it the other way: they are antecedently committed to haecceities, and so see it as a virtue of a view that it leads us to the truth.
+
+But this is one case where I think we can see that the arrival of haecceities on the scene signals that something has gone wrong. We have been considering where we are led if we steadfastly hold to the view that possible worlds are properties, not states of affairs. The position we land in is this: we can continue to maintain the view, but only if we *build the objects in* to our properties.
+
+
+
+The view that possible worlds are states of affairs rather than properties is that view that a possibility always involves some object or objects having some properties. The defender of the view that worlds are properties in effect denies this, and says that possibilities are just properties, not objects having properties. But she has now been pushed to, in effect, *build the object in* to the relevant properties. 
+
+I don't doubt that one can save the view that possible worlds are properties by doing this. But what it shows, I think, is that it is far more natural to suppose that possible worlds are states of affairs. The fact that properties can be squished and squeezed until they manage to more or less do the work of states of affairs only goes to emphasize the relative plausibility of the two views.
+
+# Possible Worlds as Objects 
+
+
+
+
+
+
+
+## Possible Worlds as Sets of Propositions
+
+A similar objection applies to the account of possible worlds associated with Adams and Plantinga: a world is a maximal set of compossibly true propositions or compossibly obtaining states of affairs.
+
+First, the account requires that we assume that propositions necessarily exist. Worse, as typically developed, the account requires that singular propositions necessarily exist
+
+According to Adams and Plantinga, the world is a maximal set of propositions or states of affairs. But haecceitist differences between worlds lead to the need to posit not just a single necessarily existing object but a whole slew of them. So it is just as bad as Salmon.
+
+Kit Fine suggests a radically different reduction of possible worlds discourse [fine2003a]. Replace possibilist quantification over worlds, like
+
+1.  $\exists w$ ...
+
+with actualist quantification over worlds inside of modal operators:
+
+2.  $\diamond\exists w$ ...
+
+and replace world-relativized claims, like
+
+3.  p-in-w
+
+with conditionals, an "is a world" predicate", and a modal operator
+
+4.  $\diamond(\forall u((Wu\supset u=w)\supset p)$
+
+So a claim like
+
+5.  $\exists wp-in-w$
+
+becomes
+
+6.  $\diamond\exists w\diamond(\forall uu=w\supset p)$
+
+In philosophical English:
+
+6.  Possibly, there is a world w such that possibly, if every world is w, then p.
+
+Built into this analysis are two assumptions:
+
+a.  Necessarily, there is exactly one world.
+
+b.  No world could be different from how it is.
+
+
+The natural way to ensure (a) is to identify the world with the cosmos. But if we do that, then (b) commits us to superessentialism for the cosmos: it couldn't be different from how it is.
+
+But, intuitively, there might not be any things for which superessentialism is true. Our theory of modality should not license a transcendental argument for the existence of superessentialist objects.
+
+It is perhaps surprising to notice two extremes: one the one hand, we have a view according to which the cosmos is the most modally flexible thing there is: so flexible, in fact, that it necessarily exists.
+
+On the other hand, we have the view that the cosmos is the most modally inflexible things there is: so inflexible, in fact, that it couldn't exist if it were different in any way.
+
+Neither seems right.
+
+According to David Lewis, we can have our cake and eat it too. On the one hand, the actual world is distinct from all other possible worlds: this gets us the superessentialism. On the other hand, the actual world bears counterpart relations (accessibility relations) to other numerically distinct possible worlds.
+
+But Lewis buys this flexibility at the cost of modal realism. Can an actualist find a way through this mess that doesn't require paying that cost?
+
+Nathan Salmon has argued that possible worlds are best understood as properties: properties that the cosmos doesn't instantiate but could have instantiated. This position appears to commit him to the view that the cosmos itself exists necessarily.
+
+Kit Fine has recently argued that possible worlds are best understood as concrete objects: objects that could have existed but don't. This position appears to commit him to the view that
+
+The literature on the metaphysics of possible worlds is dominated by two proposals:
+
+1.  A possible world is a maximal concrete object.
+2.  A possible world is a maximal abstract object: a property, or proposition, or state of affairs.
+
+Notoriously, David Lewis defended (1). Actualists typically defend some version of (2).
+
+The second proposal
+
+Paper contrasting three accounts of possible worlds:
+
+1.  Worlds as possible modally fragile very large objects (fine, Lewis)
+2.  Worlds as maximal properties the cosmos could ahve (salmon and bigelow) or maximal propositions that could be true (plantinga, fine1977).
+3.  Worlds as very large modally non-fragile objects. (Lewis)
+
+Against 2:
+
+A.  The property version implies that the kosmos necessarily exists. But this seems wrong. (implies that the kosmos always exists, but this seems possibly wrong.) B. Either implies antihacceitism or we find a hacceitist way to distinguish two maximal properties or propositions that are qualtitively inditignusihable. C. Therefore leads to treating other possibilia by way of uninstantiated hacceities, but there are no such things (by fines arguments).
+
+Against 1. Implies that superessntialism is true of worlds. But then we should expect that speressentialism is true of other possibilia too. If not, why are worlds so modally fragile? More generally, since it is not plausible that there are modally fragile objects, it is not plausible to suppose that worlds, in virtue of being very large, are modally fragile.
+
+So the basic thrust is: if we think of worlds as possible objects, we should treat worlds like other possibilia. If we think of them like properties, then we should treat other possibilia like properties. Neither view is satisfactory. The only satisfactory views are modal realism (or it's noneist counterpart) or priorian modal actualism without worlds (or with worlds as modally robust objects, so they don't play the theoretical role of "possible worlds".)
+
+(this allows me to introduce the point that for Lewis, worlds are not modally fragile, since the accesibility relation just is the counterpart relation for worlds. )

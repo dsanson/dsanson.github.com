@@ -11,7 +11,7 @@ This is not the [official calendar](http://philosophy.osu.edu/news/colloquia/def
 1. I (try to) include *all* philosophy-related talks at OSU, not just official colloquia.
 2. I (try to) include talks as soon as they've been scheduled.
 
-Let me know if there is a talk that I should add or if you notice any mistakes.
+Let me know if there is a talk that I should add or if you notice any mistakes. And let me know if you'd like to have the power to add talks yourself.
 
 <iframe src="http://www.google.com/calendar/embed?showDate=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=pgpbqbvg98d0a0opno8n688tsc%40group.calendar.google.com&amp;color=%235A6986&amp;ctz=America%2FNew_York" style=" border-width:0; margin-left: auto; margin-right: auto" width="500" height="400" frameborder="0" scrolling="no"></iframe>
 

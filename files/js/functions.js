@@ -3,12 +3,12 @@ function menutoggle() {
     $('#expand-switch').toggle();
     $('#collapse-switch').toggle();
 }
-function removeoldpost() {
+function cleanpostindex() {
 	$("#postindex li:nth-child(-n+5)").removeClass("old-post");
 }
 $(document).ready( function () {
-	removeoldpost();
-    if ('.old-post') {
+	cleanpostindex();
+    if ( $('#postindex li').length > 5 ) {
         $('#postindex').append('<li><a href="javascript:menutoggle();" id="expand-switch">↓Show all↓</a><a href="javascript:menutoggle();" id="collapse-switch">↑Show recent↑</a></li>')
     }
 });

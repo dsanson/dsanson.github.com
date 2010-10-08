@@ -1,7 +1,7 @@
 ---
 title: Optional Readings
 layout: phil301-post
-section: main
+section: readings
 published: false
 ---
 

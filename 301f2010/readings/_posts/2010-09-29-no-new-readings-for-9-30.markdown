@@ -1,7 +1,7 @@
 ---
 title: No New Readings for Sep 30
 layout: phil301-post
-section: main
+section: readings
 published: true
 ---
 

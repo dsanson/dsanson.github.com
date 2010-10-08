@@ -1,7 +1,7 @@
 ---
 title: Some Optional Readings on Parmenides 
 layout: phil301-post
-section: main
+section: readings
 published: true
 comments: true
 excerpt: Parmenides is a hard nut to crack. It can help to read other people's attempts to crack that nut. McKirahan's discussion is a good place to start. Here are two articles that are considerably more challenging, but might be helpful

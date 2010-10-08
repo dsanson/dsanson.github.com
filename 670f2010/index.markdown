@@ -7,25 +7,19 @@ feed: atom.xml
 ---
 
 <article class="postindex">
-
-<ul>
+    
+<ul id="postindex">
 {% for post in site.categories.670f2010 %}
-<li {% if forloop.index > 5 %}class="old-post" {% endif %}><span class="postdate">{{ post.date | date_to_string }}</span>: <a class="title" href="{{ post.url }}">{{ post.title }}</a>  {% if post.comments %}<span class="comments">(<a href="{{ post.url }}#disqus_thread">View Comments</a>)</span>{% endif %} </li>
-
+{% if post.categories contains "670f2010" %}
+{% include postindex.html %}
+{% endif %}
 {% endfor %}
 </ul>
+
 </article>
 
-{% for post in site.categories.670f2010  %}
-<article>
-  <h1><a class="title" href="{{ post.url }}">{{ post.title }}</a> {% if post.comments %}<span class="comments">(<a href="{{ post.url }}#disqus_thread">View Comments</a>)</span>{% endif %}
-  </h1>
-  {% if post.excerpt != null %}
-  {{ post.excerpt }}
-  <a href="{{ post.url }}">→</a>
-  {% else %}
-  {{ post.content }}
-  {% endif %}
-  <hr>
-</article>
+{% for post in site.categories.670f2010 %}
+{% if post.categories contains "670f2010" %}
+{% include postlist.html %}
+{% endif %}
 {% endfor %}

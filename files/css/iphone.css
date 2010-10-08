@@ -65,6 +65,9 @@ nav li.left {
 	margin-right: inherit;
 }
 
+li.home {
+	display: none;
+}
 
 body.home li.home a,
 body.main li.main a,

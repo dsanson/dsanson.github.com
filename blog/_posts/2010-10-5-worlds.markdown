@@ -10,64 +10,182 @@ excerpt: Worlds are states, not properties or objects. And there aren't any worl
 
 # Introduction
 
-The first part of this paper is quite modest. I argue against two views about worlds---actual, possible, or impossible---that seem to have some currency, 
+The aim of this paper is to argue against two views about actual and possible worlds that seem to have some currency, 
 
-Objects
-  ~ Worlds are maximal concrete objects.
+Individuals
+  ~ Worlds are maximal individuals,
 
 Properties
-  ~ Worlds are maximal properties.
+  ~ Worlds are maximal properties,
   
-and in favor of a view about worlds that is has been around for a long time, 
+and in favor of a view about actual and possible worlds that is has been around for a long time, 
 
 States
   ~ Worlds are maximal states of affairs.
- 
-The second part of this paper is a bit less modest. On the question of what worlds there are, I argue against
 
-Actualism
-  ~ There is only one world and it is the actual world.
+# States of Affairs
 
-Possibilism
-  ~ There are many worlds: one is the actual world; the others are possible worlds.
+Some philosophers think of states of affairs as abstract objects---akin to, perhaps even identical to---propositions. Just as a proposition can exist without being true, an abstract state of affairs can exist but not obtain. So, for example, the abstract state of affairs *Socrates's being beautiful* exists but does not obtain, because Socrates is not, in fact, beautiful. The state of affairs *Socrates's being ugly* both exists and obtains, because Socrates is, in fact, ugly. Call such states of affairs *abstract states of affairs*.
 
-and
-  
-Impossibilism
-  ~ There are many worlds: one is the actual world; some are possible worlds; the rest are impossible worlds.
+Other philosophers think of states of affairs as concrete bits of reality that cannot exist without obtaining. So, for example, the concrete state of affairs *Socrates's being beautiful* does not exist, because Socrates is not, in fact beautiful. The state of affairs *Socrates being ugly*, by contrast, exists: its existence just consists in its being the case that Socrates is, in fact, ugly. Call such states of affairs *concrete states of affairs*. So *States* could express one of two rather different views:
 
-and in favor of 
+Abstract States
+  ~ Worlds are maximal abstract states of affairs.
 
-Nihilism
-  ~ There are no worlds.
+Concrete States
+  ~ Worlds are maximal concrete states of affairs.
 
-# Objects, Properties, States of Affairs
+Adams, Kripke, and Plantinga defend *Abstract States*. My own position is that worlds are concrete states of affairs. But my arguments against *Individuals* and *Properties* and in favor of *States* do not provide any reason to favor *Concrete States* over *Abstract States*.
 
-Intuitively, a states of affairs involves the coming together of an object and a property. In this way, states of affairs have often been compared to propositions.  
+# Possibilities
 
-[add something about the two ways of thinking about soa's---hint that it will matter later, but not now]
+My arguments against *Individuals* and *Properties*, and so in favor of *States* depend on the assumption that possible worlds---whatever they are---are *maximal possibilities*. 
 
-A paradigmatic state of affairs consists of some object having some property, e.g., *Socrates's being ugly*. Intuitively, a possible world is a possibility, and a possibility consists of some objects having some properties, and so is a state of affairs. You can mimic possibilities, and so possible worlds, with properties, but only if you are willing to build the objects into the properties. Likewise, you can mimic possibilities, and so possible worlds, with objects, but only if you are willing to build the properties into the object. Neither move is all that plausible, and the need to make both moves shows that the natural view is the view that possibilities, and so possible worlds, are states of affairs.
+Apparent quantification over possibilities is, I take it, familiar enough: consider the possibility that pigs fly, or the possibility that cats and dogs live together. To be sure, not all possibilities are maximal possibilities: the possibility that cats and dogs live together, for example, does not entail mass hysteria: there is a maximal possibility (a possible world) that involves cats and dogs living together and also involves mass hysteria, and there is a distinct maximal possibility (possible world) that involves cats and dogs living together but does not involve mass hysteria. 
 
-That is my argument for *States* in a nutshell. What follows are the details.
+There is room to wonder whether we should take our commitment to maximal or complete possibilities, and so possible worlds, seriously: perhaps it is enough to take our possibilities piecemeal. But this is not something I am going to worry about here.
 
-# Worlds and Ways
+To say that possible worlds are maximal possibilities is not yet to say what they are: it is instead to specify the role they play in our thinking about modality. Deciding between *Individuals*, *Properties*, and *States*, then, is a matter of deciding what kind of entity is best suited to play that role.^[Here I take myself to be echoing [stalnaker1976b: p. 68; stalnaker2003: p. ???].]
 
-Lewis famously suggests that
+# Worlds as Individuals
 
-(1) A possible world is a way the world could be.
+The most well-known defender of *Individuals* is David Lewis:
 
-'World' occurs twice in this claim. In its first occurrence, it denotes a *way* something could be. In its second occurrence, it denotes a *thing* that could be some way. Lewis's own view is, roughly, that possible worlds are *counterparts* of the actual world. The counterparts of a thing, for Lewis, are, or, more precisely, *represent*, ways that the thing could be.
+> A world is a large possible individual; it has smaller possible individuals as parts. A galaxy, a planet, a man, an electron---these things inhabit their world simply by being parts of it. Just as the electron is part of the man, and the man in turn is part of his planet which is part of its galaxy, so the galaxy in turn is part of its world. [lewis1983b: p. 39]
 
-But others take (1) differently. The *ways* that an object could be, they suggest, are *properties* that that object could have. So, if *possible worlds* are ways *the world* could be, then *the world* is an object, and *possible worlds* are properties that *the world* could have. Hence we find that 'world' is being used ambiguously in (1) for both properties---possible worlds---and the object that has or can have those properties---the world. Following Salmon, we can reserve 'world' for worlds in the first sense---the properties---and use 'cosmos' for the world in the second sense. So (1) becomes
+Notoriously, Lewis also holds that "our world is but one among many", that other worlds exist just as much as ours [lewis1986, p. 2-3], and so he believes in a plurality of very large concrete individuals.
 
-(2) A possible world is a property the cosmos could have.
+It is difficult to see how---short of accepting Necessitarianism---one could accept *Individuals* without accepting Lewis's modal realism. Indeed, one common reason for rejecting *Individuals* in favor of *Properties* or *States* is just this. If worlds are properties, then possible worlds are uninstantiated properties, and a plurality of actually existing uninstantiated world properties seems better than a plurality of actually existing concrete universes.
 
-One special case worth noting: the actual world, on this picture, is a property of the cosmos.
+But this is a mistake. Fine has argued---to my mind convincingly---that we can trade in the assumption that there are possible worlds other than the actual world for the assumption that it is possible that there are worlds other than the actual world. The general reductive strategy is to replace quantification over possible worlds, as in
+
+1.	For some world *w*, Pigs fly in *w*,
+
+with quantification over worlds inside the scope of a modal operator, as in
+
+2.	Possibly, for some world *w*, Pigs fly in *w*.^[This is a bit rough and ready. For a more careful accounting of the reduction, see [fine1977; fine1985a; fine2003a]]
+
+While (1) commits us to the existence of a world in which Pigs fly, (2) only commits us to the possible existence of such a world.
+
+As Fine points out in this connection,
+
+> the problem for the actualist is not with the actual world, but with possible entities, whether they be worlds or of some other kind. If we also wish to get rid of the actual world and treat it as a special kind of fact, say, or proposition, then this is something that might be tacked onto the present reduction but is of no concern to the actualist as such. [fine2003a: p. 172]
+
+I take it that we are inclined to think of the *actual world* as an individual, in much the way Lewis invites us to think of all worlds. Indeed, much of Lewis's rhetoric in defense of his view turns on the assumption that we will think of the actual world in this way, e.g.,
+
+> If asked what sort of thing they are, I cannot give the kind of answer my questioner probably expects [...]. I can only ask him to admit that he knows what sort of thing our actual world is, and then explain that other worlds are more things of *that* sort, differing not in kind but only in what goes on in them. [lewis1973, p. 85]
+
+> Since I cannot believe that I and all my surroundings are a set of sentences (though I have no argument that they are not), I cannot believe that worlds are sets of sentences either. [lewis1973, p. 86]
+
+Fine's point, then, is that if this is the right way of thinking about the actual world, then we don't need to worry about some extra problem of *possible* worlds. It is enough to say that it possible that there be worlds, distinct from but of a kind with our own; we don't need to go further and commit ourselves to there being any such worlds.
+
+So we have saved *Individuals* from the grips of modal realism. But is *Individuals* in fact tenable?
+
+Here it is important to note that Fine's reduction brings with it two assumptions. The first is easy to state:
+
+3.  Necessarily, there is exactly one world.
+
+The second is easy to state loosely and hard to state precisely. Loosely, the assumption is superessentialism about worlds: it is not possible that a world, w, 
+
+
+4.  Necessarily, for any world w, if [possibly w is a world and w has some property P] then necessarily [if w is a world, then w has P].
+
+
+The problem lies with this. For this view to work, we need to assume, as it were, that there will be a unique individual corresponding to each possible world. But this requires that we assume not just that worlds are individuals, but that they are individuals for which *superessentialism* is true.
+
+Like I said, I think we are inclined to think of the actual world* as an individual. But we also think that our world *could have been different than it is*
+
+
+
+
+Saying that a world is a large individual object doesn't quite capture the sense in which it is supposed to be *maximal*. Lewis's position is that a world is spatio-temporally maximal: it has as parts everything that it is spatio-temporally related to. Someone who agreed with Lewis that worlds are objects but did not believe in the Lewisian pluriverse could instead say that a world is absolutely maximal: that everything is a part of it.
+
+This last claim might seem like the beginning of a good account of what our world---the actual world---is, but a hopeless way to begin an account of what a possible world is. For if a world is absolutely maximal in this sense, then (assuming uniqueness of composition) there can only be one world.
+
+This objection, however, is not as deadly as it may seem. It assumes that any account of possible worlds must allow that possible worlds distinct from our own exist, but, as Kit Fine has taught us, we can get by with the much weaker assumption that possible worlds distinct from our own *could* exist.^[[fine1977; fine1985a; fine2003a]] A bit more precisely, we need not assert
+
+1.	Eww≠a
+
+Rather, we can assert the weaker claim that
+
+2.	PEwAw≠a
+
+And, more generally, when we find ourselves tempted to say something like
+
+3.	Ew(Pigs fly in w)
+
+we can instead say
+
+4.	PEw(Pigs fly in w)
+
+There are no possible worlds other than our own, but it is *possible* that there are worlds other than our own.
+
+One reason philosophers have rejected the claim that worlds are objects is that they thought it would commit them to the existence of merely possible objects.^[stalnaker1976b, p. 68] But if Fine's reduction is accepted, then we no longer have this reason to reject the view. 
+
+What, then, of the view that worlds are maximal objects?
+
+Here is the basic argument: this will only work if we assume superessentialism for worlds.
+
+
+
+
+
+A state of affairs involves a special kind of unity between object and property. At the core of my argument against *Individuals* and *Properties* is the claim that possibilities share this kind of unity. For example, *Socrates's being ugly* is a state of affairs, and it involves Socrates's having the property of ugliness. According to *States*, a possible world is a state of affairs writ large. For example, it might be a maximal object having some maximal property, or it might be some maximal combination of objects having properties, or it might be yet more complicated.
+
+
+*Concrete States* faces an immediate objection. Suppose possibilities are concrete states of affairs. Suppose it is possible that pigs fly, so there is a possibility that pigs fly. It then follows, by *Concrete States*, that pigs fly. 
+
+In response, a defender of *Concrete States* could deny that it is possible that pigs fly, and, more generally, deny that anything is possible other than what is actually the case, and so in effect endorse necessitarianism. This is not plausible, and I won't consider it further.
+
+Alternatively, she can embrace a form of Lewisian modal realism: pigs do fly, just not around here. Lewis  held that worlds are objects, not concrete states of affairs. But someone who shared Lewis's taste for the pluriverse could give up the view that worlds are objects and embrace the view that worlds are concrete states of affairs.
+
+The third option for the defender of *Concrete States* is to take a lesson from Kit Fine, and paraphrase apparently committal quantification over non-actual worlds in terms of non-committal quantification over non-actual worlds *inside the scope of modal operators*. So paraphrase
+
+(1) Ew(Pigs fly in w)
+
+with
+
+(2) PEw(Pigs fly in w)
+
+(This is a rough and ready paraphrase. For the careful details, see [fine1977; fine1985a; fine2003a].)
+
+Possible worlds discourse, given this paraphrase, only commits us to the existence of a single world---the actual world. Possible worlds possibly exist, but they do not actually exist.
+
+Though I will ultimately argue that there are no worlds---not even the actual world---I would suggest that this third option represents the best way for those unwilling to endorse Nihilism to accommodate *Concrete States*. More generally, I would like to suggest that, in light of Fine's way out, it is worth considering the question of what worlds *are* first, independent of any ontological scruples over what worlds *there are*.
+
+Finally, I should note that some philosophers think that there aren't states of affairs in my sense: when an object has a property, there is no additional entity, the object's having the property, over and above the object and the property. I am sympathetic to this position, but I will not rely on it in my defense of *States* or my subsequent defense of *Nihilism*.
+
+# Worlds as Ways
+
+Lewis famously suggests that we all accept that there are "ways things could have been," and proceeds to identify "ways things could have been" with possible worlds, so concluding that we all accept that there are possible worlds. ^[(lewis1973a: p. 84)] Putting aside the argument, consider the identification:
+
+(3) A possible world is a way things could have been.
+
+Many philosophers have accepted this identification, but complained that it does not fit well with Lewis's subsequent account of the nature of possible worlds as "very large possible individual[s]" [lewis1983b: p. 39]. One influential criticism is due to Stalnaker:
+
+> The way things are is a property or a state of the world, not the world itself. [stalnaker1976b: p. 68]
+
+Accepting Stalnaker's point and accepting Lewis's identification leads us to assert
+
+(4) A possible world is a property or state the world could have had.
+
+This way of putting things is problematic, because 'world' is doing double-duty. In its first occurrence, it denotes a property, and in its second occurrence, it denotes the thing that could have that property. To avoid this, we can, following Nathan Salmon, use 'cosmos' in place of 'world' when we mean to denote the thing rather than the property, giving us
+
+(5) A possible world is a property or state the cosmos could have had.
+
+Two things to note about (5): first, the kind of "states" that are in question are abstract states of affairs, the sort that can exist without obtaining. Stalnaker himself, immediately after making the point that ways are properties or states, not objects, adds
+
+> This is important, since if properties can exist uninstantiated, then the way the world is could exist even if a world that is that way did not. [stalnaker1976b: p. 68]
+
+Indeed, the picture suggested is that the states just are a special kind of property the cosmos could have had, and that saying that such a state of affairs *obtains* is just a different way of saying that the cosmos instantiates it.
+
+One special case worth noting: the actual world, on this picture, is a property or state of the cosmos.
 
 # The Problem of Other Cosmoi
 
-\(2) does a decent job of accounting for the fact that the cosmos could have been different than it is. But does a terrible job accounting for the fact that there could have been a different cosmos. It is hard to see how to identify this possibility---that some other cosmos might have existed instead of the actual cosmos---with some property that the actual cosmos might have had. The best I can figure is that the property would be *being such that it does not exist and some other cosmos does*, but that is a dubious property. 
+According to (5) the only maximal possibilities there are are possibilities that can be identified with some property that that the cosmos could have had or state the cosmos could have been in.
+
+\(5) does a decent job of accounting for the fact that the cosmos could have been different than it is. But does a terrible job accounting for the fact that there could have been a different cosmos. It is hard to see how to identify this possibility---that some other cosmos might have existed instead of the actual cosmos---with some property that the actual cosmos might have had. The best I can figure is that the property would be *being such that it does not exist and some other cosmos does*, but that is a dubious property. 
  
 Perhaps we should reject the possibility described: our cosmos, we say, exists necessarily; it is not possible that some other cosmos exist in its stead. I have nothing deep or insightful to say against someone who insists on this: I think it is wrong; I think it puts a rather mysterious limit on what is possible; I think it is an odd sort of transcendental argument for the existence of a necessary being.
 
@@ -97,53 +215,94 @@ This consequence can be avoided by insisting that no world can be instantiated b
 
 I don't believe in haecceities, and I count it as a mark against a view that it forces us to posit them. But I know that some philosophers see it the other way: they are antecedently committed to haecceities, and so see it as a virtue of a view that it leads us to the truth.
 
-But this is one case where I think we can see that the arrival of haecceities on the scene signals that something has gone wrong. We have been considering where we are led if we steadfastly hold to the view that possible worlds are properties, not states of affairs. The position we land in is this: we can continue to maintain the view, but only if we *build the objects in* to our properties.
-
-
+But this is one case where I think we can see that the arrival of haecceities on the scene signals that something has gone wrong. We have been considering where we are led if we steadfastly hold to the view that possible worlds are properties, not states of affairs. The position we land in is this: we can continue to maintain the view, but only if we *build the objects in* to our properties. 
 
 The view that possible worlds are states of affairs rather than properties is that view that a possibility always involves some object or objects having some properties. The defender of the view that worlds are properties in effect denies this, and says that possibilities are just properties, not objects having properties. But she has now been pushed to, in effect, *build the object in* to the relevant properties. 
 
 I don't doubt that one can save the view that possible worlds are properties by doing this. But what it shows, I think, is that it is far more natural to suppose that possible worlds are states of affairs. The fact that properties can be squished and squeezed until they manage to more or less do the work of states of affairs only goes to emphasize the relative plausibility of the two views.
 
-# Possible Worlds as Objects 
 
 
 
+Kit Fine has argued that the fundamental commitment of possible worlds discourse is not a commitment to *possible* worlds, but a commitment to the *actual* world, together with a commitment to its being possible that there be worlds other than the actual world.
+
+To see why this might be so, we need to work our way through Fine's modalist reduction of possible worlds discourse [fine2003a]. 
+
+Possible worlds discourse invites us to replace claims like,
+
+1.  Possibly, pigs fly,
+
+with claims like,
+
+2.  There is a possible world *w*, and Pigs fly *in w*.
+
+\(2) is objectionable to an actualist because it involves possibilist quantification: quantification understood as ranging over *merely possible* objects---in particular, merely possible worlds. One familiar actualist response has been to argue that the quantification in (2) is actualist after all, because possible worlds are *actual objects* after all---actually existing uninstantiated states of affairs; actually existing sets of false propositions; etc.
+
+Fine suggests instead that the actualist deny the literal truth of (2), and instead provide a paraphrase in terms of actualist quantifiers and modal operators. In general, Fine argues, we can replace statements using possibilist quantifiers, like
+
+1.  $\exists x (...)$
+
+with statements using actualist quantification bracketed by modal operators:
+
+2.  $\Diamond \exists x \Diamond$ ...
+
+Quantification over *worlds* is restricted possibilist quantification. But in an actualist context, this restriction is not to things that *are* worlds, but to things that *could be* worlds. So, using 'Wx' for 'x is a world', we replace
+
+3.  $\exists w (...)$
+
+with
+
+4.  $\Diamond\exists w\Diamond(Ww & \Diamond ( ...))$
+
+Notice that this paraphrase by itself makes very few assumptions about worlds. It does not assume that possible worlds are essentially worlds, as can be seen from the fact that we might allow
+
+5.  $\Diamond\exists w \Diamond (Ww & \Diamond \neg Ww)$
+
+But we can express this constraint on worlds if we like:
+
+6.  $\Box\forall w \Diamond (Ww \supset \Box \forall u (u=w \supset Wu))$
+
+Nor does it assume that being a world is existence entailing, as can be seen from the fact that we might allow
+
+7.  $\Diamond\exists w \Diamond (Ww & \Box \forall u (u=w \supset \neg Wu))$
+
+Again, we can express a constraint that rules this out:
+
+8.  $\Box\forall w \Diamond (Ww \supset \Box (Ww \supset \exists u u=w))$
+
+Nor does it assume that two things cannot be worlds together, something we can express with
+
+9.  $\Box\forall w \Diamond (Ww \supset \Box\forall u \Diamond (Wu & u≠w \supset \Box (Ww \not \equiv Wu)))$
 
 
 
+that anything that could be a world must be a world. We might allow, for example,
 
-## Possible Worlds as Sets of Propositions
 
-A similar objection applies to the account of possible worlds associated with Adams and Plantinga: a world is a maximal set of compossibly true propositions or compossibly obtaining states of affairs.
 
-First, the account requires that we assume that propositions necessarily exist. Worse, as typically developed, the account requires that singular propositions necessarily exist
+The world-relativized claims of possibilist worlds discourse, like
 
-According to Adams and Plantinga, the world is a maximal set of propositions or states of affairs. But haecceitist differences between worlds lead to the need to posit not just a single necessarily existing object but a whole slew of them. So it is just as bad as Salmon.
+6.  $p \;\rm{in}\; w$
 
-Kit Fine suggests a radically different reduction of possible worlds discourse [fine2003a]. Replace possibilist quantification over worlds, like
+say that *p* obtains if *w* is a world:
 
-1.  $\exists w$ ...
+7.  $Ww \supset p$
 
-with actualist quantification over worlds inside of modal operators:
+Putting both of these moves together, the claim that p is true in some possible world,
 
-2.  $\diamond\exists w$ ...
-
-and replace world-relativized claims, like
-
-3.  p-in-w
-
-with conditionals, an "is a world" predicate", and a modal operator
-
-4.  $\diamond(\forall u((Wu\supset u=w)\supset p)$
-
-So a claim like
-
-5.  $\exists wp-in-w$
+8.  $\exists w(p \;rm{in}\; w)$
 
 becomes
 
-6.  $\diamond\exists w\diamond(\forall uu=w\supset p)$
+9.  $\Diamond\exists w(Ww & \Diamond ( Ww \supset p ))$
+
+So a claim like
+
+5.  $\exists w (p \;\rm{in}\; w})$
+
+becomes
+
+6.  $\Diamond \exists w\Diamond(\forall uu=w\supset p)$
 
 In philosophical English:
 
@@ -153,7 +312,7 @@ Built into this analysis are two assumptions:
 
 a.  Necessarily, there is exactly one world.
 
-b.  No world could be different from how it is.
+b.  Necessarily, for any world w, if [possibly w is a world and w has some property P] then necessarily [if w is a world, then w has P].
 
 
 The natural way to ensure (a) is to identify the world with the cosmos. But if we do that, then (b) commits us to superessentialism for the cosmos: it couldn't be different from how it is.

@@ -9,3 +9,4 @@ exclude     : ['README.markdown', 'scripts']
 url         : http://www.davidsanson.com
 pandoc      :
     smart   : true
+    webtex  : true

@@ -350,6 +350,7 @@ pre, code {
 
 .strikeout {
 	text-decoration: line-through;
+	color: red;
 }
 
 ul {

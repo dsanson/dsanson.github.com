@@ -1,0 +1,17 @@
+<article class="postindex">
+    
+<ul id="postindex">
+{% for post in cat %}
+{% if post.categories contains subcat %}
+{% include postindex.html %}
+{% endif %}
+{% endfor %}
+</ul>
+
+</article>
+
+{% for post in cat %}
+{% if post.categories contains subcat %}
+{% include postlist.html %}
+{% endif %}
+{% endfor %}

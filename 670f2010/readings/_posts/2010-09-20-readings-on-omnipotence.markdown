@@ -3,6 +3,7 @@ title: Readings on Omnipotence
 layout: phil670
 section: readings
 published: true
+comments: true
 excerpt: We will aim to work through this material over three weeks. That may be an impossible task. We'll see how it goes and what catches our interest.
 ---
 

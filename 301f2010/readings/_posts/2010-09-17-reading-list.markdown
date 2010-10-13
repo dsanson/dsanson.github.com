@@ -3,11 +3,13 @@ title: Reading List
 layout: phil301-post
 section: readings
 published: true
-excerpt: The course divides into three chronological chunks
+excerpt: | The course divides into three chronological chunks
     
     1. Presocratic Philosophy
     2. Socrates and Plato
     3. Aristotle
+    
+    We will work through the following texts in order, planning to spend roughly three weeks on each section.
 ---
 
 The course divides into three chronological chunks:

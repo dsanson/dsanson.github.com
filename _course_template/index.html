@@ -6,21 +6,7 @@ feed: atom.xml
 
 ---
 
-<article class="postindex">
-    
-<ul id="postindex">
-{% for post in site.categories.XXXTYYYY %}
-{% if post.categories contains "XXXTYYYY" %}
-{% include postindex.html %}
-{% endif %}
-{% endfor %}
-</ul>
-
-</article>
-
-{% for post in site.categories.XXXTYYYY %}
-{% if post.categories contains "XXXTYYYY" %}
-{% include postlist.html %}
-{% endif %}
-{% endfor %}
+{% assign cat=site.categories.XXXTYYYY %}
+{% assign subcat="XXXTYYYY" %}
+{% include postpage.html %}
 

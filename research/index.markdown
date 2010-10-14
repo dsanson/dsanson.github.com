@@ -6,14 +6,17 @@ section: research
 
 # Work in Progress
 
--   "[Once Present, Now Past](/research/oncepresent.pdf)"
+-   "[Once Present, Now Past](/research/oncepresent.pdf)", draft,
+    updated 10-13-2010.
 
-    -   If there are fundamental changes, then the past has explanatory
-        work to do, and it cannot do that work unless it no longer exists.
-        This tells against *The Moving Now* theory, *The Growing Block*
-        theory, and any form of Presentism that attempts to build past
-        facts into the present, including *Priorian Presentism*, as it is
-        standardly interpreted.
+    -   If reality is temporary, then reality changes, and if reality
+        changes, the past has explanatory work to do, and it cannot do that
+        work unless it is no longer any part of reality. This tells against
+        *The Moving Now* theory, *The Growing Block* theory, and any form
+        of Presentism that attempts to build past facts into the present,
+        including *Priorian Presentism*, as it is standardly interpreted.
+        It tells in favor of *Hypothetical Priorian Presentism*, and,
+        ultimately, in favor of *Meinonigan Presentism*.
 
 -   "[Presentism and Truthmaking](http://people.cohums.ohio-state.edu/caplan16/presentism_and_truthmaking.pdf)"
     (with [Ben Caplan](http://people.cohums.ohio-state.edu/caplan16/)),

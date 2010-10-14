@@ -12,7 +12,7 @@ Professor
 :	David Sanson, 372 University Hall, Office hours: Tue 2:30-3:30; Wed 10:30-11:30; or by appointment; sanson.7@osu.edu
 
 Teaching Assistant
-:	Lindsay Mouchet, 214 University Hall, Office hours: *TBA* or by appointment, mouchet.2@osu.edu
+:	Lindsay Mouchet, 214 University Hall, Office hours: Tues 11:15-12:15; Wed 3:30-4:30; or by appointment, mouchet.2@osu.edu
 
 Course Webpage
 :	[http://www.davidsanson.com/301](http://www.davidsanson.com/301)

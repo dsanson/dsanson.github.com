@@ -4,8 +4,8 @@
 {% assign link=post.url %}
 {% endif %}
 
-<article>
-  <h1><a class="title" href="{{ link }}">{{ post.title }}</a> {% if post.comments %}<span class="comments">(<a href="{{ link }}#disqus_thread">View Comments</a>)</span>{% endif %}
+<article class="post">
+  <h1><a class="title" href="{{ link }}">{{ post.title }}</a> {% if post.comments %}<span class="comments">(<a href="{{ post.url }}#disqus_thread">View Comments</a>)</span>{% endif %}
   </h1>
   {% if post.excerpt != null %}
   {% capture blurb %}{{ post.excerpt }}[→]({{ link }}){% endcapture %}

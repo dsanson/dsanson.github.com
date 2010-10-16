@@ -17,11 +17,7 @@ Most of the readings are short. You might wish to read through
 *everything* quickly to get a sense of the terrain, and then
 re-read each article slowly in sync with our class discussions.
 
-Some of the resources linked to from this page require a subscription. OSU has a subscription, and if you are on campus, the links should work fine. If you are off-campus, you will need to access the resources via the library's EZProxy service. Use the button below to convert all the links into indirect links, appropriate for off-campus access.
-
-{% include proxifybutton.html %}
-
-
+Some of the resources linked to from this page require a subscription. OSU has a subscription, and if you are on campus, the links should work fine. If you are off-campus, you will need to access the resources via the library's EZProxy service. Use the button at the top of this page to convert all the links into indirect links, appropriate for off-campus access.
 
 # Overview (Optional)
 

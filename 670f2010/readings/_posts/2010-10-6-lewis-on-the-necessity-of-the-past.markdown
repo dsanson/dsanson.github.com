@@ -9,4 +9,4 @@ published: true
 
 The relevant article is:
 
-+   Lewis, David. "[The Paradoxes of Time Travel](http://www.jstor.org/stable/20009616)" ([off-campus link](http://www.jstor.org.proxy.lib.ohio-state.edu/stable/20009616)). It is reprinted in his *Philosophical Papers Vol II*.
++   Lewis, David. "[The Paradoxes of Time Travel](http://www.jstor.org/stable/20009616)." It is reprinted in his *Philosophical Papers Vol II*.

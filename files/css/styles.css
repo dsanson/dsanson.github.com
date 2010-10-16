@@ -454,16 +454,14 @@ span.comments {
 	font-family: 'Lucida Grande', 'Lucida Sans', Optima, 'Gill Sans', Corbel, Verdana, sans-serif;
 	font-weight: bold;
 	border:thin solid #ccc; 
-	padding: 2px; 
+	padding: 3px; 
 	vertical-align: 1px; 
 	background: #eee; 
 	text-decoration: none;   
-	font-size: 120%; 
+	font-size: small; 
 	-moz-border-radius: 4px;
 	-webkit-border-radius: 4px;
 }
-
-
 
 #sub-foot {
 	text-align: center;

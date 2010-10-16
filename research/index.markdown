@@ -6,17 +6,16 @@ section: research
 
 # Work in Progress
 
--   "[Once Present, Now Past](/research/oncepresent.pdf)", draft,
-    updated 10-13-2010.
+-   "[Once Present, Now Past](/research/oncepresent.pdf)." In Review.
 
     -   If reality is temporary, then reality changes, and if reality
         changes, the past has explanatory work to do, and it cannot do that
-        work unless it is no longer any part of reality. This tells against
+        work unless it is no longer real. This tells against
         *The Moving Now* theory, *The Growing Block* theory, and any form
-        of Presentism that attempts to build past facts into the present,
-        including *Priorian Presentism*, as it is standardly interpreted.
-        It tells in favor of *Hypothetical Priorian Presentism*, and,
-        ultimately, in favor of *Meinonigan Presentism*.
+        of Presentism that attempts to understand the past in terms of the
+        present, including *Tensed Properties Presentism* and
+        *Tensed Facts Presentism*. It tells in favor of
+        *Priorian Presentism*, properly understood.
 
 -   "[Presentism and Truthmaking](http://people.cohums.ohio-state.edu/caplan16/presentism_and_truthmaking.pdf)"
     (with [Ben Caplan](http://people.cohums.ohio-state.edu/caplan16/)),
@@ -53,5 +52,4 @@ section: research
 
 - *[Being and Time: The Metaphysics of Past and Future in a Dynamic World](/research/dissertation.pdf)*, UCLA, 2005
 
-    + A dissertation that tries to make sense of the view that the fundamental metaphysical facts---the facts about what there is, and what properties things instantiate---are tensed or dynamic facts.
-
+    +   In my dissertation, I tried to make sense of the view that the facts that constitute reality---the facts about what there is, and what properties things instantiate---are temporary facts.

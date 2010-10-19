@@ -6,7 +6,7 @@ section: research
 
 # Work in Progress
 
--   "[Once Present, Now Past](/research/oncepresent.pdf)." In Review.
+-   "[Once Present, Now Past](/research/oncepresent.pdf)," (under review).
 
     -   If reality is temporary, then reality changes, and if reality
         changes, the past has explanatory work to do, and it cannot do that
@@ -21,8 +21,12 @@ section: research
     (with [Ben Caplan](http://people.cohums.ohio-state.edu/caplan16/)),
     promised to *Philosophy Compass*.
 
-    -   A brief overview of the Truthmaking Problem for Presentism and
-        possible solutions to it.
+    -   Three plausible views---Presentism, Truthmaking, and
+        Independence---form an inconsistent triad. By Presentism, all being
+        is present being. By Truthmaking, all truth supervenes on, and is
+        explained in terms of, present being. By Independence, some past
+        truths do not supervene on, or are not explained in terms of,
+        present being. We survey and assess some responses to this.
 
 # Papers
 
@@ -50,6 +54,6 @@ section: research
 
 # Dissertation
 
-- *[Being and Time: The Metaphysics of Past and Future in a Dynamic World](/research/dissertation.pdf)*, UCLA, 2005
+- *[Being and Time: The Metaphysics of Past and Future in a Dynamic World](/research/dissertation.pdf)*, UCLA, 2005.
 
     +   In my dissertation, I tried to make sense of the view that the facts that constitute reality---the facts about what there is, and what properties things instantiate---are temporary facts.

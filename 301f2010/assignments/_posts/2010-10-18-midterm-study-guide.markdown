@@ -55,9 +55,9 @@ All questions (other than quote identification) will either be taken from the qu
 
 15. Explain and contrast the following three claims about rivers, all attributed to Heraclitus:
 
-    -   **10.64** Upon those who step into the same rivers, different and again different waters flow.
-    -   **10.65** [It is not possible to step twice into the same river].... It scatters and again comes together, and approaches and recedes.
-    -   **10.66** We step into and we do not step into the same rivers. We are and we are not.
+    **10.64** Upon those who step into the same rivers, different and again different waters flow.  
+    **10.65** [It is not possible to step twice into the same river].... It scatters and again comes together, and approaches and recedes.  
+    **10.66** We step into and we do not step into the same rivers. We are and we are not.  
 
 16. Briefly explain the Three Ways of Inquiry, according to Parmenides.
 17. Explain what is meant by Parmenides' claim that "that which is there to be *spoken* and *thought* of must be."

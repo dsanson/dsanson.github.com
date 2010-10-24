@@ -1,8 +1,6 @@
 <!DOCTYPE html>
-
 <html lang="en">
 <head>
-
     <meta charset="utf-8" />
     <title>{{ page.title }}</title>
     <meta name="author" content="David Sanson" />
@@ -12,25 +10,13 @@
  	{% if page.feed %}
    	<link rel="alternate" type="application/atom+xml" href="{{ page.feed }}" title="RSS feed" />
 	{% endif %}    
-	
 	<!-- turn off automatic phone number linking -->
 	<meta name="format-detection" content="telephone=no" />
-
-    <link rel="stylesheet" href="/files/css/styles.css" />
-    <!--[if !IE]>-->
-    		<link rel="stylesheet" media="only screen and (max-width: 480px)" href="/files/css/iphone.css" />
-    		<meta name="viewport" content="width=320; initial-scale=1.0;" />
-    <![endif]-->
-    <link rel="stylesheet" media="print" href="/files/css/print.css" />
-
-    <link rel="shortcut icon" href="/favicon.ico" />
-    <link rel="apple-touch-icon" href="/files/img/touch.png" />
-
+    <!--loading js before css to work-around webkit background drawing bug-->
     <!--Make Internet Explorer recognize HTML5 tags-->
     <!--[if IE]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    
     <!--jquery for enabling collapsing lists-->
     <script type="text/javascript" src="http://code.jquery.com/jquery-1.4.2.min.js">
     </script>
@@ -39,22 +25,25 @@
     <!--various functions for collapsing menus, proxifying links, etc-->
     <script type ="text/javascript" src="/files/js/functions.js">
     </script>
-
-
     <script type="text/javascript">
     	var disqus_iframe_css = "/files/css/styles.css"
     </script>
-    
     <!--script for converting hcards-->
     <script type="text/javascript" src="http://h2v.1daylater.com/h2v.js">
     </script>
-    
-
+    <link rel="stylesheet" href="/files/css/styles.css" />
+    <!--[if !IE]>-->
+    		<link rel="stylesheet" media="only screen and (max-width: 480px)" href="/files/css/iphone.css" />
+    		<meta name="viewport" content="width=320; initial-scale=1.0;" />
+    <![endif]-->
+    <link rel="stylesheet" media="print" href="/files/css/print.css" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" href="/files/img/touch.png" />
 </head>
 
 <body class="{{ page.section }}">
     <div id="content">
-
+        
         {{ content }}
         {% include footer.html %}
     </div>

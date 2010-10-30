@@ -4,8 +4,8 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-    {% assign base = '/670f2010' %}
-    {% assign sectiontitle = 'Philosophy 670' %}
+    {% assign base = '/research' %}
+    {% assign sectiontitle = 'David Sanson: Research' %}
  
  <title>{{sectiontitle}}</title>
  <link href="{{site.url}}{{base}}/atom.xml" rel="self"/>
@@ -17,7 +17,7 @@ layout: nil
    <email></email>
  </author>
  
- {% for post in site.categories.670f2010 %}
+ {% for post in site.categories.research %}
  <entry>
    <title>{{ post.title }}</title>
    <link href="{{ site.url }}/{{ post.url }}"/>

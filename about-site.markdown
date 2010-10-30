@@ -1,7 +1,6 @@
 ---
 layout: name
 title: About this site
-
 section: about
 ---
 
@@ -19,9 +18,11 @@ One important exception:
 
 The design of this site is my own. But I began by taking a careful look at [Mark Reid's site](http://github.com/mreid/mark.reid.name), and the bones of this site's design continue to owe a fair bit to his design.
 
-## Software used to host this site ##
+## Software used to generate this site ##
 
 * [Jekyll](http://jekyllrb.com/) (a lightweight CMS)
+    +   (I've hacked my copy of Jekyll so that it can use [pandoc](http://johnmacfarlane.net/pandoc/) for markdown to html conversion; [pandoc-ruby](http://github.com/alphabetum/pandoc-ruby) made that easy.)
+* [JQuery](http://jquery.com/) (makes adding javascript bits easy)
 
 ## Services used to host this site ##
 
@@ -30,6 +31,7 @@ The design of this site is my own. But I began by taking a careful look at [Mark
 * [Disqus](http://disqus.com/) manages comments.
 * [H2VX Contacts Conversion Service](http://h2vx.com/vcf/) converts the hcard on the index page to a downloadable vcard.
 * [Gravatar](http://gravatar.com/) provides avatars for commenters and the image on my [about me](/about-me) page.
+* [Zotero](http://www.zotero.org/) provides [COinS metadata](http://ocoins.info/) for my research papers when it feels like it.
 
 ## Other software I use and recommend ##
 

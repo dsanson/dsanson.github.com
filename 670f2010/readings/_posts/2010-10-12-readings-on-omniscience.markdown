@@ -20,9 +20,11 @@ re-read each article slowly in sync with our class discussions.
 
 ## Molinism
 
+(Links fixed: thanks John.)
+
 +   Molina, Luis de, and Alfred J Freddoso. 1988. *On divine foreknowledge: part IV of the Concordia*. Ithaca: Cornell University Press. <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rft_id=urn%3Aisbn%3A0801421314%20%28alk.%20paper%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=On%20divine%20foreknowledge%3A%20part%20IV%20of%20the%20Concordia&amp;rft.place=Ithaca&amp;rft.publisher=Cornell%20University%20Press&amp;rft.aufirst=Luis%20de&amp;rft.aulast=Molina&amp;rft.au=Luis%20de%20Molina&amp;rft.au=Alfred%20J%20Freddoso&amp;rft.date=1988&amp;rft.isbn=0801421314%20(alk.%20paper)">&nbsp;</span>
-    +   Freddoso's [Introduction](http://people.cohums.ohio-state.edu/sanson7/courses/local/molina1988aa.pdf), sections 4 and 5.
-    +   [Disputation 52](http://people.cohums.ohio-state.edu/sanson7/courses/local/molina1988b.pdf)
+    +   Freddoso's [Introduction](http://people.cohums.ohio-state.edu/sanson7/courses/local/molina1988a.pdf), sections 4 and 5.
+    +   [Disputation 52](http://people.cohums.ohio-state.edu/sanson7/courses/local/molina1988ab.pdf)
 
 +   Adams, Robert Merrihew. 1991. “[An Anti-Molinist Argument](http://www.jstor.org/stable/2214100).” *Philosophical Perspectives* 5: 343–353. <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=An%20Anti-Molinist%20Argument&amp;rft.jtitle=Philosophical%20Perspectives&amp;rft.volume=5&amp;rft.aufirst=Robert%20Merrihew&amp;rft.aulast=Adams&amp;rft.au=Robert%20Merrihew%20Adams&amp;rft.date=1991&amp;rft.pages=343%E2%80%93353">&nbsp;</span>
 
@@ -53,7 +55,7 @@ re-read each article slowly in sync with our class discussions.
 
 +   Optional: Aquinas, I.65 of *Summa Contra Gentiles*.
 
-+   Molina, [Disputation 48](http://people.cohums.ohio-state.edu/sanson7/courses/local/molina1988ab.pdf).
++   Molina, [Disputation 48](http://people.cohums.ohio-state.edu/sanson7/courses/local/molina1988aa.pdf).
 
 +   Stump, Eleanor, and Norman Kretzmann. 1981. “[Eternity](http://www.jstor.org/stable/2026047).” *Journal of Philosophy* 78(8): 429–458. 
 <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Eternity&amp;rft.jtitle=Journal%20of%20Philosophy&amp;rft.volume=78&amp;rft.issue=8&amp;rft.aufirst=Eleanor&amp;rft.aulast=Stump&amp;rft.au=Eleanor%20Stump&amp;rft.au=Norman%20Kretzmann&amp;rft.date=1981&amp;rft.pages=429%E2%80%93458">&nbsp;</span>

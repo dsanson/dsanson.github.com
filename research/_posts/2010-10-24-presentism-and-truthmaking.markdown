@@ -5,12 +5,12 @@ layout: research-post
 section: research
 comments: false
 published: true
-status: in-review
+status: forthcoming
 ---
 
 "[Presentism and Truthmaking](/research/presentism-and-truthmaking.pdf)"
 (with [Ben Caplan](http://people.cohums.ohio-state.edu/caplan16/)),
-promised to *Philosophy Compass*.
+forthcoming in *Philosophy Compass*.
 
 > Three plausible views---Presentism, Truthmaking, and
 > Independence---form an inconsistent triad. By Presentism, all being

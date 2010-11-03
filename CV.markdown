@@ -41,6 +41,7 @@ Columbus, Ohio 43210
 
 ## Publications
 
+-   "Presentism and Truthmaking," with Ben Caplan, *Philosophy Compass*, forthcoming. 
 -   "The Way Things Were," with Ben Caplan, *Philosophy and Phenomenological Research* (81.1) 2010: 24–39.
 -   "The Early Arabic Liar," with Ahmed Alwishah, *Vivarium* (47:1) 2009: 97-127.
 
@@ -146,7 +147,7 @@ Columbus, Ohio 43210
 
 ## Other Service
 
-+	Session Chair, Central APA, 2009.
++	Session Chair: Central APA, 2010, Central APA, 2009, Pacific APA, 2006.
 +	Oberlin, external examiner
 	+	Rachel Randall, "The Ethics of Creation of Persons," BA Honors Thesis, Defended December 2007.
 	+	Michael Siniscalchi, "Can Representationalism Bridge Levine's Gap?" BA Honors Thesis, Defended December 2007.

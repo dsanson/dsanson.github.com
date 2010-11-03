@@ -1,6 +1,6 @@
 ---
 title: Once Present, Now Past
-date: 2010-10-17 20:54:52
+date: 2010-10-21 20:54:52
 layout: research-post
 section: research
 comments: false

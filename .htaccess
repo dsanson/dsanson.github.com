@@ -1,5 +1,6 @@
 Redirect 301 /home/me.html /about-me
 Redirect 301 /home/gizmos.html /gizmos
+Redirect 301 /CV /cv
 Redirect 301 /home /
 Redirect 301 /404.html /404.shtml
 Redirect 301 /410.html /410.shtml

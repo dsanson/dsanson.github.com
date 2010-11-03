@@ -14,7 +14,9 @@ forthcoming in *Philosophy Compass*.
 
 > Three plausible views---Presentism, Truthmaking, and
 > Independence---form an inconsistent triad. By Presentism, all being
-> is present being. By Truthmaking, all truth supervenes on, and is
-> explained in terms of, being. By Independence, some past
-> truths do not supervene on, or are not explained in terms of,
-> present being. We survey and assess some responses to this.
+> is present being. By Truthmaking, all truth supervenes on being. By 
+> Independence, some past
+> truths do not supervene on
+> present being. Presentists must reject either Truthmaking or
+> Independence. We survey and assess various attempts
+> to do so.

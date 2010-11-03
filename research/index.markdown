@@ -20,7 +20,7 @@ feed: /research/atom.xml
 
 <h1>Papers</h1>
 {% for post in site.categories.research %}
-{% if post.status == "published" or post.status == "in-review" %}
+{% if post.status == "published" or post.status == "in-review" or post.status == "forthcoming" %}
 <article class="post">
 {{ post.content }}
 </article>

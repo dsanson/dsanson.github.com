@@ -184,6 +184,8 @@ div.sitesearch p {
 
 .postdate {
 	color: #737CA1;
+	font-family: Courier, monospace;
+	font-size: 90%;
 }
 
 #story-title {

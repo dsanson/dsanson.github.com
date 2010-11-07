@@ -33,7 +33,7 @@ The site makes use of several useful scripts and services:
 -   [html5shiv](http://code.google.com/p/html5shiv/) makes older versions of Internet Explorer recognize HTML5 elements.
 -   [H2VX Contacts Conversion Service](http://h2vx.com/vcf/) converts the hcard on the index page to a downloadable vcard.
 -   [Gravatar](http://gravatar.com/) provides avatars for commenters and the image on my [about me](/about-me) page.
--   [Zotero](http://www.zotero.org/) generates [COinS metadata](http://ocoins.info/) for my research papers when it feels like it.
+-   I use the [COinS Generator](http://generator.ocoins.info/) to generate COinS metadata for papers on my research paper.
 -   The 'bored?' link at the bottom of each page is provided by [Kick ass](http://erkie.github.com/).
 
 The site is hosted on

@@ -17,7 +17,6 @@ body {
     padding: 1em;
     text-align: left;
     background: white;
-	-webkit-border-top-right-radius: 30px;
 	-moz-border-radius-topright: 30px;
 	border-top-right-radius: 30px;
 }
@@ -33,7 +32,6 @@ header {
 	padding-left: 1em;
 	margin-right: -1em;
 	padding-right: 2em;
-	-webkit-border-top-right-radius: 30px;
 	-moz-border-radius-topright: 30px;
 	border-top-right-radius: 30px;
 }
@@ -119,8 +117,6 @@ body.discuss li.discuss
 	border-bottom: 1px solid #ffffff;
 	-moz-border-radius-topright: 5px;
 	-moz-border-radius-topleft: 5px;
-	-webkit-border-top-right-radius: 5px;
-	-webkit-border-top-left-radius: 5px;
 	border-top-right-radius: 5px;
 	border-top-left-radius: 5px;
 	background: white;
@@ -280,7 +276,7 @@ footer a {
    font-size: x-small;
    text-decoration: none;
    -moz-border-radius: 3px;
-   -webkit-border-radius: 3px;
+   -border-radius: 3px;
    -webkit-box-shadow: 2px 2px 1px #2B3856;
    -moz-box-shadow: #2B3856 2px 2px 1px;
 
@@ -296,6 +292,7 @@ footer a {
 
 a img {
 	border: none;
+	-webkit-transition: opacity .3s ease;
 }
 
 a:hover img{
@@ -394,7 +391,7 @@ a.bml {
 	text-decoration: none;   
 	font-size: 70%; 
 	-moz-border-radius: 4px;
-	-webkit-border-radius: 4px;
+	border-radius: 4px;
 }
 
 span.comments {
@@ -430,7 +427,7 @@ span.comments {
 	text-decoration: none;   
 	font-size: 60%; 
 	-moz-border-radius: 4px;
-	-webkit-border-radius: 4px;
+	border-radius: 4px;
 }
 #collapse-switch {
 	display: none;
@@ -453,7 +450,6 @@ span.comments {
 	padding-bottom: 3px;
 	padding-left: 3px;
 	-moz-border-bottom-left-radius: 4px 4px;
-	-webkit-border-bottom-left-radius: 4px 4px;
 	border-bottom-left-radius: 4px 4px;
 	cursor: pointer;
 }

@@ -18,6 +18,7 @@ feed: /research/atom.xml
 {% endfor %}
 {% endcomment %}
 
+<section>
 <h1>Papers</h1>
 {% for post in site.categories.research %}
 {% if post.status == "published" or post.status == "in-review" or post.status == "forthcoming" %}
@@ -28,6 +29,7 @@ feed: /research/atom.xml
 {% endfor %}
 </section>
 
+<section>
 <h1>Dissertation</h1>
 {% for post in site.categories.research %}
 {% if post.status == "dissertation" %}

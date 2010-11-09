@@ -3,9 +3,10 @@ min-height:none;
 }
 
 body {
-     font-family: Helvetica, Verdana, sans-serif;
+     font-family: Helvetica, sans-serif;
 	 margin: 0px !important;
 	 margin-top: -1px !important;
+	 font-size: 13px !important;
 }
 
 #content {
@@ -26,13 +27,17 @@ header {
 }
 
 header h1 {
-	font-size: 25px !important;
+	font-size: 16px !important;
+}
+
+h1, h2, h3, h4 {
+	font-size: 14px !important;
 }
 
 nav {
     display: block;
 	text-align: left;
-    font-size: 15px;
+    font-size: 12px;
     margin: 0em;
     padding: 0em;
 }

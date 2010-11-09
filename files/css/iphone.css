@@ -28,6 +28,11 @@ header {
 
 header h1 {
 	font-size: 16px !important;
+	display: inline;
+}
+
+header h1 .extra {
+	display: none;
 }
 
 h1, h2, h3, h4 {
@@ -35,7 +40,7 @@ h1, h2, h3, h4 {
 }
 
 nav {
-    display: block;
+    display: inline;
 	text-align: left;
     font-size: 12px;
     margin: 0em;
@@ -48,7 +53,6 @@ nav ul {
 }
 
 nav li {
-	border: none !important;
 	margin-left: 0px;
 	margin-right: 0px;
     padding: 0px;
@@ -56,10 +60,8 @@ nav li {
 }
 
 nav li a {
-	padding: 5px 2px 0px 2px;
+	padding: 5px 3px 0px 3px;
 	-webkit-border-bottom-radius: 5px;	
-	margin-left: -1px;
-	margin-right: -1px;
 }
 
 nav li.left {
@@ -72,7 +74,7 @@ nav li.left {
 	margin-right: inherit;
 }
 
-li.home {
+li.home, li.main, li.about {
 	display: none;
 }
 
@@ -89,7 +91,6 @@ body.syllabus li.syllabus a,
 body.discuss li.discuss a
 { 
 	color: black;
-	font-weight: bold;
 }
 
 a {

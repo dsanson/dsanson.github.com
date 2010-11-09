@@ -15,6 +15,3 @@ status: published
 > the Medieval Arabic tradition, including the earliest known text in
 > any tradition to blame the paradox on self-reference. English
 > translations of the main texts are included.
-
-
-http%3A//www.davidsanson.com/research/ArabicLiar.pdf

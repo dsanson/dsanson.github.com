@@ -14,8 +14,8 @@ status: in-review
 > If reality is temporary, then reality changes, and if reality
 > changes, the past has explanatory work to do, and it cannot do that
 > work unless it is no longer real. This tells against
-> *The Moving Now* theory, *The Growing Block* theory, and any form
-> of *Presentism* that attempts to understand the past in terms of the
-> present, including *Tensed Properties Presentism* and
-> *Tensed Facts Presentism*. It tells in favor of
-> *Priorian Presentism*, properly understood.
+> *the moving now* theory, *the growing block* theory, and any form
+> of *presentism* that attempts to understand the past in terms of the
+> present, including *tensed properties presentism* and
+> *tensed facts presentism*. It tells in favor of
+> *priorian presentism*, properly understood.

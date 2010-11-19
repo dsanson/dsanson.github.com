@@ -73,3 +73,6 @@ header, footer {
 	display: none;
 }
     
+#dsq-global-toolbar, #dsq-like-tooltip, #dsq-new-post, #dsq-comments-title, .dsq-options, .dsq-comment-footer {
+	display: none !important;
+}

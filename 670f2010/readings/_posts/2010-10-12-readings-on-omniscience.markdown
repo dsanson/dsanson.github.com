@@ -60,7 +60,7 @@ re-read each article slowly in sync with our class discussions.
 +   Stump, Eleanor, and Norman Kretzmann. 1981. “[Eternity](http://www.jstor.org/stable/2026047).” *Journal of Philosophy* 78(8): 429–458. 
 <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Eternity&amp;rft.jtitle=Journal%20of%20Philosophy&amp;rft.volume=78&amp;rft.issue=8&amp;rft.aufirst=Eleanor&amp;rft.aulast=Stump&amp;rft.au=Eleanor%20Stump&amp;rft.au=Norman%20Kretzmann&amp;rft.date=1981&amp;rft.pages=429%E2%80%93458">&nbsp;</span>
 
-+   Leftow, Brian. 2002. “The Eternal Present.” In *God and Time: Essays on the Divine Nature*, Oxford University Press, p. 21–48. 
++   Leftow, Brian. 2002. “[The Eternal Present](http://people.cohums.ohio-state.edu/sanson7/courses/local/leftow2002.pdf).” In *God and Time: Essays on the Divine Nature*, Oxford University Press, p. 21–48. 
 <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=The%20Eternal%20Present&amp;rft.publisher=Oxford%20University%20Press&amp;rft.aufirst=Brian&amp;rft.aulast=Leftow&amp;rft.au=Brian%20Leftow&amp;rft.date=2002&amp;rft.pages=21%E2%80%9348">&nbsp;</span>
 
 +   Zimmerman, Dean. 2002. “[God inside time and before creation](http://fas-philosophy.rutgers.edu/zimmerman/GodInsideTime.pdf)” (revised version). Originally in Ganssle GE, Woodruff DM, (eds), *God and time: essays on the divine nature*. Oxford University Press.

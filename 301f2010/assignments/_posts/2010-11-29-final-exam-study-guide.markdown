@@ -6,10 +6,14 @@ section: assignments
 comments: true
 published: true
 excerpt: |
+    **REVISED**: I have removed questions 18 and 20.
+    
     This is a study guide for the final exam. The final will be in our usual lecture hall, Caldwell Lab 0120, on Wednesday, December 8th, from 11:30 am to 1:18 pm. It will be closed book, closed notes. I will provide blue books.
 ---
 
 # Instructions
+
+**REVISED**: I have removed questions 18 and 20.
 
 This is a study guide for the final exam. The final will be in our usual lecture hall, Caldwell Lab 0120, on Wednesday, December 8th, from 11:30 am to 1:18 pm. It will be closed book, closed notes. I will provide blue books.
 
@@ -55,8 +59,8 @@ The final will be cummulative. In addition to the questions below, questions on 
 
 17.  Explain Aristotle's distinction between primary substance and secondary substance.
 
-18.  Explain Aristotle's distinction between contraries and contradictories.
+18.  ~~Explain Aristotle's distinction between contraries and contradictories.~~
 
 19.  In *Physics* I.8, Aristotle presents an argument for the conclusion that nothing comes to be or perishes. His first response to the argument involves a distinction between coincidental and non-coincidental coming to be. Present the argument, present this response to it, and evaluate its force as a response.
 
-20.  In *Physics* I.8, Aristotle  presents an argument for the conclusion that nothing comes to be or perishes. His second response to the argument involves a distinction between potentiality and actuality. (He discusses this response at greater length in *Metaphysics* IX.) Present the argument, present this response to it, and evaluate its force as a response.
+20.  ~~In *Physics* I.8, Aristotle  presents an argument for the conclusion that nothing comes to be or perishes. His second response to the argument involves a distinction between potentiality and actuality. (He discusses this response at greater length in *Metaphysics* IX.) Present the argument, present this response to it, and evaluate its force as a response.~~

@@ -6,12 +6,16 @@ section: assignments
 comments: true
 published: true
 excerpt: |
+    **REVISED**: I have revised question 14 and question 3.
+    
     **REVISED**: I have removed questions 18 and 20.
     
     This is a study guide for the final exam. The final will be in our usual lecture hall, Caldwell Lab 0120, on Wednesday, December 8th, from 11:30 am to 1:18 pm. It will be closed book, closed notes. I will provide blue books.
 ---
 
 # Instructions
+
+**REVISED**: I have revised question 14 and question 3.
 
 **REVISED**: I have removed questions 18 and 20.
 
@@ -29,7 +33,7 @@ The final will be cummulative. In addition to the questions below, questions on 
 
 2.  At *Apology* 36d, Socrates says, of "one who has won a victory at Olympia", that "he makes you think you're happy, whereas I make you actually happy." Does this contrast make sense? What does Socrates do that he thinks makes Athenians happy?
 
-3.  At *Euthyphro* 7e, Euthyphro says that "what's love by the gods is pious, and what's not loved by the gods is impious." An argument is then given against this definition of piety and impiety. Present and evaluate the argument.
+3.  At *Euthyphro* ~~7e~~ 6e, Euthyphro says that "what's love by the gods is pious, and what's not loved by the gods is impious." An argument is then given against this definition of piety and impiety. Present and evaluate the argument.
 
 4.  At *Euthphryo* 9e, Euthyphro says that "the pious is what all the gods love, and its opposite, what all gods hate, is the impious." An argument is then given against this definition of piety and impiety. Present and evaluate the argument.
 
@@ -51,7 +55,7 @@ The final will be cummulative. In addition to the questions below, questions on 
 
 13.  At *Republic* IV.436b and following, Socrates argues that the soul has three parts. Present and evaluate his argument for this claim. Along the way, be sure to explain what the three parts of the soul are, according to Socrates.
 
-14.  At *Republic* V.477d and following, Socrates argues that knowledge and opinion are set over different objects: knowledge is set over what is, and opinion is set over what both is and is not. Present and evaluate his argument for this conclusion.
+14.  At *Republic* V.477d and following, Socrates argues that knowledge and opinion are set over different objects~~: knowledge is set over what is, and opinion is set over what both is and is not~~. Present and evaluate his argument for this conclusion. **NOTE**: Edited question: all I want is the argument for the conclusion that they have different objects, not the further argument concerning what those objects are.
 
 15.  Briefly recount the *Allegory of the Cave*, explaining its philosophical significance.
 

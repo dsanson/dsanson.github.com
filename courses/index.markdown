@@ -7,12 +7,6 @@ section: courses
 
 When emailing about a course, please include your full name in the body of your email and the course number (e.g., "463") in the subject line. 
 
-## Present
-
--	Fall 2010
-	-   [Ancient Philosophy (301)](/301f2010), TR 12:30PM - 2:18PM
-	-   [Topics in Philosophy of Religion (670)](/670f2010), TR 10:30AM - 12:18PM
-
 ## Future
 
 +	Spring 2011
@@ -21,6 +15,9 @@ When emailing about a course, please include your full name in the body of your 
 	
 ## Past
 
+-	Fall 2010
+	-   [Ancient Philosophy (301)](/301f2010)
+	-   [Topics in Philosophy of Religion (670)](/670f2010)
 -   Winter 2010
     +   [Introduction to Metaphysics (463)](/463w2010)
     +   [Graduate Seminar: The Metaphysics of Tense (863)](/863w2010)

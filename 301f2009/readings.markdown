@@ -1,6 +1,6 @@
-% Readings
-% David Sanson
-% September 16, 2009
+---
+layout: 301f2009
+---
 
 We will work through the following texts in the following order. 
 

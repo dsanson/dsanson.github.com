@@ -1,6 +1,6 @@
-% Syllabus
-% David Sanson
-% September 11, 2009
+---
+layout: 301f2009
+---
 
 # Philosophy 301: Ancient Philosophy, Fall 2009 #
 

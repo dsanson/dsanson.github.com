@@ -1,6 +1,6 @@
 ---
 layout: name
-title: Research
+title: Research — David Sanson
 section: research
 feed: /research/atom.xml
 ---

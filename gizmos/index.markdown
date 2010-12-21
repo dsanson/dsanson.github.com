@@ -1,6 +1,6 @@
 ---
 layout: name
-title: Gizmos
+title: Gizmos — David Sanson
 section: gizmos
 ---
 

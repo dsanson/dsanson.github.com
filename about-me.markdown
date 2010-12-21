@@ -1,6 +1,6 @@
 ---
 layout: name
-title: About Me
+title: About David Sanson
 section: about
 ---
 

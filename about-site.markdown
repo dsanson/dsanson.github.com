@@ -1,6 +1,6 @@
 ---
 layout: name
-title: About this site
+title: About davidsanson.com
 section: about
 ---
 

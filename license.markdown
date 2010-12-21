@@ -1,5 +1,5 @@
 ---
-title: License
+title: License — davidsanson.com
 layout: name
 section: about
 ---

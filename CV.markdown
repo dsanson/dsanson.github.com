@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Curriculum Vitae
+title: Curriculum Vitae — David Sanson
 section: cv
 pdf: 1
 ---

@@ -10,7 +10,7 @@ I am an assistant professor of philosophy at the Ohio State University.
 
 I'm primarily a metaphysician, but I dabble in history on the side.
 
-A chunk of my current research focuses on the unreal: the past and future, the merely possible, the fictional. A related chunk of my current research focuses on temporal instability (change) and modal instability (contingency).
+A chunk of my current research focuses on the unreal: the past and future, the merely possible, the imaginary, the fictional, the ideal. A related chunk focuses on temporal instability (change) and modal instability (contingency).
 
 I've also done some work on the history of the Liar Paradox.
 

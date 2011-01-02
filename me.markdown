@@ -4,7 +4,8 @@ title: About David Sanson
 section: about
 ---
 
-<img class="gravatar" src="http://www.gravatar.com/avatar.php?gravatar_id=f5c32764cbb1669dd68cb9130ee9fe86" alt=""/>
+<img class="gravatar" style="-webkit-transition: -webkit-transform 3s ease-in-out"
+  onclick="this.style.webkitTransform='rotate(3580deg)'"  src="http://www.gravatar.com/avatar.php?gravatar_id=f5c32764cbb1669dd68cb9130ee9fe86" alt=""/>
 
 I am an assistant professor of philosophy at the Ohio State University. 
 

@@ -6,7 +6,7 @@ body {
      font-family: Helvetica, sans-serif;
 	 margin: 0px !important;
 	 margin-top: -1px !important;
-	 font-size: 13px !important;
+	 font-size: 15px !important;
 }
 
 #content {
@@ -27,8 +27,8 @@ header {
 }
 
 header h1 {
-	font-size: 16px !important;
-	display: inline;
+	font-size: 20px !important;
+	display: block;
 }
 
 header h1 .extra {
@@ -42,7 +42,7 @@ h1, h2, h3, h4 {
 nav {
     display: inline;
 	text-align: left;
-    font-size: 12px;
+    font-size: 15px;
     margin: 0em;
     padding: 0em;
 }

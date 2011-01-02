@@ -74,7 +74,7 @@ nav li.left {
 	margin-right: inherit;
 }
 
-li.home, li.main, li.about {
+li.home, li.main {
 	display: none;
 }
 

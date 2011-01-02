@@ -327,8 +327,17 @@ img.gravatar {
 }
 
 .pdflink {
-        float:right;
-        font-size:small;
+	float:right;
+	margin-top: 0em;
+	border:thin solid #ccc; 
+	padding: 2px; 
+	vertical-align: 1px; 
+	background: #eee; 
+	text-decoration: none;   
+	font-size: 60%;
+	font-weight: bold;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
 }
 
 h1, h2, h3 {

@@ -103,8 +103,9 @@ Columbus, Ohio 43210
 
 ## Refereeing
 
--   *Australasian Journal of Philosophy*
 -   *American Philosophical Quarterly*
+-   *Australasian Journal of Philosophy*
+-   *Pacific Philosophical Quarterly*
 -   *Philosophical Studies*
 
 ## Departmental Service
@@ -124,10 +125,11 @@ Columbus, Ohio 43210
 +	Dissertation Committee Member:
 	+ 	Wesley Cray, 2009-present
 	+	Cathy Muller, 2008-present
-	+	Vassilis Tsompanidis (UC Santa Barbara), 2008-present
+	+	Vassilis Tsompanidis (UC Santa Barbara), 2008-2010
 	+	Eric Carter, 2007-present	
 +	Graduate Qualifying Exam Committee Member:
     +   Scott Brown, 2011
+    +   James McGlothlin, 2011
 	+	Wesley Cray, 2009
 	+	Patrick Reeder, 2009	
 	+	Cathy Muller, 2008	

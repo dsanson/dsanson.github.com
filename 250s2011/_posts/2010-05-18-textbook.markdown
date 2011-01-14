@@ -4,5 +4,8 @@ layout: phil250-post
 section: main
 ---
 
+<img style="float:right" src="/files/img/bmn.jpg">
+
 +   Bergmann, Moor, and Nelson, *The Logic Book*, 5th edition. McGraw-Hill, 2008. ISBN: 978-0073535630
 
+This is a good but over-priced textbook: I'm sorry about that. Amazon lists it new for $93. The OSU Barnes and Noble says it will go for $129 new, $92 used.

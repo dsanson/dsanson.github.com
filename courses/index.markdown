@@ -7,11 +7,14 @@ section: courses
 
 When emailing about a course, please include your full name in the body of your email and the course number (e.g., "463") in the subject line. 
 
-## Future
+## Spring 2011
 
-+	Spring 2011
-	+	[Symbolic Logic (250)](/250s2011)
-	+	Dissertation Seminar (999)
++	[Symbolic Logic (250)](/250s2011)
+    +   Lecture: [Bolz Hall](http://www.osu.edu/map/building.php?building=146) 0436, MW 9:30-10:48
+    +   Recitations: T 9:30-10:18; T 10:30-11:18.
+    
++	Dissertation Seminar (999)
+    +   University Hall 353, M 12:30-3:18
 	
 ## Past
 

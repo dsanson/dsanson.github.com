@@ -5,15 +5,21 @@ section: syllabus
 
 ---
 
-**DRAFT---ANYTHING CAN CHANGE**
+<p style="text-align:center">**DRAFT---ANYTHING CAN CHANGE**</p>
 
-## Philosophy 250:  ##
+## Philosophy 250  ##
 
 Professor
-:	David Sanson, 372 University Hall, Office hours: TBA or by appointment, sanson.7@osu.edu
+:	David Sanson, 372 University Hall, sanson.7@osu.edu. Office hours: TBA or by appointment. 
 
 Teaching Assistant
-:	TBA, 214 University Hall, Office hours: TBA or by appointment, email TBA
+:	TBA, 214 University Hall, email TBA. Office hours: TBA or by appointment.
+
+Lecture
+:   MW 9:30-10:48, [Sullivant Hall](http://www.osu.edu/map/building.php?building=106) 0105
+
+Recitations
+:   Tu 9:30AM - 10:18AM, [University Hall](http://www.osu.edu/map/building.php?building=339) 0043; Tu 10:30AM - 11:18AM, [Bolz Hall](http://www.osu.edu/map/building.php?building=146) 0437
 
 Course Webpage
 :	[http://davidsanson.com/250](http://davidsanson.com/250)
@@ -28,6 +34,7 @@ This course introduces symbolic logic up to and including predicate logic with i
 
 ## Requirements ##
 
+Some tests and some homework and maybe some quizzes.
 
 ## Academic Misconduct  ##
 

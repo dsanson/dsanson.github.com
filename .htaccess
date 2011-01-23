@@ -8,6 +8,13 @@ Redirect 301 /home /
 Redirect 301 /404.html /404.shtml
 Redirect 301 /410.html /410.shtml
 
+Redirect 301 /research/oncepresent.pdf http://files.davidsanson.com/research/oncepresent.pdf
+Redirect 301 /research/maximal-possibilities.pdf http://files.davidsanson.com/research/maximal-possibilities.pdf
+Redirect 301 /research/presentism-and-truthmaking.pdf http://files.davidsanson.com/research/presentism-and-truthmaking.pdf
+Redirect 301 /research/WayThingsWere.pdf http://files.davidsanson.com/research/WayThingsWere.pdf
+Redirect 301 /research/dissertation.pdf http://files.davidsanson.com/research/dissertation.pdf
+Redirect 301 /research/ArabicLiar.pdf http://files.davidsanson.com/research/ArabicLiar.pdf
+
 Redirect gone /phil301w2009
 
 Redirect 301 /philosophy301 /301

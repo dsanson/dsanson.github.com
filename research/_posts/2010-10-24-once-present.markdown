@@ -8,7 +8,7 @@ published: true
 status: in-review
 ---
 
-"[Once Present, Now Past](/research/oncepresent.pdf)," under review.
+"[Once Present, Now Past](http://files.davidsanson.com/research/oncepresent.pdf)," under review.
 <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rfr_id=info%3Asid%2Focoins.info%3Agenerator&amp;rft.genre=article&amp;rft.atitle=Once+Present%2C+Now+Past&amp;rft.date=2010&amp;rft.aulast=Sanson&amp;rft.aufirst=David&amp;rft.au=David+Sanson&amp;rtf-id=http%3A//www.davidsanson.com/research/oncepresent.pdf"></span>
 
 > If reality is temporary, then reality changes, and if reality

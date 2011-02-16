@@ -23,8 +23,8 @@ This is a support group for people who meet two conditions:
 ## Requirements ##
 
 1. One dissertation abstract
-2. One turn as presentor
-3. One turn as commentor
+2. One turn as presentator
+3. One turn as commentator
 4. Regular participation
 
 ### Abstract ###
@@ -33,11 +33,11 @@ This is a good exercise---it helps you focus on the big picture and gives you a 
 
 First draft due **Monday, April 4th** (week two) or the **Friday before you present** (which ever comes **first**).Everyone will have a chance to provide feedback on everyone's abstract. Expect to go through several revisions.
 
-### Presentor ###
+### Presentator ###
 
-You will distribute some chunk of your work to everyone **no later than the Friday before you present**. Someone is assigned as your "commentor." You then open your session by *briefly* summarizing what the work is about or what you are trying to do or what bothers you most about it (5 minutes max!). Your commentor then *briefly* (5 minutes max!) raises a couple of points for further discussion. We then spend the rest of the time allotted discussing your work.
+You will distribute some chunk of your work to everyone **no later than the Friday before you present**. Someone is assigned to comment. She opens discussion by *briefly* (3-5 minutes!) raising a couple of points for further discussion. You are given a chance to respond. We spend the rest of the time allotted discussing your work.
 
-### Commentor ###
+### Commentator ###
 
 See above. Please **do not sink a lot of time and effort into this**. Take some notes as you read the paper, spend a few minutes looking over those notes and gathering your thoughts, and formulate a couple questions or puzzles to help us get discussion going. That's all.
 

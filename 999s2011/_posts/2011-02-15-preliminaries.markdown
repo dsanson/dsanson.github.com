@@ -12,8 +12,8 @@ excerpt: |
 A [syllabus](/999s2011/syllabus) is now posted. You can see that I've settled on the "seminar" format described in my earlier email. Requirements for the course are:
 
 1. One dissertation abstract
-2. One turn as presentor
-3. One turn as commentor
+2. One turn as presentator
+3. One turn as commentator
 4. Regular participation
 
 These requirements are negotiable on a case-by-case basis.

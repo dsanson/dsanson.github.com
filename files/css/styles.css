@@ -489,3 +489,13 @@ span.comments {
 .dsq-tooltip-outer, #dsq-global-toolbar {
 	display: none !important;
 }
+
+#boilerplate {
+    font-size: small;
+    font-style: italic;
+    background-color: #E0FFFF;
+    border: thin solid  #3d3d3d;
+	-moz-border-radius-topright: 15px;
+	border-top-right-radius: 15px;
+	padding: 1em;
+}

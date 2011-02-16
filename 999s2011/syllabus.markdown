@@ -53,9 +53,9 @@ This class really is about supporting your work. I don't want it to get in the w
 
 Now is the time to start thinking about writing samples. Use this as an occasion to do so. Give us **a draft of your writing sample**. Don't have a draft of your writing sample? **Now** is the time to start working on one. Talk to your advisor and figure it out. Typically, this will mean taking some chunk of your disseration and making it into a self-standing paper. **Now** is the time to start doing that.
 
-**********
+<div id="boilerplate">
 
-Martin Luther King, Jr. plagarized large chunks of his dissertation. Maybe that was because nobody ever remembered to put the required clause about academic misconduct into a syllabus that was directly connected to dissertation writing?
+Martin Luther King, Jr. plagarized large chunks of his dissertation. Maybe that was because nobody ever remembered to put the required clause about academic misconduct into a syllabus that was directly connected to the dissertation he was writing?
 
 ## Academic Misconduct  ##
 
@@ -68,5 +68,7 @@ If you need (or may need) an accommodation based on the impact of a disability, 
 ## GEC Categories ##
 
 This course will not contribute to your general education in any way at all. Sorry.
+
+</div>
 
 

@@ -7,6 +7,6 @@ permalink   : none
 markdown    : rdiscount
 exclude     : ['README.markdown', 'scripts']
 url         : http://www.davidsanson.com
-pandoc      :
+pandoc      : 
     smart   : true
     webtex  : true

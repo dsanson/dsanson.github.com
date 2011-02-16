@@ -5,8 +5,6 @@ section: syllabus
 
 ---
 
-# Dissertation Seminar Syllabus #
-
 Professor
 :	David Sanson, 372 University Hall, Office hours: TBA or by appointment, sanson.7@osu.edu
 

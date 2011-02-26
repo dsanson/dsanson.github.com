@@ -7,7 +7,7 @@ html {
 body {
      font-family: Optima, 'Gill Sans', 'Lucida Sans', 'Lucida Grande', Corbel, Verdana, sans-serif;
      text-rendering: optimizeLegibility;
-     background: #3D3D3D;
+/*     background: #3D3D3D;*/
 /*   background: rgba(61,61,61,.9);*/
 	 min-height: 100%;
 }

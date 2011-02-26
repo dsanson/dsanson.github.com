@@ -1,12 +1,14 @@
 html {
      min-height: 100%
-	 background: #3d3d3d;
+     background: #3D3D3D;
+	 background: rgba(41,41,41,.9);
 }
 
 body {
      font-family: Optima, 'Gill Sans', 'Lucida Sans', 'Lucida Grande', Corbel, Verdana, sans-serif;
      text-rendering: optimizeLegibility;
-	 background: #3d3d3d;
+     background: #3D3D3D;
+/*   background: rgba(61,61,61,.9);*/
 	 min-height: 100%;
 }
 

@@ -18,8 +18,12 @@ When emailing about a course, please include your full name in the body of your 
 	
 ## Future
 
-+	Fall 2011: First Year Seminar (700) with William Taschek
-+   Winter 2011: Ancient Philosophy (301)
++	Fall 2011
+	+	First Year Seminar (700) with William Taschek
+
++   Winter 2011
+	+	Ancient Philosophy (301)
+
 +	Spring 2012
 	+	Medieval Philosophy (302)
 	+	Graduate Seminar in Metaphysics (863)
@@ -29,6 +33,7 @@ When emailing about a course, please include your full name in the body of your 
 -	Fall 2010
 	-   [Ancient Philosophy (301)](/301f2010)
 	-   [Topics in Philosophy of Religion (670)](/670f2010)
+
 -   Winter 2010
     +   [Introduction to Metaphysics (463)](/463w2010)
     +   [Graduate Seminar: The Metaphysics of Tense (863)](/863w2010)

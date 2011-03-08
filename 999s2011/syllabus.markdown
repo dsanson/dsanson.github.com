@@ -53,7 +53,7 @@ Now is the time to start thinking about writing samples. Use this as an occasion
 
 <div id="boilerplate">
 
-Martin Luther King, Jr. plagarized large chunks of his dissertation. Maybe that was because nobody ever remembered to put the required clause about academic misconduct into a syllabus that was directly connected to the dissertation he was writing?
+Karl-Theodor zu Guttenberg plagiarized large chunks of his dissertation. Maybe this was because nobody ever remembered to put the required clause about academic misconduct into a syllabus that was directly connected to the dissertations he was writing?
 
 ## Academic Misconduct  ##
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: gizmos-post
 title: "Pandoc Bundle for Vim"
 published: true
 ---

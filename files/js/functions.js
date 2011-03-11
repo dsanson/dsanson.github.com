@@ -1,5 +1,5 @@
 function menutoggle() {
-    $('.old-post').toggle();
+    $('.old-post').slideToggle();
     $('#expand-switch').toggle();
     $('#collapse-switch').toggle();
 }

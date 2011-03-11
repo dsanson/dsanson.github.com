@@ -12,7 +12,7 @@ Unless specified otherwise:
 
 One important exception:
 
--   All rights reserved for research papers and drafts of research papers, including all documents linked to from my [Research](%7B%7B%20site.url%20%7D%7D/research "Research") page.
+-   All rights reserved for research papers and drafts of research papers, including all documents linked to from my [Research](/research "Research") page.
 
 ## Site design
 
@@ -40,7 +40,7 @@ The site is hosted on
 
 -   [NearlyFreeSpeech.net](https://www.nearlyfreespeech.net/),
 
-which is an inexpensive pay-as-you-go bare-bones web host. I've been happy with it so far.
+an inexpensive pay-as-you-go bare-bones web host. I've been happy with them so far.
 
 The site is also available on [Github](http://github.com/). You can browse the [source](http://github.com/dsanson/dsanson.github.com) used by Jekyll to generate the site (and fork it if you like!). Github also automatically generates a [mirror](http://dsanson.github.com) of the site.
 
@@ -66,5 +66,4 @@ The site is also available on [Github](http://github.com/). You can browse the [
 -   [Quicksilver](http://github.com/tiennou/blacktree-alchemy) (an OSX application launcher and much much more)
 -   [SimpleNote](http://simplenoteapp.com/) (simple text notes made simple on iOS; syncs with Notational Velocity)
 -   [Evernote](http://www.evernote.com/) (less simple notes and not quite as simple, syncs with everything)
--   [Dropbox](https://www.getdropbox.com/referrals/NTg1MzM4OQ) (sharing files between computers made si
-mple)
+-   [Dropbox](https://www.getdropbox.com/referrals/NTg1MzM4OQ) (sharing files between computers made simple)

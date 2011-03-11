@@ -44,6 +44,10 @@ header * {
 
 #backlink {
 	display: block;
+	font-size: x-small;
+	padding: 0em;
+	margin-top: 0em;
+	margin-bottom: .1em;
 }
 
 hr {
@@ -320,12 +324,20 @@ a:active img {
 }
 
 img.gravatar {
-	float:left; 
-	padding-top:2px; 
-	padding-right:1em; 
-	padding-bottom:.5em;
+	display: block;
+	margin-left: auto;
+	margin-right:auto;
+	padding-top: 1em; 
 	-webkit-transform: rotate(-2deg); 
 	-moz-transform: rotate(-2deg);
+	-webkit-transition-property: -webkit-transform,opacity;
+	-webkit-transition-duration: 3s,3s;
+	-webkit-timing-function: ease-in-out,ease-in-out;
+}
+
+img.gravatar2 {
+	-webkit-transform: scale(500);
+	opacity: 0;
 }
 
 .pdflink {
@@ -500,4 +512,16 @@ span.comments {
 	-moz-border-radius-topright: 15px;
 	border-top-right-radius: 15px;
 	padding: 1em;
+}
+
+.show-me {
+	display:block
+}
+
+#me {
+	display: none
+}
+
+#more-about-me, #less-about-me {
+	text-align: center
 }

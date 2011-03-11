@@ -1,10 +1,9 @@
+<!--<p id="backlink">/<a href="/">Sanson</a>/<a href="/courses">Courses</a>/{{sectiontitle}}</p>-->
 <h1 id="blog-title">
    <a href="{{base}}" accesskey="1">{{sectiontitle}}</a>
 </h1>
 <nav>
     <ul>
-        <li class="up left"><a href="/courses">Other Courses</a></li>
-        <li class="main"><a href="{{base}}">Main</a></li>  
         {% for section in page.sections %}
         <li class="{{ section | downcase }}"><a href="{{base}}/{{ section | downcase }}">{{ section }}</a></li>
         {% endfor %}

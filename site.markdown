@@ -32,7 +32,7 @@ The site makes use of several useful scripts and services:
 -   [JQuery](http://jquery.com/) makes adding occasional bits of javascript-powered functionality easy
 -   [html5shiv](http://code.google.com/p/html5shiv/) makes older versions of Internet Explorer recognize HTML5 elements.
 -   [H2VX Contacts Conversion Service](http://h2vx.com/vcf/) converts the hcard on the index page to a downloadable vcard.
--   [Gravatar](http://gravatar.com/) provides avatars for commenters and the image on my [about me](/about-me) page.
+-   [Gravatar](http://gravatar.com/) provides avatars for commenters and the image on my [about me](/me) page.
 -   I use the [COinS Generator](http://generator.ocoins.info/) to generate COinS metadata for papers on my research paper.
 -   The 'bored?' link at the bottom of each page is provided by [Kick ass](http://erkie.github.com/).
 
@@ -44,14 +44,14 @@ which is an inexpensive pay-as-you-go bare-bones web host. I've been happy with 
 
 The site is also available on [Github](http://github.com/). You can browse the [source](http://github.com/dsanson/dsanson.github.com) used by Jekyll to generate the site (and fork it if you like!). Github also automatically generates a [mirror](http://dsanson.github.com) of the site.
 
-## Other software I use and recommend
+## Other software I use or recommend
 
 ### For Writing
 
 -   [Pandoc](http://johnmacfarlane.net/pandoc/) (generates HTML, LaTeX, PDF, ODT, RTF, EPUB, s5, Slidy, DocBook, ConTeXt, Texinfo, man, reStructuredText, MediaWiki documents from [extended](http://johnmacfarlane.net/pandoc/README.html#pandocs-markdown-vs.standard-markdown) [markdown](http://daringfireball.net/projects/markdown/) documents)
--   [Notational Velocity](http://notational.net/) (simple text notes made simple; with a few tweaks could be a great plain-text writing environment)
+-   [Notational Velocity](http://notational.net/) (simple text notes made simple)
 -   [TextMate](http://macromates.com/) (a powerful text editor)
--   [Scrivener](http://www.literatureandlatte.com/scrivener.html) ("a project management tool [...] for writers"; also good for managing course lecture notes)
+-	[MacVim](http://code.google.com/p/macvim/) (a more powerful text editor with a steeper learning curve)
 -   [git](http://git.or.cz/) (version control software: if you write in plain-text, figuring this out is worth it)
 
 ### For Research

@@ -65,7 +65,7 @@ A:link, A:visited {
    }
 */
 
-header, footer {
+header, footer, #sub-foot {
 	display: none;
 }
 

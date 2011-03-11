@@ -47,3 +47,7 @@ function moreMe() {
 	$('#me').slideToggle();
 	$('#more-about-me').slideToggle();
 }
+
+function dm() {
+	window.location='http://localhost:4000/tty.html'
+}

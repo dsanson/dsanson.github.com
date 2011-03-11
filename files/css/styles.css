@@ -337,7 +337,7 @@ img.gravatar {
 
 img.gravatar2 {
 	-webkit-transform: scale(500);
-	opacity: 0;
+	opacity: 1;
 }
 
 .pdflink {

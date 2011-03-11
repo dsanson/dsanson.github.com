@@ -49,5 +49,5 @@ function moreMe() {
 }
 
 function dm() {
-	window.location='http://localhost:4000/tty.html'
+	window.location='http://www.davidsanson.com/tty'
 }

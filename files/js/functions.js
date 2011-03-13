@@ -49,5 +49,5 @@ function moreMe() {
 }
 
 function dm() {
-	window.location='http://www.davidsanson.com/tty'
+	window.location='http://www.davidsanson.com/tty/'
 }

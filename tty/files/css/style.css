@@ -4,11 +4,10 @@
 	Now dynamic to support changing colours in the configuration.
 */
 
-html, body { height:99%; }
+html, body { height:95%; }
 body { background-color:#000; font-family:"Courier New",Courier,monospace; margin:0 15px; padding:0; }
-#screen { }
 pre, td, th, p, div { color:#FFF; font-family:"Courier New",Courier,monospace; font-size:1em; }
-div#screen { height:95%; background-color:green; width: 40em; margin-top: 0; margin-bottom: 5%; margin-left: auto; margin-right: auto; overflow-y:auto; overflow-x:hidden; padding:0; }
+div#screen { height:90%; background-color:green; width: 45em; margin-top: 3%; margin-bottom: 5%; margin-left: auto; margin-right: auto; overflow-y:auto; overflow-x:hidden; padding:0; }
 div, table { margin-bottom:1em; margin-top:0em; }
 pre, td, p { background-color:transparent; }
 code, p, span, td, th { font-size:1em; }
@@ -34,10 +33,11 @@ div#indicators span { background-color:#FFF; color:#000; display:none; }
 div#cform { height:1px; left:0; position:absolute; top:0; width:1px; }
 img { color:#FFF; font-size:x-small; } /* for broken images */
 img.comic { background:white; padding:5px; }
+img.inline {width: 100%;}
 iframe { margin:0; border:none; }
 div.browser { margin:5px 2px; outline:2px solid gray; }
 form#searchform input[type=text] { background-color:#000; border:1px solid #FFF; color:#FFF; font-family:"Courier New",Courier,monospace; width:100px; }
 form#searchform input[type=submit] { background-color:#FFF; border:1px solid #000; color:#000; font-family:"Courier New",Courier,monospace; font-size:1em; }
-div#credit { position:absolute; bottom:0; color:#FFF; font-size:xx-small; opacity:.25; text-align:center; margin-left: auto; mamargin-right: auto; width: 100% }
+div#credit { postion: absolute; bottom: 2em; left: 0; color:#FFF; font-size:xx-small; opacity:.25; text-align:center; margin: 0 auto; width: 100% }
 div#credit:hover { opacity:.75; }
 div#credit a { font-size:xx-small; text-decoration:underline; }

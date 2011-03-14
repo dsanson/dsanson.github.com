@@ -20,7 +20,7 @@ function stringToPath(pathstring) {
 	}
 	// deal with .. and .
 	var cleanpath = [];
-	for (i in path) {
+	for (var i in path) {
 		if (path[i] == "..") {
 			cleanpath.pop();
 		} else if (path[i] != "." && ( path[i] != "" || i==0)) {
@@ -37,14 +37,18 @@ function setPrompt(path) {
 }
 
 function pathtoFile(path) {
+	try {
 	thisFile = TerminalShell.files;
 	var l=path.length-1;
-	for(i=0; i<l; i++) {
+	for(var i=0; i<l; i++) {
 		thisFile = thisFile[path[i]].contents;
 	}
 	thisFile = thisFile[path[i]];
 	thisFile.path = path;
 	return thisFile;
+	} catch(err) {
+		return 0;
+	}
 }
 
 
@@ -61,17 +65,55 @@ function randomChoice(items) {
 
 // Core Commands
 
+// `echo` command
+
+TerminalShell.commands['echo'] = function(terminal) {
+	var cmd_args = Array.prototype.slice.call(arguments);
+	cmd_args.shift(); // terminal
+	if (cmd_args.length == 0) {
+		terminal.print('');
+	} else {
+		terminal.print(cmd_args.join(" "));
+	}
+}	
+
+
 // `ls` command
 
-TerminalShell.commands['ls'] = function(terminal, path) {
-	var name_list = $('<ul>');
-	$.each(this.cwd, function(name, obj) {
-		if (obj.type == 'dir') {
-			name += '/';
+TerminalShell.commands['ls'] = function(terminal) {
+	var cmd_args = Array.prototype.slice.call(arguments);
+	var showHidden = false;
+	cmd_args.shift(); // terminal
+	if (cmd_args.length == 0) {
+		cmd_args.unshift(".");
+	} else if (cmd_args[0] = '-a') {
+		showHidden = true;
+		cmd_args.shift();
+		if (cmd_args.length == 0) {
+			cmd_args.unshift(".");
 		}
-		name_list.append($('<li>').text(name));
-	});
-	terminal.print(name_list);
+	}
+	for (var a in cmd_args) {
+		pathstring = cmd_args[a];
+		path = stringToPath(pathstring);
+		file = pathtoFile(path);
+		var name_list = $('<ul>');
+		if (file.type == 'dir') {
+			$.each(file.contents, function(name, obj) {
+				if (obj.type == 'dir') {
+					name += '/';
+				}
+				if (name.search(/\./) != 0 || showHidden ) { 
+					name_list.append($('<li>').text(name));
+				}
+			});
+			terminal.print(name_list);	
+		} else if (file == '0') {
+			terminal.print('ls: '+pathstring+': No such file or directory');
+		} else {
+			terminal.print(pathstring);
+		}
+	}
 };
 
 // `cd` command 
@@ -84,30 +126,49 @@ TerminalShell.commands['cd'] = function(terminal, pathstring) {
 		TerminalShell.path = path;
 		setPrompt(path);
 	} else {
-		terminal.print('cd: '+pathstring+' not a directory');
+		terminal.print('cd: '+pathstring+': No such file or directory');
 	}
 };
 
-
-
 // `cat` command
 
-TerminalShell.commands['cat'] = function(terminal, pathstring) {
-	path = stringToPath(pathstring);
-	file = pathtoFile(path);
-	if (file.type == 'txt') {
-		url = "/"+Terminal.config.clidir+pathToString(path);
-		terminal.print(url);
-		terminal.setWorking(true);
-		var browser = $('<pre>').addClass('new').load(url, function() { 
-			terminal.print(browser).jumpToBottom()});
+TerminalShell.commands['cat'] = function(terminal) {
+	var cmd_args = Array.prototype.slice.call(arguments);
+	cmd_args.shift(); // terminal
+	if (cmd_args.length == 0) {
+	// STDIN?
+	}
+	$.each(cmd_args, function(i, pathstring) {
+		path = stringToPath(pathstring);
+		file = pathtoFile(path);
+		if (file.type == 'txt') {
+		//	var url = "/"+Terminal.config.clidir+pathToString(path);
+			url = file.url;
+			terminal.setWorking(true);
+			var browser = $('<pre>').load(url, function() { 
+				terminal.print(browser)});
 			terminal.setWorking(false);
-	}
-	else {
-		terminal.print('cat: '+path+' unsupported filetype');
-	}
-}
+		}	else if (file.type = 'dir') {
+			terminal.print('cat: '+pathstring+': Is a directory');
+		}	else if (file == 0) {
+			terminal.print('cat: '+pathstring+' No such file or directory');
+		} else {
+			terminal.print('cat: '+pathstring+': unsupported filetype');
+		}
+	});
+};
 
+// `login` command
+
+TerminalShell.commands['login'] = function(terminal) {
+	TerminalShell.files = Filesystem;
+	TerminalShell.path = [''];
+	TerminalShell.cwd = TerminalShell.files[''].contents;
+	setPrompt(TerminalShell.path);
+	TerminalShell.commands['cat'](terminal,'.david.txt');
+	TerminalShell.commands['cat'](terminal,'.banner.txt');
+	terminal.promptActive = true;
+}
 
 // Bash Expansions
 //
@@ -122,46 +183,55 @@ TerminalShell.filters.push(function (terminal, cmd) {
 	}
 });
 
+
 // Extensions
-
-// `login` command
-
-TerminalShell.commands['login'] = function(terminal) {
-	TerminalShell.path = [''];
-	TerminalShell.cwd = TerminalShell.files[''].contents;
-	setPrompt(TerminalShell.path);
-	terminal.promptActive = true;
-
-//	TerminalShell.commands['cat'](terminal, 'david.txt');
-//		TerminalShell.commands['cat'](terminal, 'banner.txt');
-}
-
-
+//
 // `logout` command
 
 TerminalShell.commands['logout'] = function(terminal) {
 	terminal.print('[Process Completed]');
 	$('#prompt, #cursor').hide();
 	terminal.promptActive = false;
-	setTimeout(function(){
-		window.location = redirect;
-	},4000);
 };
+
+// `startx` command
+//
+TerminalShell.commands['startx'] = function(terminal) {
+	terminal.print('Unable to locate waiting server');
+	terminal.print('Starting X server...');
+	terminal.promptActive = false;
+	$('#prompt, #cursor').hide();
+	setTimeout(function() { 
+		$('#screen').fadeOut().queue(function(next) {
+			window.location = Terminal.config.gui });
+	});
+}
+
 
 // `display` command for displaying images inline
 
-TerminalShell.commands['display'] = function(terminal, dest) {
-	if (dest) {
-		if (dest in this.pwd && this.pwd[dest].type == 'img') {
-			dest = this.pwd[dest].url
-		}
-		var image = $('<img>').attr('src', dest);
-		terminal.print(image);
-		return image;
-	} else {
-		terminal.print("Please specify an image file or URL.");
+TerminalShell.commands['display'] = function(terminal) {
+	var cmd_args = Array.prototype.slice.call(arguments);
+	cmd_args.shift(); // terminal
+	if (cmd_args.length == 0) {
+		// Error?
 	}
-}
+	$.each(cmd_args, function(i, pathstring) {
+		path = stringToPath(pathstring);
+		file = pathtoFile(path);
+		if (file.type == 'img') {
+			var image = $('<img>').attr('src', file.url).addClass('inline');
+			terminal.print(image);
+		} else if ( file == 0 && pathstring.search(/http/) != -1 ) {
+			var image = $('<img>').attr('src', pathstring).addClass('inline');
+			terminal.print(image);
+		} else if ( file ==0 ) {
+			terminal.print('display: '+pathstring+': No such file or directory');
+		} else {
+			terminal.print("display: "+pathstring+": Not a valid image file");
+		}
+	});
+}	
 
 // `wget` command for displaying webpages inline
 
@@ -181,6 +251,26 @@ TerminalShell.commands['wget'] = function(terminal, dest) {
 		terminal.print("Please specify a URL.");
 	}
 };
+
+// `pdfview` command for displaying pdfs inline
+
+TerminalShell.commands['pdfview'] = function(terminal) {
+	var cmd_args = Array.prototype.slice.call(arguments);
+	cmd_args.shift(); // terminal
+	if (cmd_args.length == 0) {
+		// Error?
+	}
+	$.each(cmd_args, function(i, pathstring) {
+		path = stringToPath(pathstring);
+		file = pathtoFile(path);
+		if (file.type == 'pdf') {
+			TerminalShell.commands['wget'](terminal, file.url);
+			terminal.setWorking(false);
+		} else {
+			terminal.print("pdfview: "+pathstring+": Not a valid PDF file");
+		}
+	});
+}
 
 
 var konamiCount = 0;

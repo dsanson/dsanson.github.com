@@ -38,7 +38,7 @@ TerminalShell.commands['shutdown'] = function(terminal) {
 // `restart` requires `sudo`
 TerminalShell.commands['restart'] = function(terminal) {
 	if (this.sudo) {
-		TerminalShell.commands['poweroff'](terminal).queue(function(next) {
+		TerminalShell.commands['logout'](terminal).queue(function(next) {
 			window.location.reload();
 		});
 	} else {
@@ -48,55 +48,58 @@ TerminalShell.commands['restart'] = function(terminal) {
 
 // `rm`: pretends to rm stuff
 
-TerminalShell.commands['rm'] = function(terminal, flags, path) {
-	if (flags && flags[0] != '-') {
-		path = flags;
-	}
-	if (!path) {
-		terminal.print('rm: missing operand');
-	} else if (path in this.pwd) {
-		if (this.pwd[path].type == 'file') {
-			delete this.pwd[path];
-		} else if (this.pwd[path].type == 'dir') {
-			if (/r/.test(flags)) {
-				delete this.pwd[path];
-			} else {
-				terminal.print('rm: cannot remove '+path+': Is a directory');
-			}
-		}
-	} else if (flags == '-rf' && path == '/') {
-		if (this.sudo) {
-			TerminalShell.commands = {};
-		} else {
-			terminal.print('rm: cannot remove /: Permission denied');
-		}
-	}
-};
+//TerminalShell.commands['rm'] = function(terminal, flags, path) {
+	//if (flags && flags[0] != '-') {
+		//path = flags;
+	//}
+	//if (!path) {
+		//terminal.print('rm: missing operand');
+	//} else if (path in this.pwd) {
+		//if (this.pwd[path].type == 'file') {
+			//delete this.pwd[path];
+		//} else if (this.pwd[path].type == 'dir') {
+			//if (/r/.test(flags)) {
+				//delete this.pwd[path];
+			//} else {
+				//terminal.print('rm: cannot remove '+path+': Is a directory');
+			//}
+		//}
+	//} else if (flags == '-rf' && path == '/') {
+		//if (this.sudo) {
+			//TerminalShell.commands = {};
+		//} else {
+			//terminal.print('rm: cannot remove /: Permission denied');
+		//}
+	//}
+//};
 
 // `irc` command
 
-TerminalShell.commands['irc'] = function(terminal, nick) {
-	if (nick) {
-		$('.irc').slideUp('fast', function() {
-			$(this).remove();
-		});
-		var url = "http://widget.mibbit.com/?server=irc.foonetic.net&channel=%23";
-		if (nick) {
-			url += "&nick=" + encodeURIComponent(nick);
-		}
-		TerminalShell.commands['curl'](terminal, url).addClass('irc');
-	} else {
-		terminal.print('usage: irc <nick>');
-	}
-};
+//TerminalShell.commands['irc'] = function(terminal, nick) {
+	//if (nick) {
+		//$('.irc').slideUp('fast', function() {
+			//$(this).remove();
+		//});
+		//var url = "http://widget.mibbit.com/?server=irc.foonetic.net&channel=%23";
+		//if (nick) {
+			//url += "&nick=" + encodeURIComponent(nick);
+		//}
+		//TerminalShell.commands['curl'](terminal, url).addClass('irc');
+	//} else {
+		//terminal.print('usage: irc <nick>');
+	//}
+//};
 
-
+// fake `who` command
+//
 TerminalShell.commands['who'] = function(terminal, nick) {
 	terminal.print('david    tty01   Jun 18 23:11');
 	terminal.print('lewis    tty02   Oct 22 03:10');
 	terminal.print('hazel    tty04   Jan 01 18:02');
 }
 
+// fake `finger` command
+//
 TerminalShell.commands['finger'] = function(terminal, nick) {
 	if (nick == 'david') {
 		 terminal.print('Login: david                            Name: David Sanson');
@@ -121,6 +124,8 @@ TerminalShell.commands['finger'] = function(terminal, nick) {
 		 terminal.print('Mmmmmm...');
 	}
 };
+
+// fake `apt-get` command 
 
 TerminalShell.commands['apt-get'] = function(terminal, subcmd) {
 	if (!this.sudo && (subcmd in {'update':true, 'upgrade':true, 'dist-upgrade':true})) {

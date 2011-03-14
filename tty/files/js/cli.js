@@ -51,10 +51,10 @@ function entityEncode(str) {
 var TerminalShell = {
 	commands: {
 		help: function help(terminal) {
-			terminal.print($('<b>Available Commands</b>'));
-			cmd_list = $('<ul>');
+			cmd_list = $('<p>');
+			cmd_list.append('Available commands: ');
 			$.each(this.commands, function(name, func) {
-				cmd_list.append($('<li>').text(name));
+				cmd_list.append(name+' ');
 			});
 			terminal.print(cmd_list);
 		}, 

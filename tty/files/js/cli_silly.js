@@ -329,8 +329,6 @@ TerminalShell.fallback = function(terminal, cmd) {
 		} else if (/:\(\)\s*{\s*:\s*\|\s*:\s*&\s*}\s*;\s*:/.test(cmd)) {
 			Terminal.setWorking(true);
 		} else {
-			$.get("/unixkcd/missing", {cmd: cmd});
-			return false;
 		}
 	}
 	return true;

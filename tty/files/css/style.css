@@ -33,7 +33,8 @@ div#indicators span { background-color:#FFF; color:#000; display:none; }
 div#cform { height:1px; left:0; position:absolute; top:0; width:1px; }
 img { color:#FFF; font-size:x-small; } /* for broken images */
 img.comic { background:white; padding:5px; }
-img.inline {width: 100%;}
+div.imgframe { height: 60%; width: 100%}
+img.inline {display: block; margin-left: auto; margin-right: auto;} 
 iframe { margin:0; border:none; }
 div.browser { margin:5px 2px; outline:2px solid gray; }
 form#searchform input[type=text] { background-color:#000; border:1px solid #FFF; color:#FFF; font-family:"Courier New",Courier,monospace; width:100px; }
@@ -41,3 +42,4 @@ form#searchform input[type=submit] { background-color:#FFF; border:1px solid #00
 div#credit { postion: absolute; bottom: 2em; left: 0; color:#FFF; font-size:xx-small; opacity:.25; text-align:center; margin: 0 auto; width: 100% }
 div#credit:hover { opacity:.75; }
 div#credit a { font-size:xx-small; text-decoration:underline; }
+#prompt, .command { color: #FF8080}

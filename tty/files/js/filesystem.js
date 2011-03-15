@@ -6,18 +6,22 @@ Filesystem = {
 		contents: {
 		'.banner.txt' : {type:'txt',url:'/tty/banner.txt'},
 		'.david.txt': 	{type:'txt',url:'/tty/david.txt'},
-		'cv.markdown': 	{type:'txt',url:'/tty/cv.markdown'},
-		'license.txt': 	{type:'txt',url:'/tty/license.txt'},
-		'research': 	{type:'dir',url:'http://davidsanson.com/research',
-			contents: {
-				'arabicliar.pdf': 	{type: 'pdf',url:'http://files.davidsanson.com/research/arabicliar.pdf'},
-				'dissertation.pdf': {type: 'pdf',url:'http://files.davidsanson.com/research/dissertation.pdf'},
-			}
-			}
+		'cli-license.txt': 	{type:'txt',url:'/tty/license.txt'},
 		}}
 	};
 
-Filesystem[''].contents['web'] = webDir;
+PDFs = { type: 'dir', contents: {
+  'arabic-liar.pdf': { type: 'pdf', url: 'http://files.davidsanson.com/research/arabic-liar.pdf'},
+  'dissertation.pdf': { type: 'pdf', url: 'http://files.davidsanson.com/research/dissertation.pdf'},
+  'maximal-possibilities.pdf': { type: 'pdf', url: 'http://files.davidsanson.com/research/maximal-possibilities.pdf'},
+  'once-present.pdf': { type: 'pdf', url: 'http://files.davidsanson.com/research/once-present.pdf'},
+  'presentism-and-truthmaking.pdf': { type: 'pdf', url: 'http://files.davidsanson.com/research/presentism-and-truthmaking.pdf'},
+  'way-things-were.pdf': { type: 'pdf', url: 'http://files.davidsanson.com/research/way-things-were.pdf'},
+}}
+
+
+webDir.contents['research'].contents['pdfs'] = PDFs
+$.extend(Filesystem[''].contents, webDir.contents);
 
 Filesystem[''].contents['photos'] = { type: 'dir', contents: {}};
 imageDirectory = Filesystem[''].contents['photos'];

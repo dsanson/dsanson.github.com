@@ -61,6 +61,8 @@ function randomChoice(items) {
 	return items[getRandomInt(0, items.length-1)];
 }
 
+
+
 // Commands
 
 // Core Commands
@@ -131,8 +133,7 @@ TerminalShell.commands['cd'] = function(terminal, pathstring) {
 };
 
 // `cat` command
-
-TerminalShell.commands['cat'] = function(terminal) {
+TerminalShell.commands['cat'] = function(terminal){
 	var cmd_args = Array.prototype.slice.call(arguments);
 	cmd_args.shift(); // terminal
 	if (cmd_args.length == 0) {
@@ -141,11 +142,15 @@ TerminalShell.commands['cat'] = function(terminal) {
 	$.each(cmd_args, function(i, pathstring) {
 		path = stringToPath(pathstring);
 		file = pathtoFile(path);
-		if (file.type == 'txt') {
-		//	var url = "/"+Terminal.config.clidir+pathToString(path);
+		if (file.type == 'html' || file.type == 'txt') {
 			url = file.url;
+			contain = '<pre>';
+			if ( file.type == 'html' ) {
+				url = url + ' #page';
+				contain = '<div>';
+			}
 			terminal.setWorking(true);
-			var browser = $('<pre>').load(url, function() { 
+			var browser = $(contain).load(url, function() { 
 				terminal.print(browser)});
 			terminal.setWorking(false);
 		}	else if (file.type = 'dir') {
@@ -156,7 +161,18 @@ TerminalShell.commands['cat'] = function(terminal) {
 			terminal.print('cat: '+pathstring+': unsupported filetype');
 		}
 	});
-};
+}
+
+// `history` command
+
+TerminalShell.commands['history'] = function(terminal) {
+		var history_list = $('<ul>');
+		var l = terminal.history.length-1;
+		for (var i=0; i<l; i++) {
+			history_list.append($('<li>').text("  "+i+"  "+terminal.history[i]));
+		}
+		terminal.print(history_list);
+}
 
 // `login` command
 
@@ -166,7 +182,6 @@ TerminalShell.commands['login'] = function(terminal) {
 	TerminalShell.cwd = TerminalShell.files[''].contents;
 	setPrompt(TerminalShell.path);
 	TerminalShell.commands['cat'](terminal,'.david.txt');
-	TerminalShell.commands['cat'](terminal,'.banner.txt');
 	terminal.promptActive = true;
 }
 
@@ -183,6 +198,17 @@ TerminalShell.filters.push(function (terminal, cmd) {
 	}
 });
 
+// history expansion
+TerminalShell.filters.push(function (terminal, cmd) {
+	if (/!\d+/.test(cmd)) {
+		var historyIndex = cmd.replace('!', '');
+		var newCommand = terminal.history[historyIndex];
+		terminal.print(newCommand);
+		return newCommand;
+	} else {
+		return cmd;
+	}
+});
 
 // Extensions
 //
@@ -220,8 +246,15 @@ TerminalShell.commands['display'] = function(terminal) {
 		path = stringToPath(pathstring);
 		file = pathtoFile(path);
 		if (file.type == 'img') {
-			var image = $('<img>').attr('src', file.url).addClass('inline');
-			terminal.print(image);
+			var frame = $('<div>')
+			.addClass('imgframe')
+			.append($('<img>')
+					.attr('src', file.url).height("100%")
+					.addClass('inline')
+					.one('load', function() {
+						terminal.setWorking(false);
+					}));
+			terminal.print(frame);
 		} else if ( file == 0 && pathstring.search(/http/) != -1 ) {
 			var image = $('<img>').attr('src', pathstring).addClass('inline');
 			terminal.print(image);
@@ -252,7 +285,7 @@ TerminalShell.commands['wget'] = function(terminal, dest) {
 	}
 };
 
-// `pdfview` command for displaying pdfs inline
+// `pdfview` command for displaying pdfs 
 
 TerminalShell.commands['pdfview'] = function(terminal) {
 	var cmd_args = Array.prototype.slice.call(arguments);
@@ -264,8 +297,7 @@ TerminalShell.commands['pdfview'] = function(terminal) {
 		path = stringToPath(pathstring);
 		file = pathtoFile(path);
 		if (file.type == 'pdf') {
-			TerminalShell.commands['wget'](terminal, file.url);
-			terminal.setWorking(false);
+			window.open(file.url);
 		} else {
 			terminal.print("pdfview: "+pathstring+": Not a valid PDF file");
 		}

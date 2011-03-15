@@ -112,7 +112,7 @@ var Terminal = {
 		prompt:				'$ ',
 		spinnerCharacters:	['[   ]','[.  ]','[.. ]','[...]'],
 		spinnerSpeed:		250,
-		typingSpeed:		50
+		typingSpeed:		50,
 	},
 	
 	sticky: {
@@ -230,6 +230,7 @@ var Terminal = {
 			}))
 			.bind('keydown', 'tab', function(e) {
 				e.preventDefault();
+				Terminal.tabHandler();				
 			})
 			.keyup(function(e) {
 				var keyName = $.hotkeys.specialKeys[e.which];
@@ -314,6 +315,46 @@ var Terminal = {
 	clear: function() {
 		$('#display').html('');
 	},
+	tabHandler: function(){
+		var path = '.';
+		line = this.buffer;
+		if ( / /.test(line)) {
+			var m = line.match(/(.* )(.*)/);
+			var left = m[1];
+			var rest = m[2];
+			// we want to concentrate on everything after the last '/'
+			if ( /\//.test(rest) ) {
+				var m = rest.match(/(.*\/)([^\/].*)/);
+				var base = m[1];
+				rest = m[2];
+				path = base;
+				left = left+base;
+			}
+			file = pathtoFile(stringToPath(path));
+			$.each(file.contents, function(name, obj) {		
+				var piece = name.substr(0,rest.length);
+				if ( piece == rest ) {
+					rest = name;
+					if (obj.type == 'dir') {
+						rest = rest+"/";
+					}
+				} 
+			});
+			this.buffer = left + rest;
+		} else {
+			$.each(TerminalShell.commands, function(name, func) {
+				var piece = name.substr(0,line.length);
+				if (piece == line ){
+					line = name+" ";
+				}
+			});
+			this.buffer = line;
+		}
+		this.pos = this.buffer.length;
+		this.updateInputDisplay();
+		this.setCursorState(true);
+	},
+	
 	
 	addCharacter: function(character) {
 		var left = this.buffer.substr(0, this.pos);

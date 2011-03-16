@@ -49,6 +49,6 @@ function moreMe() {
 }
 
 function dm() {
-	window.location='http://www.davidsanson.com/tty/'
-	//window.location.reload;
+	window.location='/tty'
+//	$('html').load('/tty.html')
 }

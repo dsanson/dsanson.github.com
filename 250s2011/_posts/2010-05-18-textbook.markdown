@@ -2,6 +2,7 @@
 title: Textbook
 layout: phil250-post
 section: main
+published: false
 ---
 
 <img style="float:right" src="/files/img/bmn.jpg">

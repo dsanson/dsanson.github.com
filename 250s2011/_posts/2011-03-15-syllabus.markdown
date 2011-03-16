@@ -1,0 +1,67 @@
+---
+title: Syllabus
+layout: phil250
+section: syllabus
+date: 2011-03-15 19:00:00
+excerpt: Follow the arrow to read the course syllabus.
+---
+
+<p style="text-align:center">**DRAFT---STILL SUBJECT CHANGE**</p>
+
+## Philosophy 250  ##
+
+Professor
+:	David Sanson, [University Hall](http://www.osu.edu/map/building.php?building=339) 372, <sanson.7@osu.edu>. Office hours: TBA or by appointment. 
+
+Teaching Assistants
+:	Eric Snyder, 214 University Hall, <snyder.978@osu.edu>. Office hours: TBA or by appointment. 
+:   Daniel Gross, 214 University Hall, <gross.354@osu.edu>. Office hours: TBA or by appointment.
+
+Lecture
+:   MW 9:30-10:48, [Sullivant Hall](http://www.osu.edu/map/building.php?building=106) 0105
+
+Recitations
+:   Snyder, Tu 9:30-10:18, University Hall 0043
+:   Gross, Tu 10:30-11:18, [Bolz Hall](http://www.osu.edu/map/building.php?building=146) 0437
+
+Final Exam
+: 	Tu 9:30-11:18, Sullivant Hall 0105
+
+Course Webpage
+:	[http://davidsanson.com/250](http://davidsanson.com/250)
+
+## Course Description ##
+
+This course introduces symbolic logic up to and including predicate logic with identity. In addition to becoming comfortable with the basic notions of logic--truth, argument, soundness, validity--you will learn how to symbolize sentences in both sentential logic and predicate logic, how to construct derivations, and how to use truth-tables. Along the way, you will be exposed to some important metatheoretic concepts, including soundness and completeness.
+
+## Required Text ##
+
+<img style="float:right" src="/files/img/bmn.jpg">
+
++   Bergmann, Moor, and Nelson, *The Logic Book*, 5th edition. McGraw-Hill, 2008. ISBN: 978-0073535630
+
+## Requirements ##
+
+You are expected to attend all class meetings, both lectures and recitations, and do all assigned readings. Homework will be assigned Wednesday of each week, due in recitation on Tuesday of the next week. Four of these homework assignments will be graded. Late homework will be penalized 5 points per day. In order to receive credit for the course, you must complete both exams.
+
++ 	Homework: 20%
++   Midterm: 30%
++ 	Final: 50%
+
+## Additional Policies ##
+
+Academic misconduct will not be tolerated and will be reported to the committee on academic misconduct <http://oaa.osu.edu/coam/faq>. If you need an accommodation based on the impact of a disability, you should inform me as soon as possible and schedule an appointment with the Office for Disability Services (292-3307) to coordinate reasonable accommodations <http://www.ods.ohio-state.edu/current-students/>.
+
+## GEC Categories ##
+
+This course satisfies the Skills—Quantitative and Logical Skills—
+Mathematical and Logical Analysis (1(B)(2)) requirement.
+
+**Goals**: Students develop skills in quantitative literacy and logical reasoning, 
+including the ability to identify valid arguments, use mathematical models, 
+and draw conclusions and critically evaluate results based on data.
+
+**Expected Learning Outcomes**: Students comprehend mathematical 
+concepts and methods adequate to construct valid arguments, understand 
+inductive and deductive reasoning, and increase their general problem 
+solving skills.

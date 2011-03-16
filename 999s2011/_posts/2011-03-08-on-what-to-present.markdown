@@ -4,6 +4,8 @@ layout: phil999-post
 comments: true
 published: true
 date:  2011-03-08 12:59:49
+excerpt: "It is not to early to begin thinking about what you should present. I'm happy to talk to you about this if you'd like. You should definitely talk to your advisor about it. Some suggestions..."
+
 ---
 
 It is not to early to begin thinking about what you should present. I'm happy to talk to you about this if you'd like. You should definitely talk to your advisor about it.

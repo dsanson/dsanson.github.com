@@ -43,11 +43,7 @@ header * {
 }
 
 #backlink {
-	display: block;
-	font-size: x-small;
-	padding: 0em;
-	margin-top: 0em;
-	margin-bottom: .1em;
+	font-size: medium;
 }
 
 hr {

@@ -1,12 +1,12 @@
 ---
 layout: nil
 ---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
 
 {% assign base = '/999s2011' %}
 {% assign sectiontitle = 'Philosophy 999' %}
-
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>{{sectiontitle}}</title>
  <link href="{{site.url}}{{base}}/atom.xml" rel="self"/>

@@ -8,7 +8,7 @@ excerpt: Here is the current schedule for the course, subject to change.
 
 ---
 
-This is the current schedule for the course. It is subject to change. Changes will be recorded here: <http://www.davidsanson.com/250/course-calendar>.
+This is the current schedule for the course. It is subject to change. Changes will be recorded here: <http://www.davidsanson.com/250/calendar>.
 
 We will skip chapters 4, 6, 9 and 11. SL = Sentential Logic; SD = SL's Derivation System; PL = Predicate Logic; PD = PL's Derivation System.
 

@@ -1,0 +1,11 @@
+---
+title: RSS feed
+layout: phil999-post
+comments: true
+published: true
+date:  2011-03-16 13:35:49
+---
+
+FYI, this site has an [RSS feed](atom.xml), which makes it easy to keep track of new posts without having to remember to visit the site.
+
+You can subscribe to it in a newsreader like [Google Reader](http://reader.google.com). Or you can use a service like [FeedMyInbox](http://www.feedmyinbox.com/) to have new posts delivered via email.

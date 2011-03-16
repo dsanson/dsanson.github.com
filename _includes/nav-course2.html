@@ -5,7 +5,8 @@
 <nav>
     <ul>
         {% for section in page.sections %}
-        <li class="{{ section | downcase }}"><a href="{{base}}/{{ section | downcase }}">{{ section }}</a></li>
-        {% endfor %}
-    </ul>
+		<li class="{{ section | downcase }}"><a 
+			href="{{base}}/{{ section | downcase }}">{{ section }}</a></li>
+		{% endfor %}
+	</ul>
 </nav>

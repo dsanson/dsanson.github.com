@@ -3,13 +3,13 @@ title: Syllabus
 layout: phil999
 section: syllabus
 date: 2011-02-15 15:15:00
-
+excerpt: Follow the arrow to read the course syllabus
 ---
 
 Professor
 :	David Sanson, 372 University Hall, Office hours: TBA or by appointment, sanson.7@osu.edu
 
-Course Webpage
+Webpage
 :	[http://davidsanson.com/999](http://davidsanson.com/999)
 
 ## Course Description ##

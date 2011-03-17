@@ -8,59 +8,82 @@ excerpt: Here is the current schedule for the course, subject to change.
 
 ---
 
-This is the current schedule for the course. It is subject to change. Changes will be recorded here: <http://www.davidsanson.com/250/calendar>.
+This is the current schedule for the course. The schedule is subject to change as the quarter progresses. This calendar will be be updated to reflect any such changes.
 
-We will skip chapters 4, 6, 9 and 11. SL = Sentential Logic; SD = SL's Derivation System; PL = Predicate Logic; PD = PL's Derivation System.
+We will skip chapters 4, 6, 9 and 11.
+
+Key to abbreviations: SL, Sentential Logic; SD, SL's Derivation System; PL, Predicate Logic; PD, PL's Derivation System.
 
 ## Week 1
 
--   3/28: Basic Notions, Ch. 1
--   3/30: SL: Symbolization and Syntax, Ch. 2 (skip §2.3)
+3/28
+: 	Basic Notions, Ch. 1
+
+3/30
+: 	SL: Symbolization and Syntax, Ch. 2 (skip §2.3)
 
 ## Week 2
 
--   4/4: SL: Symbolization and Syntax, Ch. 2
--   4/6: SL: Semantics, Ch. 3
+4/4
+:   SL: Symbolization and Syntax, Ch. 2
+4/6
+:   SL: Semantics, Ch. 3
 
 ## Week 3
 
--   4/11: SL: Semantics, Ch. 3
--   4/13: SD: Derivations, Ch. 5 (skip §5.4)
+4/11
+:   SL: Semantics, Ch. 3
+4/13
+:   SD: Derivations, Ch. 5 (skip §5.4)
 
 ## Week 4
 
--   4/18: SD: Derivations, Ch. 5
--   4/20: SD: Derivations, Ch. 5
+4/18
+:   SD: Derivations, Ch. 5
+4/20
+:   SD: Derivations, Ch. 5
 
 ## Week 5
 
--   4/25: SD: Derivations, Ch. 5
--   4/27: **MIDTERM EXAM**
+4/25
+:   SD: Derivations, Ch. 5
+4/27
+:   **MIDTERM EXAM**
 
 ## Week 6
 
--   5/2: PL: Symbolization and Syntax, Ch. 7
--   5/4: PL: Symbolization and Syntax, Ch. 7
+5/2
+:   PL: Symbolization and Syntax, Ch. 7
+5/4
+:   PL: Symbolization and Syntax, Ch. 7
 
 ## Week 7
 
--   5/9: PL: Symbolization and Syntax, Ch. 7
--   5/11: PL: Semantics, Ch. 8 (skip §8.5-8.7)
+5/9
+:   PL: Symbolization and Syntax, Ch. 7
+5/11
+:   PL: Semantics, Ch. 8 (skip §8.5-8.7)
 
 ## Week 8
 
--   5/16: PL: Semantics, Ch. 8 
--   5/18: PL: Semantics, Ch. 8
+5/16
+:   PL: Semantics, Ch. 8 
+5/18
+:   PL: Semantics, Ch. 8
 
 ## Week 9
 
--   5/23: PD: Derivations, Ch. 10 (skip §10.3)
--   5/25: PD: Derivations, Ch. 10
+5/23
+:   PD: Derivations, Ch. 10 (skip §10.3)
+5/25
+:   PD: Derivations, Ch. 10
 
 ## Week 10
 
--   5/30: **Memorial Day: no class**
--   6/1: PD: Derivations, Ch. 10
+5/30
+:   **Memorial Day: no class**
+6/1
+:   PD: Derivations, Ch. 10
 
 **The Final Exam is Tuesday, June 7th, 9:30-11:18, in our usual classroom.**
 

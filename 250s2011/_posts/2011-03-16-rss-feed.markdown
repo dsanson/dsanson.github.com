@@ -8,5 +8,6 @@ date:  2011-03-16 13:44:56
 
 FYI, this site has an [RSS feed](atom.xml), which makes it easy to keep track of new posts without having to remember to visit the site.
 
-You can subscribe to it in a newsreader like [Google Reader](http://reader.google.com). Or you can use a service like [FeedMyInbox](javascript:(function(){var%20e=prompt('Enter%20your%20email%20address.');if (e != '' && e != null){f='http://www.feedmyinbox.com/feeds/bookmark/?email='+encodeURIComponent(e)%20+'&feed='+encodeURIComponent(window.location.href);a=function(){if(!window.open(f,'fmi','location=yes,links=no,scrollbars=no,toolbar=no,width=520,height=490'))location.href=f+'jump=yes'};if(/Firefox/.test(navigator.userAgent)){setTimeout(a,0)}else{a()}}})()) to have new posts delivered via email.
+You can subscribe to it in a newsreader like [Google Reader](http://reader.google.com). Or you can use a service like [FeedMyInbox][1] to have new posts delivered via email.
 
+[1]: javascript:(function()%7Bvar%20e=prompt('Enter%20your%20email%20address.');if%20(e%20!=%20''%20&&%20e%20!=%20null)%7Bf='http://www.feedmyinbox.com/feeds/bookmark/?email='+encodeURIComponent(e)%20+'&feed='+encodeURIComponent(window.location.href);a=function()%7Bif(!window.open(f,'fmi','location=yes,links=no,scrollbars=no,toolbar=no,width=520,height=490'))location.href=f+'jump=yes'%7D;if(/Firefox/.test(navigator.userAgent))%7BsetTimeout(a,0)%7Delse%7Ba()%7D%7D%7D)()

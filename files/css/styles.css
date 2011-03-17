@@ -15,7 +15,7 @@ body {
 #content {
     width: auto;
     margin: 1em auto 2em auto;
-    max-width: 33em;
+    max-width: 34em;
     padding: 1em;
     text-align: left;
     background: white;
@@ -377,17 +377,37 @@ ul ul {
 	list-style-type: none;
 }
 
-dt {
-	font-weight: bold;
-	float: left;
-	padding-right: 1em;
+/*dt {*/
+	/*font-weight: bold;*/
+	/*float: left;*/
+	/*padding-right: 1em;*/
+/*}*/
+
+/*dt:after {*/
+	/*content: ".";*/
+/*}*/
+
+dl {
+	margin: -1.2em 0 1em 0;
+	padding: 0;
 }
 
-dt:after {
-	content: ".";
+dt {
+	position: relative;
+	left: 0;
+	top: 1.2em;
+	width: 5em;
+	font-weight: bold;
 }
 
 dd {
+	border-left: 1px dotted #000;
+	margin: 0 0 0 6em;
+	padding: 0 0 .1em .5em;
+}
+
+dd p {
+	display: inline;	
 }
 
 hr {

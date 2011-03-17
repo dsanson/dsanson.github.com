@@ -8,14 +8,15 @@ excerpt: Follow the arrow to read the course syllabus.
 
 <p style="text-align:center">**DRAFT---STILL SUBJECT CHANGE**</p>
 
-## Philosophy 250  ##
-
 Professor
-:	David Sanson, [University Hall](http://www.osu.edu/map/building.php?building=339) 372, <sanson.7@osu.edu>. Office hours: TBA or by appointment. 
+:	David Sanson, [University Hall](http://www.osu.edu/map/building.php?building=339) 372, <sanson.7@osu.edu>.\
+	Office hours: TBA or by appointment.
 
-Teaching Assistants
-:	Eric Snyder, 214 University Hall, <snyder.978@osu.edu>. Office hours: TBA or by appointment. 
-:   Daniel Gross, 214 University Hall, <gross.354@osu.edu>. Office hours: TBA or by appointment.
+Assistants
+:	Eric Snyder, 214 University Hall, <snyder.978@osu.edu>.\
+	Office hours: TBA or by appointment.
+:   Daniel Gross, 214 University Hall, <gross.354@osu.edu>.\
+	Office hours: TBA or by appointment.
 
 Lecture
 :   MW 9:30-10:48, [Sullivant Hall](http://www.osu.edu/map/building.php?building=106) 0105
@@ -27,7 +28,7 @@ Recitations
 Final Exam
 : 	Tu 9:30-11:18, Sullivant Hall 0105
 
-Course Webpage
+Webpage
 :	[http://davidsanson.com/250](http://davidsanson.com/250)
 
 ## Course Description ##
@@ -50,18 +51,28 @@ You are expected to attend all class meetings, both lectures and recitations, an
 
 ## Additional Policies ##
 
-Academic misconduct will not be tolerated and will be reported to the committee on academic misconduct <http://oaa.osu.edu/coam/faq>. If you need an accommodation based on the impact of a disability, you should inform me as soon as possible and schedule an appointment with the Office for Disability Services (292-3307) to coordinate reasonable accommodations <http://www.ods.ohio-state.edu/current-students/>.
+Academic misconduct will not be tolerated and will be reported to the committee on academic misconduct.
+
+<http://oaa.osu.edu/coam/faq>
+
+If you need an accommodation based on the impact of a disability, you should inform me as soon as possible and schedule an appointment with the Office for Disability Services (292-3307) to coordinate reasonable accommodations.
+
+<http://www.ods.ohio-state.edu/current-students/>
+
+<div id="boilerplate">
 
 ## GEC Categories ##
 
 This course satisfies the Skills—Quantitative and Logical Skills—
 Mathematical and Logical Analysis (1(B)(2)) requirement.
 
-**Goals**: Students develop skills in quantitative literacy and logical reasoning, 
+**Goals**. Students develop skills in quantitative literacy and logical reasoning, 
 including the ability to identify valid arguments, use mathematical models, 
 and draw conclusions and critically evaluate results based on data.
 
-**Expected Learning Outcomes**: Students comprehend mathematical 
+**Expected Learning Outcomes**. Students comprehend mathematical 
 concepts and methods adequate to construct valid arguments, understand 
 inductive and deductive reasoning, and increase their general problem 
 solving skills.
+
+</div>

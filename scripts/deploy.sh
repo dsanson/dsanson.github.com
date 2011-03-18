@@ -5,3 +5,4 @@ jekyll && \
 #./scripts/markdown_generator.sh
 rsync -avz --delete _site/ nfsn:/home/public/
 # rsync -avz _site/ dream:/home/davsans/davidsanson.com/
+rsync -avO --delete _site/ /Library/WebServer/Documents/

@@ -9,7 +9,7 @@ excerpt: Follow the arrow to read the course syllabus.
 <p style="text-align:center">**DRAFT---STILL SUBJECT CHANGE**</p>
 
 Professor
-:	David Sanson, [University Hall](http://www.osu.edu/map/building.php?building=339) 372, <sanson.7@osu.edu>.\
+:	David Sanson, 372 [University Hall](http://www.osu.edu/map/building.php?building=339), <sanson.7@osu.edu>.\
 	Office hours: TBA or by appointment.
 
 Assistants

@@ -7,7 +7,8 @@ excerpt: Follow the arrow to read the course syllabus
 ---
 
 Professor
-:	David Sanson, 372 University Hall, Office hours: TBA or by appointment, sanson.7@osu.edu
+:	David Sanson, 372 University Hall, <sanson.7@osu.edu>\
+	Office hours: TBA or by appointment
 
 Webpage
 :	[http://davidsanson.com/999](http://davidsanson.com/999)

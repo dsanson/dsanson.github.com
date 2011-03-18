@@ -388,22 +388,30 @@ ul ul {
 /*}*/
 
 dl {
-	margin: -1.2em 0 1em 0;
+	/*margin: -1.2em 0 1em 0;*/
 	padding: 0;
 }
 
+/*dt {*/
+	/*position: relative;*/
+	/*left: 0;*/
+	/*top: 1.2em;*/
+	/*width: 5em;*/
+	/*font-weight: bold;*/
+/*}*/
+
 dt {
-	position: relative;
-	left: 0;
-	top: 1.2em;
+	float: left;
+	clear: left;
 	width: 5em;
+	text-align: right;
 	font-weight: bold;
 }
 
 dd {
 	border-left: 1px dotted #000;
-	margin: 0 0 0 6em;
-	padding: 0 0 .1em .5em;
+	margin: 0 0 .7em 5.8em;
+	padding: 0 0 0 .2em;
 }
 
 dd p {

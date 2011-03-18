@@ -1,6 +1,7 @@
 ---
 title: Calendar
 layout: phil250-post
+section: calendar
 comments: true
 published: true
 date:  2011-03-15 19:59:12

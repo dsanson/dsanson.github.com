@@ -113,6 +113,7 @@ body.cv li.cv,
 body.readings li.readings,
 body.assignments li.assignments,
 body.syllabus li.syllabus,
+body.calendar li.calendar,
 body.discuss li.discuss
 { 
 	border: 1px solid #98AFC7;
@@ -134,6 +135,7 @@ body.cv li.cv a,
 body.readings li.readings a,
 body.assignments li.assignments a,
 body.syllabus li.syllabus a,
+body.calendar li.calendar a,
 body.discuss li.discuss a
  {
 	color: black;

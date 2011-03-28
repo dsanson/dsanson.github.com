@@ -2,15 +2,13 @@
 title: Syllabus
 layout: phil250
 section: syllabus
-date: 2011-03-15 19:00:00
+date: 2011-03-28 16:40:00
 excerpt: Follow the arrow to read the course syllabus.
 ---
 
-<p style="text-align:center">**DRAFT---STILL SUBJECT CHANGE**</p>
-
 Professor
 :	David Sanson, 372 [University Hall](http://www.osu.edu/map/building.php?building=339), <sanson.7@osu.edu>.\
-	Office hours: TBA or by appointment.
+	Office hours: M 11-12; Th 2-3; or by appointment.
 
 Assistants
 :	Eric Snyder, 214 University Hall, <snyder.978@osu.edu>.\
@@ -48,6 +46,8 @@ You are expected to attend all class meetings, both lectures and recitations, an
 + 	Homework: 20%
 +   Midterm: 30%
 + 	Final: 50%
+
+**Clarification**. Each of the four graded homework assignments will be worth 4%. Each of the pass-fail homework assignments will be worth 1%. 
 
 ## Additional Policies ##
 

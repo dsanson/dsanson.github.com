@@ -1,0 +1,13 @@
+---
+title: "New Room"
+layout: phil250-post
+comments: true
+published: true
+date:  2011-03-28 15:51:46
+---
+
+We have a **NEW ROOM**. 
+
+Starting Wednesday, we will be meeting in [Ramsayer Hall](http://www.osu.edu/map/building.php?building=090) 0065.
+
+In related news, I have abandoned my plan to carry on lectures in my leotard.

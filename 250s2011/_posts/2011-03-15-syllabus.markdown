@@ -43,7 +43,7 @@ This course introduces symbolic logic up to and including predicate logic with i
 
 ## Requirements ##
 
-You are expected to attend all class meetings, both lectures and recitations, and do all assigned readings. Homework will be assigned Wednesday of each week, due in recitation on Tuesday of the next week. Four of these homework assignments will be graded. Late homework will be penalized 5 points per day. In order to receive credit for the course, you must complete both exams.
+You are expected to attend all class meetings, both lectures and recitations, and do all assigned readings. Homework will be assigned Wednesday of each week, due in recitation on Tuesday of the next week. Four of these homework assignments will be graded. Late homework will be penalized 5 points per day. In order to receive credit for the course, you must complete both exams. Your grade will be based upon
 
 + 	Homework: 20%
 +   Midterm: 30%

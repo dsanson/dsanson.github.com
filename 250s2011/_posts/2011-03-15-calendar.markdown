@@ -28,7 +28,7 @@ Key to abbreviations: SL, Sentential Logic; SD, SL's Derivation System; PL, Pred
 4/4
 :   SL: Symbolization and Syntax, Ch. 2
 4/5
-:	*First Graded Homework Assignment Due*
+:	**First Graded Homework Assignment Due**
 4/6
 :   SL: Semantics, Ch. 3
 
@@ -94,5 +94,5 @@ Key to abbreviations: SL, Sentential Logic; SD, SL's Derivation System; PL, Pred
 6/1
 :   PD: Derivations, Ch. 10
 
-**The Final Exam is Tuesday, June 7th, 9:30-11:18, in our usual classroom.**
+**The FINAL EXAM is Tuesday, June 7th, 9:30-11:18, in our usual classroom.**
 

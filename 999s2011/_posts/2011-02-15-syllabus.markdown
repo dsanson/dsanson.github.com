@@ -8,7 +8,7 @@ excerpt: Follow the arrow to read the course syllabus
 
 Professor
 :	David Sanson, 372 University Hall, <sanson.7@osu.edu>\
-	Office hours: TBA or by appointment
+	Office hours: M 11-12; Th 2-3; or by appointment
 
 Webpage
 :	[http://davidsanson.com/999](http://davidsanson.com/999)
@@ -35,7 +35,7 @@ First draft due **Monday, April 4th** (week two) or the **Friday before you pres
 
 ### Presentator ###
 
-You will distribute some chunk of your work to everyone **no later than the Friday before you present**. Someone is assigned to comment. She opens discussion by *briefly* (3-5 minutes!) raising a couple of points for further discussion. You are given a chance to respond. We spend the rest of the time allotted discussing your work.
+You will distribute some chunk of your work to everyone **no later than ~~the Friday~~ 11:59pm of the Thursday before you present**. Someone is assigned to comment. She opens discussion by *briefly* (3-5 minutes!) raising a couple of points for further discussion. You are given a chance to respond. We spend the rest of the time allotted discussing your work.
 
 ### Commentator ###
 

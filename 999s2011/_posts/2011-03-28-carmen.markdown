@@ -1,0 +1,13 @@
+---
+title: "Carmen"
+layout: phil999-post
+comments: true
+published: true
+date:  2011-03-28 16:20:17
+---
+
+I have set up two topics in a forum in the discussion module of Carmen.
+
+Maybe this [direct link](https://carmen.osu.edu/d2l/lms/discussions/admin/forum_topics_list.d2l?ou=9628801) will take you there?
+
+

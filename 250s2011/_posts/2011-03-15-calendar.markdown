@@ -27,6 +27,8 @@ Key to abbreviations: SL, Sentential Logic; SD, SL's Derivation System; PL, Pred
 
 4/4
 :   SL: Symbolization and Syntax, Ch. 2
+4/5
+:	*First Graded Homework Assignment Due*
 4/6
 :   SL: Semantics, Ch. 3
 
@@ -41,6 +43,8 @@ Key to abbreviations: SL, Sentential Logic; SD, SL's Derivation System; PL, Pred
 
 4/18
 :   SD: Derivations, Ch. 5
+4/19
+:   **Second Graded Homework Assignment Due**
 4/20
 :   SD: Derivations, Ch. 5
 
@@ -62,6 +66,8 @@ Key to abbreviations: SL, Sentential Logic; SD, SL's Derivation System; PL, Pred
 
 5/9
 :   PL: Symbolization and Syntax, Ch. 7
+5/10
+:   **Third Graded HW Assignment Due**
 5/11
 :   PL: Semantics, Ch. 8 (skip §8.5-8.7)
 
@@ -76,6 +82,8 @@ Key to abbreviations: SL, Sentential Logic; SD, SL's Derivation System; PL, Pred
 
 5/23
 :   PD: Derivations, Ch. 10 (skip §10.3)
+5/24
+:   **Fourth Graded HW Assignment Due**
 5/25
 :   PD: Derivations, Ch. 10
 

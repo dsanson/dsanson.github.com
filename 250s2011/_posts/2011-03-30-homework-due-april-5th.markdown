@@ -26,5 +26,5 @@ Complete the following exercises from the book:
 : 	1d, 2f
 
 Also
-:	Define logical falsehood in terms of logical inconsistency.
+:	Define logical falsehood in terms of logical consistency or logical inconsistency.
 

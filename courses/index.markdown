@@ -10,7 +10,7 @@ When emailing about a course, please include your full name in the body of your 
 ## Spring 2011
 
 +	[Symbolic Logic (250)](/250s2011)
-    +   Lecture: [Sullivant Hall](http://www.osu.edu/map/building.php?building=106) 0105, MW 9:30-10:48
+    +   Lecture: [Ramseyer Hall](http://www.osu.edu/map/building.php?building=090) 0064 ~~[Sullivant Hall](http://www.osu.edu/map/building.php?building=106) 0105~~, MW 9:30-10:48
     +   Recitations: T 9:30-10:18; T 10:30-11:18.
     
 +	[Dissertation Seminar (999)](/999s2011)

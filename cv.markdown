@@ -1,13 +1,13 @@
 % Curriculum Vitae
 % David Sanson
-% February 01, 2011
+% March 31, 2011
 
   --------------------------- --------------------------
   Department of Philosophy                  614-292-2235
   The Ohio State University           <sanson.7@osu.edu>
   372 University Hall           <http://davidsanson.com>
-  230 North Oval Mall         
-  Columbus, Ohio 43210        
+  230 North Oval Mall
+  Columbus, Ohio 43210
   --------------------------- --------------------------
 
 # Employment
@@ -38,8 +38,7 @@
 
 # Publications
 
--   "Presentism and Truthmaking," with Ben Caplan, *Philosophy Compass*,
-    forthcoming.
+-   "Presentism and Truthmaking," with Ben Caplan, *Philosophy Compass* (6) 2011: 196–208. 
 -   "The Way Things Were," with Ben Caplan, *Philosophy and
     Phenomenological Research* (81.1) 2010: 24–39.
 -   "The Early Arabic Liar," with Ahmed Alwishah, *Vivarium* (47:1)
@@ -104,6 +103,34 @@
     2003)
 -   Philosophy 31: Symbolic Logic (UCLA, Summer 2001)
 
+## Dissertation Committee Member
+
+-   Vassilis Tsompanidis, *Tensed Belief* (UC Santa Barbara), 2008-2010.
+
+-	*In Progress.* James McGlothlin, 2011-present; Wesley Cray, 2009-present; Cathy Muller, 2008-present; Eric Carter, 2007-present
+
+## Graduate Qualifying Exam Committee Member
+
+-   Scott Brown, 2011; James McGlothlin, 2011; Wesley Cray, 2009; Patrick Reeder, 2009; Cathy Muller, 2008
+
+## Graduate Candidacy Exam Committee Member
+
+-   David Blanks, 2011; Ben Horne, 2011; Scott Brown, 2010; Daniel Pearlberg, 2009; Conrad Robinson, 2009; Wesley Cray, 2008; Andrew Choi, 2007; Thomas Evans, 2007; Cathy Muller, 2007
+
+## Undergraduate Honors Thesis Committee Member
+
+-   Ben Flowers, "Rule A and Responsibility: A Defense of the
+    Compatibility of Moral Responsibility and Causal Determinism,"
+    2009
+-   Matthew Grover (Psychology), "Using attitude formation towards
+    novel stimuli to predict changes in depressive symptoms," 2009
+
+## Undergraduate Honors Thesis External Examiner
+
+-   Rachel Randall (Philosophy, Oberlin), "The Ethics of Creation of Persons," 2007
+-   Michael Siniscalchi (Philosophy, Oberlin), "Can Representationalism Bridge Levine's Gap?" 2007
+
+
 # Awards and Grants
 
 -   UCLA Dissertation Year Fellowship, 2004-2005.
@@ -114,10 +141,7 @@
 
 # Refereeing
 
--   *American Philosophical Quarterly*
--   *Australasian Journal of Philosophy*
--   *Pacific Philosophical Quarterly*
--   *Philosophical Studies*
+-   *American Philosophical Quarterly*, *Australasian Journal of Philosophy*, *Pacific Philosophical Quarterly*, *Philosophical Studies*
 
 # Departmental Service
 
@@ -131,56 +155,9 @@
 -   Curriculum Committee, 2005-06
 -   Fink Committee, 2005-06
 
-# Supervision
-
-## Dissertation Committee Member
-
-### Current
-    
--   James McGlothlin, 2011-present.
--   Wesley Cray, 2009-present
--   Cathy Muller, 2008-present
--   Eric Carter, 2007-present
-
-### Completed
-
--   Vassilis Tsompanidis, *Tensed Belief* (UC Santa Barbara), 2008-2010.
-
-## Graduate Qualifying Exam Committee Member
-
--   Scott Brown, 2011
--   James McGlothlin, 2011
--   Wesley Cray, 2009
--   Patrick Reeder, 2009
--   Cathy Muller, 2008
-
-## Graduate Candidacy Exam Committee Member
-
--   David Blanks, 2011
--   Ben Horne, 2011
--   Scott Brown, 2010
--   Daniel Pearlberg, 2009
--   Conrad Robinson, 2009
--   Wesley Cray, 2008
--   Andrew Choi, 2007
--   Thomas Evans, 2007
--   Cathy Muller, 2007
-
-## Undergraduate Honors Thesis Committee Member
-
--   Ben Flowers, "Rule A and Responsibility: A Defense of the
-    Compatibility of Moral Responsibility and Causal Determinism,"
-    2009
--   Matthew Grover (Psychology), "Using attitude formation towards
-    novel stimuli to predict changes in depressive symptoms," 2009
-
 # Other Service
 
 -   Session Chair: Central APA, 2010; Central APA, 2009; Pacific APA,
     2006.
--   Oberlin, external examiner
-    -   Rachel Randall, "The Ethics of Creation of Persons," BA Honors
-        Thesis, Defended December 2007
-    -   Michael Siniscalchi, "Can Representationalism Bridge Levine's
-        Gap?" BA Honors Thesis, Defended December 2007
+
 

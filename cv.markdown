@@ -49,20 +49,16 @@
 -   "Locality and Necessity," with Ben Caplan, APA Pacific Meeting,
     March 2008
 -   "The Essentially Unreal Past," APA Central Meeting, April 2007
-    (invited)
--   "Fatalism and Future Contingents," OSU Undergraduate Philosophy
-    Club, November 2005
 -   "The Way Things Were," with Ben Caplan
     -   CPA Annual Congress, University of Western Ontario, May 2005
         (refereed)
-    -   APA Central Division Meeting, Chicago, IL, April 2005 (refereed)
+    -   APA Central Division Meeting, Chicago, IL, April 2005 
     -   8th Annual INPC, University of Idaho and WSU, April 2005
         (refereed)
-
 -   "The Once Present and the Now Past"
-    -   University of Rochester, February 2005 (invited)
-    -   University of Manitoba, January 2005 (invited)
-    -   Ohio State University, January 2005 (invited)
+    -   University of Rochester, February 2005 
+    -   University of Manitoba, January 2005 
+    -   Ohio State University, January 2005 
 
 # Comments
 
@@ -102,6 +98,11 @@
 -   Philosophy C119: Topics in Early Modern Philosophy (UCLA, Summer
     2003)
 -   Philosophy 31: Symbolic Logic (UCLA, Summer 2001)
+
+## Teaching Presentations
+
+-	"Nonstandard Tense Realism," OSU Undergraduate Philosophy Club, March 2009 
+- 	"Fatalism and Future Contingents," OSU Undergraduate Philosophy Club, November 2005
 
 ## Dissertation Committee Member
 

@@ -63,7 +63,7 @@ The site is also available on [Github](http://github.com/). You can browse the [
 
 ### For Everything
 
--   [Quicksilver](http://github.com/tiennou/blacktree-alchemy) (an OSX application launcher and much much more)
+-   [Quicksilver](http://qsapp.com) (an OSX application launcher and much much more)
 -   [SimpleNote](http://simplenoteapp.com/) (simple text notes made simple on iOS; syncs with Notational Velocity)
 -   [Evernote](http://www.evernote.com/) (less simple notes and not quite as simple, syncs with everything)
 -   [Dropbox](https://www.getdropbox.com/referrals/NTg1MzM4OQ) (sharing files between computers made simple)

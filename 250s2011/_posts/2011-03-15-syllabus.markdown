@@ -8,7 +8,7 @@ excerpt: Follow the arrow to read the course syllabus.
 
 Professor
 :	David Sanson, 372 [University Hall](http://www.osu.edu/map/building.php?building=339), <sanson.7@osu.edu>.\
-	Office hours: M 11-12; Th 2-3; or by appointment.
+	Office hours: M 11-12; ~~Th 2-3~~; Tu 6-7pm; or by appointment.
 
 Assistants
 :	Eric Snyder, 214 University Hall, <snyder.978@osu.edu>.\

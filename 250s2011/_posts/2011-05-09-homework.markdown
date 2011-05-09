@@ -1,0 +1,14 @@
+---
+title: "Homework"
+layout: phil250-post
+comments: true
+published: true
+date:  2011-05-09 17:13:16
+category: homework
+---
+
+As announced in class, there is no homework due tomorrow. To make up for this, there will be an ungraded homework due next week, for which we will give you feedback as though it were graded.
+
+In the meantime, I would encourage you to continue practicing derivations in SD, and start tackling the exercises in 7.2 (work through the unstarred problems, so you can check your answer against the key), 7.3 (symbolization that does not yet involve quantifiers), 7.4 (easy symbolization with quantifiers) and 7.6 (harder symbolization with quantifiers).
+
+You should also continue practicing derivations in SD. A separate post contains additional exercises.

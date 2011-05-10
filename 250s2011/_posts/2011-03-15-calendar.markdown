@@ -67,14 +67,14 @@ Key to abbreviations: SL, Sentential Logic; SD, SL's Derivation System; PL, Pred
 5/9
 :   PL: Symbolization and Syntax, Ch. 7
 5/10
-:   **Third Graded HW Assignment Due**
+:   ~~**Third Graded HW Assignment Due**~~
 5/11
-:   PL: Semantics, Ch. 8 (skip §8.5-8.7)
+:   PL: Symbolization and Syntax, Ch. 7
 
 ## Week 8
 
 5/16
-:   PL: Semantics, Ch. 8 
+:   PL: Semantics, Ch. 8 (skip §8.5-8.7)
 5/18
 :   PL: Semantics, Ch. 8
 

@@ -1,9 +1,3 @@
----
-
-title: functions.js
-
----
-
 function menutoggle() {
     $('.old-post').slideToggle();
     $('#expand-switch').toggle();

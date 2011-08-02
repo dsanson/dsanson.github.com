@@ -2,7 +2,7 @@ require 'jsmin'
 
 module Jekyll
   class JSMinifier < Converter
-    safe true
+    safe false
 
     priority :low
 

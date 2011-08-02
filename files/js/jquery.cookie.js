@@ -1,3 +1,7 @@
+---
+title: jquery cookie
+---
+
 /*jslint browser: true */ /*global jQuery: true */
 
 /**

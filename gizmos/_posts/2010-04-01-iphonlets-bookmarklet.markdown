@@ -23,20 +23,22 @@ Just kidding. You can do that, but you can also use the bookmarklet to install i
 
 For those interested in tweaking the bookmarklet, here is the human readable source:
 
-	function F() {
-	 var i,L;
-	 L=document.links;
-	 for (i=0;i<L.length;i++) {
-	  if (L[i].protocol=="javascript:") {
-	   L[i].href="http://example.com/#"+L[i].href;
-	   L[i].style.padding="5px";
-	   L[i].style.border="thin solid #ccc";
-	   L[i].style.background="#ff3";
-	   L[i].style.color="#000";
-	  }
-	 } 
-	};
-	F();
+~~~{.Javascript}
+function F() {
+ var i,L;
+ L=document.links;
+ for (i=0;i<L.length;i++) {
+  if (L[i].protocol=="javascript:") {
+   L[i].href="http://example.com/#"+L[i].href;
+   L[i].style.padding="5px";
+   L[i].style.border="thin solid #ccc";
+   L[i].style.background="#ff3";
+   L[i].style.color="#000";
+  }
+ } 
+};
+F();
+~~~
 
 Wondering why you'd want bookmarklets on your iPhone? Take a look at 
 

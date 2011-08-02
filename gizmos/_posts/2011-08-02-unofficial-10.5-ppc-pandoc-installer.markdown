@@ -1,0 +1,35 @@
+---
+title: "Unofficial 10.5 PPC Pandoc Installer"
+layout: gizmos-post
+comments: true
+published: true
+date:  2011-08-02 16:32:15
+excerpt: |
+    The new official Pandoc installer for OS X only works on 10.6 and 10.7. I've compiled an [unofficial installer](http://files.davidsanson.com/pandoc-1.8.2_ppc_installer.dmg) that works on 10.5.
+---
+
+For a long time, the only way to install [Pandoc] on a Mac was to first install the [Haskell Platform] and then build from source by executing 
+
+~~~{.sh}
+
+$ cabal install pandoc
+
+~~~
+
+from the command line.
+
+Happily, there is now a [binary installer package] available. It works for OS X 10.6 and 10.7. It does not work for OS X 10.5.
+
+So [here] is an unofficial [10.5 PPC Pandoc Installer]. The binary it installs is a PPC binary. It should work on both PPC machines running 10.5 and (with some performance penalty) on Intel machines running 10.5 via [Rosetta]. Apparently it does not work on 10.4 or 10.3.
+
+[Pandoc]: http://johnmacfarlane.net/pandoc/
+
+[Haskell Platform]: http://hackage.haskell.org/platform/
+
+[binary installer package]: http://johnmacfarlane.net/pandoc/installing.html
+
+[here]: http://files.davidsanson.com/pandoc-1.8.2_ppc_installer.dmg
+
+[10.5 PPC Pandoc Installer]: http://files.davidsanson.com/pandoc-1.8.2_ppc_installer.dmg
+
+[Rosetta]: http://en.wikipedia.org/wiki/Rosetta_(software)

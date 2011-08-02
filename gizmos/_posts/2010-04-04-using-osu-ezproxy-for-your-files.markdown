@@ -14,15 +14,17 @@ To get this work, you'll have to ask the [library IT division](http://library.os
 
 Want part of your OSU webpage to be protected behind OSU's EZProxy server? Create a subfolder (e.g., sanson7/local/), create a text file named ".htaccess" in that folder, containing the following lines:
 
-	RewriteEngine On
-	RewriteCond %{REMOTE_ADDR} !^164\.107
-	RewriteCond %{REMOTE_ADDR} !^140\.254
-	RewriteCond %{REMOTE_ADDR} !^128\.146
-	RewriteCond %{REMOTE_ADDR} !^192\.68\.143 
-	RewriteCond %{REMOTE_ADDR} !^192\.12\.205 
-	RewriteCond %{REMOTE_ADDR} !^67\.39\.90 
-	RewriteCond %{REMOTE_ADDR} !^75\.12\.69
-	RewriteRule (.*) http://proxy.lib.ohio-state.edu/login?url=http://%{SERVER_NAME}%{REQUEST_URI} [R,L]
+~~~{.Apache}
+RewriteEngine On
+RewriteCond %{REMOTE_ADDR} !^164\.107
+RewriteCond %{REMOTE_ADDR} !^140\.254
+RewriteCond %{REMOTE_ADDR} !^128\.146
+RewriteCond %{REMOTE_ADDR} !^192\.68\.143 
+RewriteCond %{REMOTE_ADDR} !^192\.12\.205 
+RewriteCond %{REMOTE_ADDR} !^67\.39\.90 
+RewriteCond %{REMOTE_ADDR} !^75\.12\.69
+RewriteRule (.*) http://proxy.lib.ohio-state.edu/login?url=http://%{SERVER_NAME}%{REQUEST_URI} [R,L]
+~~~
 
 Now anyone who attempts to open something within that folder from off-campus will be automatically redirected through OSU's EZProxy service.
 

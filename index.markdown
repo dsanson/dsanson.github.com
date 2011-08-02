@@ -47,6 +47,8 @@ section: home
 </div>
 <div id="me">
 <hr class="show-me">
-{% include me-content.markdown %}
+
+{% include me-content.html %}
+
 </div>
 </div>

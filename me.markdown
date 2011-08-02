@@ -4,4 +4,4 @@ title: About David Sanson
 section: about
 ---
 
-{% include me-content.markdown %}
+{% include me-content.html %}

@@ -7,4 +7,4 @@ When not working, I am probably playing with [my daughter](http://flickr.com/pho
 
 You can ~~stalk~~ find me on [Flickr](http://www.flickr.com/photos/davsans/) and [Facebook](http://www.facebook.com/people/David_Sanson/12455093) and [Academia.edu](http://osu.academia.edu/DavidSanson/) and [Twitter](http://twitter.com/davsans22) and [Github](http://github.com/dsanson). You are also welcome to dig through my [recipe box](http://www.evernote.com/pub/dsanson/recipes) and [gardening notes](http://www.evernote.com/pub/dsanson/garden) if you'd like.
 
-You can also read more [about this site](/site) or check out the [source](http://github.com/dsanson/dsanson.github.com) on github. 
+You can also read [about the software I use](/software) or [about how this site is generated and hosted](/site). And you can [fork me on github](http://github.com/dsanson/dsanson.github.com).

@@ -38,7 +38,6 @@ The site makes use of several useful scripts and services:
 -   [H2VX Contacts Conversion Service](http://h2vx.com/vcf/) converts the hcard on the index page to a downloadable vcard.
 -   [Gravatar](http://gravatar.com/) provides avatars for commenters and the image on my [about me](/me) page.
 -   I use the [COinS Generator](http://generator.ocoins.info/) to generate COinS metadata for papers on my research page.
--   The 'bored?' link at the bottom of each page is provided by [Kick ass](http://erkie.github.com/).
 
 The site is hosted on
 

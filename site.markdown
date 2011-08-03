@@ -12,7 +12,7 @@ Unless specified otherwise:
 
 One important exception:
 
--   All rights reserved for research papers and drafts of research papers, including all documents linked to from my [Research](/research "Research") page.
+-   All rights reserved for research papers and drafts of research papers, including all documents linked from my [Research](/research "Research") page.
 
 ## Site design
 

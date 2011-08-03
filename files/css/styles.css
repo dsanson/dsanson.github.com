@@ -1,14 +1,12 @@
 html {
      min-height: 100%
-     background: #3D3D3D;
-	 background: rgba(41,41,41,.9);
+     /*background: #3D3D3D;*/
+	 /*background: rgba(41,41,41,.9);*/
 }
 
 body {
      font-family: Optima, 'Gill Sans', 'Lucida Sans', 'Lucida Grande', Corbel, Verdana, sans-serif;
      text-rendering: optimizeLegibility;
-/*     background: #3D3D3D;*/
-/*   background: rgba(61,61,61,.9);*/
 	 min-height: 100%;
 }
 
@@ -34,8 +32,14 @@ header {
 	padding-left: 1em;
 	margin-right: -1em;
 	padding-right: 2em;
-	-moz-border-radius-topright: 30px;
-	border-top-right-radius: 30px;
+	/*-moz-border-radius-topright: 30px;*/
+	/*border-top-right-radius: 30px;*/
+	-webkit-border-bottom-right-radius: 5px;
+	-webkit-border-bottom-left-radius: 5px;
+	-moz-border-radius-bottomright: 5px;
+	-moz-border-radius-bottomleft: 5px;
+	border-bottom-right-radius: 15px 5px;
+	border-bottom-left-radius: 15px 5px;
 }
 
 header * {
@@ -120,8 +124,8 @@ body.discuss li.discuss
 	border-bottom: 1px solid #ffffff;
 	-moz-border-radius-topright: 5px;
 	-moz-border-radius-topleft: 5px;
-	border-top-right-radius: 5px;
-	border-top-left-radius: 5px;
+	border-top-right-radius: 3px 5px;
+	border-top-left-radius: 3px 5px;
 	background: white;
 }
 

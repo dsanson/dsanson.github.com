@@ -1,21 +1,11 @@
 ---
 layout: name
 title: Courses — David Sanson
-
 section: courses
 ---
 
 When emailing about a course, please include your full name in the body of your email and the course number (e.g., "463") in the subject line. 
 
-## Spring 2011
-
-+	[Symbolic Logic (250)](/250s2011)
-    +   Lecture: [Ramseyer Hall](http://www.osu.edu/map/building.php?building=090) 0064 ~~[Sullivant Hall](http://www.osu.edu/map/building.php?building=106) 0105~~, MW 9:30-10:48
-    +   Recitations: T 9:30-10:18; T 10:30-11:18.
-    
-+	[Dissertation Seminar (999)](/999s2011)
-    +   University Hall 353, M 12:30-3:18
-	
 ## Future
 
 +	Fall 2011
@@ -29,6 +19,10 @@ When emailing about a course, please include your full name in the body of your 
 	+	Graduate Seminar in Metaphysics (863)
 
 ## Past
+
+-   Spring 2011
+	+	[Symbolic Logic (250)](/250s2011)
+    +	[Dissertation Seminar (999)](/999s2011)
 
 -	Fall 2010
 	-   [Ancient Philosophy (301)](/301f2010)

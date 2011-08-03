@@ -2,7 +2,7 @@
 
 rm -rf _site && \
 jekyll && \
-#./scripts/markdown_generator.sh
+cp .htaccess _site/.htaccess # temporary fix for bug introduced by jekyll 0.11
 rsync -avz --delete _site/ nfsn:/home/public/
 # rsync -avz _site/ dream:/home/davsans/davidsanson.com/
 rsync -avO --no-g --no-p --delete _site/ /Library/WebServer/Documents/

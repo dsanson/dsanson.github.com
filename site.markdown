@@ -43,7 +43,7 @@ The site is hosted on
 
 -   [NearlyFreeSpeech.net](https://www.nearlyfreespeech.net/),
 
-an inexpensive pay-as-you-go bare-bones web host. I end up paying ~$9 a year for domain registration and >50¢ a month for storage and bandwidth. I've been happy with them so far. To keep that price low, large files (like PDFs) are hosted via
+an inexpensive pay-as-you-go bare-bones reputable web host. I end up paying ~$9 a year for domain registration and >50¢ a month for storage and bandwidth. I've been happy with them so far. To keep that price low, large files (like PDFs) are hosted via
 
 -	[Dropbox](http://www.dropbox.com/) 
 
@@ -53,6 +53,5 @@ To make the Dropbox URLs look better, I use
 
 A [mirror of the site](http://dsanson.github.com) is also available via [Github Pages](http://pages.github.com/). You can browse the [source](http://github.com/dsanson/dsanson.github.com) used by Jekyll to generate the site (and fork it if you like!).
 
-If I were starting over today, I would probably just host the site on Github. The hosting is free, and they now support [custom domains](http://pages.github.com/#custom_domains). So then my only cost would be domain registration and DNS.
-
+If I were starting over today, I would probably just host the site on Github. The hosting is free, and if you are happy with a url like <http://dsanson.github.com> that's that. And they now support [custom domains](http://pages.github.com/#custom_domains) even for free accounts. Then the only cost would be domain registration and DNS. But that is actually a bit of a hassle. The cheapest registrars offer .com addresses for ~$10/year (sometimes half that for the first year). Watch out for hidden privacy fees and sleazy practices. At best, that would save me $5 to $6 a year. But another advantage would be that on Github, I wouldn't have to worry about additional storage and bandwidth fees.
 

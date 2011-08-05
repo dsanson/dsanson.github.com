@@ -46,7 +46,7 @@ section: home
 <p><a href="me" onclick="moreMe(); return false">more about me</a></p>
 </div>
 <div id="me">
-<hr class="show-me">
+<hr >
 
 {% include me-content.html %}
 

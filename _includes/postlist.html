@@ -9,7 +9,7 @@
   </h1>
   {% if post.excerpt != null %}
   {% capture blurb %}{{ post.excerpt }}[→]({{ link }}){% endcapture %}
-  {{ blurb | markdownize }}
+  {{ blurb | markdownify }}
   {% else %}
   {{ post.content }}
   {% endif %}

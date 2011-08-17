@@ -8,7 +8,7 @@ excerpt: A bookmarklet that makes it possible to bookmark bookmarklets in browse
 
 This is a meta-bookmarklet: it is a bookmarklet that makes it possible to bookmark bookmarklets in browsers that only allow you to bookmark the page you are on. This includes Mobile Safari, the browser iOS. It also includes Opera Mini, I am told.
 
-This is not the only bookmarklet that does this. The "[Grady Morgan Bookmarklet](http://www.ipodtouchfans.com/forums/showthread.php?t=91132)" did something similar but has gone missing; the [CSS Ninja](http://www.thecssninja.com/javascript/iphone-bookmarklet) wrote a bookmarklet that does the same thing.
+This is not the only bookmarklet that does this. The "[Grady Morgan Bookmarklet](http://www.ipodtouchfans.com/forums/showthread.php?t=91132)" did something similar but has gone missing; the [CSS Ninja](http://www.thecssninja.com/javascript/iphone-bookmarklet) wrote a bookmarklet that does the same thing. And Chris Johnsen has a [Bookmarklet to view Bookmarklets](http://chrisjohnsen.github.com/view-bookmarklets-bookmarklet/) that takes a different approach to solving the same problem.
 
 A bookmarklet is a link of the form `href="javascript:blah"`. Rather than taking you to a new webpage, it executes a bit of javascript on the page that you have already loaded. The iPhonlets bookmarklet changes all `href="javascript:blah"` links on a page to `href="http://example.com/#javascript:blah"` links. (As a visual cue, it surrounds converted links in a yellow box.) Once this has been done, you can follow the link to `http://example.com#javascript:blah` and bookmark the page. You can then edit the bookmark, deleting the `http://example.com/#` bit from the URL, leaving just the `javascript:blah` bit. 
 

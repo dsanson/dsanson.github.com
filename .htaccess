@@ -7,8 +7,6 @@ Redirect 301 /CV.pdf /cv.pdf
 Redirect 301 /about-me /me
 Redirect 301 /about-site /site
 Redirect 301 /home /
-Redirect 301 /404.html /404.shtml
-Redirect 301 /410.html /410.shtml
 
 Redirect 301 /research/oncepresent.pdf http://files.davidsanson.com/research/oncepresent.pdf
 Redirect 301 /research/maximal-possibilities.pdf http://files.davidsanson.com/research/maximal-possibilities.pdf
@@ -38,8 +36,8 @@ Redirect 301 /250 /250s2011/
 Redirect 301 /999 /999s2011/
 Redirect 301 /999s2011/signup http://signupgenius.com/go/philosophy
 
-ErrorDocument 404 /404.shtml
-ErrorDocument 410 /410.shtml
+ErrorDocument 404 /404.html
+ErrorDocument 410 /410.html
 
 Options -Indexes +FollowSymLinks +IncludesNOEXEC
 

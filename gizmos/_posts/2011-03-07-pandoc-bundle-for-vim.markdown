@@ -9,4 +9,4 @@ I've left [TextMate] for [MacVim]. To help ease my transition, I've thrown toget
 
 [TextMate]: http://macromates.com/
 [MacVim]: http://code.google.com/p/macvim/
-[vim-pandoc]: https://github.com/dsanson/vim-pandoc
+[vim-pandoc]: https://github.com/vim-pandoc/vim-pandoc

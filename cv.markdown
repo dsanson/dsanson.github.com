@@ -1,6 +1,6 @@
 % Curriculum Vitae
 % David Sanson
-% March 31, 2011
+% September 26, 2011
 
   --------------------------- --------------------------
   Department of Philosophy                  614-292-2235
@@ -38,21 +38,27 @@
 
 # Publications
 
--   "Presentism and Truthmaking," with Ben Caplan, *Philosophy Compass* (6) 2011: 196–208. 
+-   "Presentism and Truthmaking," with Ben Caplan, *Philosophy Compass* (6:3) 2011: 196–208. 
 -   "The Way Things Were," with Ben Caplan, *Philosophy and
     Phenomenological Research* (81.1) 2010: 24–39.
 -   "The Early Arabic Liar," with Ahmed Alwishah, *Vivarium* (47:1)
     2009: 97-127.
 
+# Papers Under Review
+
+-    "Once Present, Now Past"
+-    "Maximal Possibilities"
+-    "Worlds Enough for Junk"
+
 # Presentations
 
--   "Locality and Necessity," with Ben Caplan, APA Pacific Meeting,
-    March 2008
--   "The Essentially Unreal Past," APA Central Meeting, April 2007
+-   "Locality and Necessity," with Ben Caplan, APA Pacific Meeting, Pasadena CA,
+    March 2008 (refereed)
+-   "The Essentially Unreal Past," APA Central Meeting, Chicago, IL, April 2007
 -   "The Way Things Were," with Ben Caplan
     -   CPA Annual Congress, University of Western Ontario, May 2005
         (refereed)
-    -   APA Central Division Meeting, Chicago, IL, April 2005 
+    -   APA Central Division Meeting, Chicago, IL, April 2005 (refereed)
     -   8th Annual INPC, University of Idaho and WSU, April 2005
         (refereed)
 -   "The Once Present and the Now Past"
@@ -63,21 +69,22 @@
 # Comments
 
 -   "Comments on Dana Goswick, 'Counterfactual Analysis & Causal
-    Overdetermination,'" APA Pacific Meeting, March 2006.
+    Overdetermination,'" APA Pacific Meeting, Portland, OR, March 2006.
 -   "Comments on Marie Pannier, 'Presentism and Singular Propositions,'"
-    WCPA Meeting, October 2005.
+    WCPA Meeting, University of Manitoba, October 2005.
 -   "Comments on Kelly Trogdon, 'Dualism, Mental Causation, and
-    Counterfactuals,'" APA Pacific Meeting, March 2003.
+    Counterfactuals,'" APA Pacific Meeting, San Francisco, March 2003.
 
 # Teaching
 
 ## Graduate Seminars
 
+-   First Year Proseminar (Fall 2011)
 -   Dissertation Seminar (Spring 2011)
 -   Tense and Passage (Winter 2010)
+-   First Year Proseminar (Fall 2008)
 -   Nonexistents (Fall 2007)
 -   Time and Change (Spring 2006)
--   First Year Proseminar (Fall 2008)
 
 ## Undergraduate Courses
 
@@ -104,11 +111,13 @@
 -	"Nonstandard Tense Realism," OSU Undergraduate Philosophy Club, March 2009 
 - 	"Fatalism and Future Contingents," OSU Undergraduate Philosophy Club, November 2005
 
+# Advising
+
 ## Dissertation Committee Member
 
--   Vassilis Tsompanidis, *Tensed Belief* (UC Santa Barbara), 2008-2010.
-
--	*In Progress.* James McGlothlin, 2011-present; Wesley Cray, 2009-present; Cathy Muller, 2008-present; Eric Carter, 2007-present
+-   Vassilis Tsompanidis, *Tensed Belief* (UC Santa Barbara), 2008-2010
+-	Eric Carter, *Objectivity and Communication*, 2007-2011
+-	*In Progress:* Scott Brown, 2011-present; James McGlothlin, 2011-present; Wesley Cray, 2009-present; Cathy Muller, 2008-present
 
 ## Graduate Qualifying Exam Committee Member
 
@@ -120,11 +129,13 @@
 
 ## Undergraduate Honors Thesis Committee Member
 
--   Ben Flowers, "Rule A and Responsibility: A Defense of the
+-   Gabbrielle Johnson (Philosophy), "Reference Magnetism and Macro-Naturalism," 2011
+-   Dan Giglio (Philosophy), "Quantum Individuality" 2011
+-   Ben Flowers (Philosophy), "Rule A and Responsibility: A Defense of the
     Compatibility of Moral Responsibility and Causal Determinism,"
     2009
--   Matthew Grover (Psychology), "Using attitude formation towards
-    novel stimuli to predict changes in depressive symptoms," 2009
+-   Matthew Grover (Psychology), "Using Attitude Formation Towards
+    Novel Stimuli to Predict Changes in Depressive Symptoms," 2009
 
 ## Undergraduate Honors Thesis External Examiner
 
@@ -134,27 +145,28 @@
 
 # Awards and Grants
 
--   UCLA Dissertation Year Fellowship, 2004-2005.
--   UCLA Distinguished Teaching Assistant Award, 2004.
+-   UCLA Dissertation Year Fellowship, 2004-2005
+-   UCLA Distinguished Teaching Assistant Award, 2004
 -   Robert M. Yost Prize for Excellence in Teaching, UCLA Philosophy
-    Department, 2000.
--   UCLA Department of Philosophy Fellowship, 1996-97.
+    Department, 2000
+-   UCLA Department of Philosophy Fellowship, 1996-97
 
 # Refereeing
 
--   *American Philosophical Quarterly*, *Australasian Journal of Philosophy*, *Pacific Philosophical Quarterly*, *Philosophical Studies*
+-   *American Philosophical Quarterly*, *Australasian Journal of Philosophy*, *Erkenntnis*, *Pacific Philosophical Quarterly*, *Philosophical Studies*
 
 # Departmental Service
 
+-   Graduate Admissions, 2011-2012
 -   Colloquium Committee, 2005-present
 -   Salary Commitee, 2009-10
 -   Hiring Committee, 2008-09
--   Undergraduate Committee, 2008-09, 2005-06
+-   Undergraduate Committee, 2005-06, 2008-09
 -   Bingham Committee, 2008-09
 -   Research Committee, 2007-08
 -   Executive Committee, 2006-07
 -   Curriculum Committee, 2005-06
--   Fink Committee, 2005-06
+-   Fink Committee, 2005-06, 2011-2012
 
 # Other Service
 

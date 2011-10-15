@@ -6,10 +6,11 @@ section: courses
 
 When emailing about a course, please include your full name in the body of your email and the course number (e.g., "463") in the subject line. 
 
-## Future
+## Present
 
-+	Fall 2011
-	+	First Year Seminar (700) with William Taschek
++	[First Year Seminar](/700f2011) (700) with William Taschek
+
+## Future
 
 +   Winter 2011
 	+	Ancient Philosophy (301)

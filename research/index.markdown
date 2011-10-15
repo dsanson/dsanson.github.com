@@ -21,7 +21,7 @@ feed: /research/atom.xml
 <section>
 <h1>Papers</h1>
 {% for post in site.categories.research %}
-{% if post.status == "published" or post.status == "in-review" or post.status == "forthcoming" %}
+{% if post.status == "published" or post.status == "in-review" or post.status == "forthcoming" or post.status == "draft" or post.status == "under-revision" %}
 <article class="post">
 {{ post.content }}
 </article>
@@ -39,3 +39,15 @@ feed: /research/atom.xml
 {% endif %}
 {% endfor %}
 </section>
+
+<section>
+<h1><a href="http://en.wikipedia.org/wiki/Double_dactyl">Double Dactyls</a></h1>
+{% for post in site.categories.research %}
+{% if post.status == "poetry" %}
+<article class="post">
+{{ post.content }}
+</article>
+{% endif %}
+{% endfor %}
+</section>
+

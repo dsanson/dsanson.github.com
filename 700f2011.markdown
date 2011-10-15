@@ -1,0 +1,304 @@
+---
+layout: name
+title: Syllabus — First Year Seminar
+section: courses
+---
+
+# Philosophy 700: First Year Seminar
+
+David Sanson and William Taschek
+
+Fall 2011
+
+# Readings
+
+The required reading for this course consist in (i) a selection of 10
+Primary Texts, organized into three modules, (ii) a strong
+recommendation that you explore relevant supplementary readings—some
+*examples* of which are provided below, and (iii) the weekly discussion
+essays and reaction papers. Each week we will focus on a different
+Primary Text. A copy of each of the Primary Texts is available as a PDF
+on the Carmen site for this course.
+
+You are expected to come to class having thoroughly read and carefully
+studied the Primary Text that is the focus of any given meeting—and
+prepared to actively participate in the class discussion. You are also
+expected to explore at least some supplementary readings and to have
+read and reflected upon the weekly discussion essays and circulated
+reaction papers.
+
+# Assignments
+
+In addition to keeping up with the assigned reading (primary texts,
+seminar discussion papers, reaction papers), exploring relevant
+secondary texts, and actively participating in class discussion, each
+student will be required to complete the following:
+
+-   **Two** *seminar discussion papers*. These papers are intended
+	to be substantive critical discussions/evaluations of some
+	aspect of the primary text that is assigned for a given week.
+	They should be about 7-10 pages long. You are to distribute them
+	via email as attached documents to the whole class a couple of
+	days before the day on which the primary text at which they are
+	directed is assigned. We strongly suggest that you discuss the
+	direction you plan to take in this paper with at least one of us
+	before you submit it.
+
+-   **Two** *comments on discussion papers*. The idea here is for
+	you to assume something like the role that the "commentator"
+	assumes in an APA session—presenting a brief critical evaluation
+	of the principal arguments/positions defended in the relevant
+	discussion paper. Your primary aim is to generate discussion not
+	only of the seminar discussion paper but, importantly, of the
+	primary text as well. Your comment and discussion should take up
+	about an hour (or a bit more) of the seminar period. Though not
+	required, a handout of some sort might sometimes be helpful.
+
+-   **Five** one to two page *reaction papers*—either on the primary
+	reading for a given week or on that week’s discussion paper.
+	These are to be posted to the whole class no later than 5PM on
+	the day before the seminar meeting. No more than two of your
+	reaction papers can focus on material from any one of our three
+	modules.
+
+-   A substantial, 15-25 page *seminar paper*. This can either be a
+	significant expansion and refinement of one of your presentation
+	papers or something completely new. In any case, before you
+	start on this paper, you should discuss your plans with one or
+	both of us. And, needless to say, you may want to consult with
+	us in the course of writing the paper as well. If you are
+	writing on a topic distinct from one of your two presentation
+	papers, we will also be willing to comment on a *complete* draft
+	of it (but not on notes toward a draft!), if it is turned into
+	us sufficiently in advance.
+
+
+# MODULE ONE
+
+Week I
+
+Tuesday, Sept 27
+
+**Primary Text: Quine, "Two Dogmas of Empiricism"**
+
+Sample Supplementary Readings:
+
+-   Grice/Strawson, "In Defense of a Dogma" (1956), reprinted in Grice’s
+    *Studies in the Way of Words*, pp.196-212.
+-   Boghossian, "Analyticity", in *A Companion to the Philosophy of
+    Language*, ed. by Hale/Wright, pp. 331-368.
+-   Quine, "Carnap and Logical Truth" (1954), reprinted in his *The Ways
+    of Paradox*, pp. 107-132.
+-   Putnam, "The Analytic and the Synthetic" (1962), reprinted in his
+    *Mind, Language, and Reality*, pp.33-69.
+-   Burge, "Belief and Synonymy", *Journal of Philosophy*, 75 (1978),
+    pp. 119-138
+-   Williamson, Timothy, "Metaphysical Conceptions of Analyticity"and
+    "Epistemological Conceptions of Analyticity", Chapters 3 and 4,
+    respectively, of *The Philosophy of Philosophy* (2007), pp. 48-133.
+
+Week II
+
+Tuesday, Oct 4
+
+**Primary Text: Kripke, "Identity and Necessity"**
+
+Sample of Supplementary Readings:
+
+-   Gibbard, "Contingent Identity", *Journal of Philosophical Logic*, 4
+    (1974) pp. 187-221.
+-   Evans, "Reference and Contingency", reprinted in his *Collected
+    Papers*, pp. 178-213.
+-   Dummett, "Notes on an Attempted Refutation of Frege", Appendix to
+    Chapter 5 of his *Frege: The Philosophy of Language,* pp. 110-151.
+-   Stanley, "Rigidity and Content", *Language, Thought and Logic:
+    Essays in Honour of Michael Dummett*, ed. by Heck, pp. 131-156.
+-   Chalmers, "Two Dimensional Semantics", *The Oxford Handbook of
+    Philosophy of Language*, ed. by LePore and Smith (2007).
+-   Soames, "The Modal Argument: Wide Scope and Rigidified Descriptions"
+    (1998), "The Philosophical Significance of Kripkean Necessity A
+    Priori" (2006), "Knowledge of Manifest
+
+Natural Kinds" (2004), essays Five, Six, and Seven of his *Philosophical
+Essays, Volume II: The Philosophical Significance of Language* (2009).
+
+Week III
+
+Tuesday, Oct 11
+
+**Primary Text: Fine, "Essence and Modality"**
+
+Sample of Supplementary Readings:
+
+-   Adams, "Primitive Thisness and Primitive Identity." *Journal of
+    Philosophy*, (1979), pp. 5–26.
+-   Fine, "The Varieties of Necessity." In *Conceivability and
+    Possibility*, (2002), pp. 253–82.
+-   Lewis, "Counterparts of Persons and Their Bodies." *The Journal of
+    Philosophy* (1971), pp. 203–11.
+-   Plantinga, Chapters 2 and 3 of *The Nature of Necessity* (1974).
+-   Rosen, "The limits of contingency." In *Identity and
+    Modality*(2006), ed. Fraser MacBride, pp. 13–39.
+-   Zalta, "Essence and Modality." *Mind* (2006), pp. 659–94.
+
+Week IV
+
+Tuesday, Oct 18
+
+**Primary Text: Lewis, "New Work for a Theory of
+Universals"**
+
+Sample of Supplementary Readings:
+
+-   Chalmers, "Coda, part 2" in *Constructing the World*, (unpublished)
+    http://consc.net/constructing/.
+-   Hawthorne, "Intrinsic Properties and Natural Relations" *Philosophy
+    and Phenomenological Research* (2001), pp. 399–403.
+-   Langton and Lewis, "Defining Intrinsic" *Philosophy and
+    Phenomenological Research* (1998), pp. 333–45.
+-   MacBride, "The Particular–Universal Distinction: A Dogma of
+    Metaphysics?" *Mind*(2005), pp. 565–614.
+-   Sider, Ted. "Reference Magnetism," Chapter 3, Section 2 of *Writing
+    the Book of the World* (forthcoming).
+-   Yablo, "Intrinsicness," *Philosophical Topics* (1999), 479–505.
+
+
+# MODULE TWO
+
+Week V
+
+Tuesday, Oct 25
+
+**Primary Text: Davidson, "Actions, Reasons, and
+Causes"**
+
+Sample of Supplementary Readings:
+
+-   Frankfurt, "The Problem of Action" in *The Importance of What We
+    Care About*, Cambridge, 1988, pp. 70-84.
+-   Bratman, "Two Faces of Intention", *Philosophical Review* (1984),
+    pp. 375-405.
+-   Ginet, "Reasons Explanation of Action: An Incompatibilist Account ",
+    *Philosophical Perspectives 3,*1989, pp. 17-46.
+-   Hornsby, "Agency and Causal Explanation", Chapter 10 in *Causal
+    Explanation*, ed. by Heil and Mele (1993).
+-   Velleman, "What Happens When Someone Acts", *Mind*Vol 101, 1992, pp.
+    461-81.
+-   Wilson, *The Intentionality of Human Action,*Stanford, 1989, Ch. 7.
+
+Week VI
+
+Tuesday, Nov 1
+
+**Primary Text: Williams, "Internal and External Reasons" and Postscript.**
+
+Sample of Supplementary Readings:
+
+-   Williams, "Internal Reasons and the Obscurity of Blame", in *Making
+    Sense of Humanity¸* Cambridge, 1995 pp. 35-45.
+-   Hooker, "Williams’ Argument against External Reasons",
+    *Analysis,*Vol. 47, 1987, pp. 42-44.
+-   McDowell, "Might there be External Reasons", *in World, Mind and
+    Ethics,*Cambridge, 1995 pp. 68-85.
+-   Parfit, "Reasons and Motivation", *Proceedings of the Aristotelian
+    Society,*1997, pp. 99-130.
+-   Scanlon, "Williams on Internal and External Reasons" in *What We Owe
+    to Each Other,*Harvard, 1998, pp. 363-73.
+-   Korsgaard, "Skepticism about Practical Reason", *Journal of
+    Philosophy,*Vo. 83, 1986, pp. 5-25.
+
+Week VII
+
+Tuesday, Nov 8
+
+**Primary Text: Foot, "Morality as a System of
+Hypothetical Imperatives"**
+
+Sample of Supplementary Readings:
+
+-   Frankena, "The Philosopher’s Attack on Morality", *Philosophy*
+    (1974), pp. 345-356.
+-   Foot, "A Reply to Professor Frankena", *Philosophy* (1975);
+    reprinted in Foot’s *Virtues and Vices*, pp. 174-180.
+-   McDowell, "Are Moral Requirements Hypothetical Imperatives?"
+    *Proceedings of the Aristotelian Society*, Vol. 52 (1978), pp.
+    13-29.
+-   Foot, "Rationality and Virtue" (1994), essay 10 in her *Moral
+    Dilemmas* (2002), pp. 159-174.
+-   Foot, "Recantation", (1994), appended to the reprinting of MSHP in
+    Moral Discourse and Practice, ed. by Darwall, Gibbard, and Railton
+    (1997), p. 322.
+-   Lawrence, "The Rationality of Morality" in *Virtues and Reasons*,
+    ed. by Hursthouse et al (1995).
+
+# MODULE THREE
+
+Week VIII
+
+Tuesday, Nov 15
+
+**Primary Text: Van Cleve, "Foundationalism, Epistemic
+Principles, and the Cartesian Circle"**
+
+Sample of Supplementary Readings:
+
+-   Descartes, *Meditations on First Philosophy*, esp. Meditations
+    I-III.
+-   Chisholm, "The Problem of the Criterion", Chapter 7 of Theory of
+    Knowledge (1977), pp. 119-134.
+-   DeRose, "Descartes, Epistemic Principles, Epistemic Circularity, and
+    *Scientia,*" *Pacific Philosophical Quarterly*, 73 (1992), pp.
+    220-238.
+-   Sosa, "Philosophical Scepticism and Epistemic Circularity,"
+    *Aristotelian Society Supplementary Volume* 68 (1994), pp. 263-290.
+-   Cohen, "Basic Knowledge and the Problem of the Problem of Easy
+    Knowledge." *Philosophy and Phenomenological Research* (2002), pp.
+    309-329.
+-   Boghossian, "How are Objective Epistemic Reasons Possible?"
+    *Philosophical Studies* (2001), pp.1-40.
+
+Week IX
+
+Tuesday, Nov 22
+
+**Primary Text: Pryor, "The Skeptic and the
+Dogmatist"**
+
+Sample of Supplementary Readings:
+
+-   Moore, "Proof of an External World", *Proceedings of the British
+    Academy* 25 (1939), pp. 273-300. Reprinted in *Philosophical
+    Papers*, pp. 126-148.
+-   Neta, "Perceptual Evidence and the New Dogmatism", *Philosophical
+    Studies* (2004), pp. 199-214.
+-   Silins, "Basic Justification and the Moorean Response to the
+    Skeptic", *Oxford Studies in Epistemology*, Vol, 2 (2008).
+-   Burge, "Perceptual Entitlement", *Philosophy and Phenomenological
+    Research* (2003), pp. 503-548.
+-   Pryor vs. Williams, "Is There Immediate Justification?",
+    *Contemporary Debates in Epistemology*, ed. by Steup and Sosa
+    (2005), pp. 181-216. [This is a set of two papers, Pryor defending
+    the existence of immediate justification and Williams questioning
+    the need for it.]
+
+Week X
+
+Tuesday, Nov 29
+
+**Primary Text: Cohen, "Contextualism, Skepticism and
+the Structure of Reasons"**
+
+Sample of Supplementary Readings:
+
+-   Lewis, "Elusive Knowledge", *Australasian Journal of
+    Philosophy*(1996), pp. 549-567.
+-   De Rose, "Contextualism and Knowledge Attributions", *Philosophy and
+    Phenomenological Research* (1992), pp. 913-929.
+-   Fantl and McGrath, "Evidence, Pragmatics and Justification",
+    *Philosophical Review* (2002), pp. 67-94.
+-   Hawthorne, "Sensitive Moderate Invariantism", in his *Knowledge and
+    Lotteries* (2004), pp. 157-191.
+-   McFarland, "The Assessment Sensitivity of Knowledge Attributions",
+    *Oxford Studies in Epistemology*, Vol. 1 (2005).
+-   Richard, "Contextualism and Relativism", *Philosophical
+    Studies*(2004), pp. 215-241.

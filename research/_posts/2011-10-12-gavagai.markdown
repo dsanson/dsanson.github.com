@@ -8,13 +8,15 @@ published: true
 status: poetry
 ---
 
-Gavagai Gavagai,\
-Willard van Orman Quine,\
-Poked at a part of a\
-Rabbit that bit.
+## Gavagi Gavagi
 
-"Entification of\
-Undetached rabbit parts\
-Should be at arm's length," he\
-said in a snit.
+> Gavagai Gavagai,\
+> Willard van Orman Quine,\
+> Poked at a part of a\
+> Rabbit that bit.
+> 
+> "Entification of\
+> Undetached rabbit parts\
+> Should be at arm's length," he\
+> Said in a snit.
 

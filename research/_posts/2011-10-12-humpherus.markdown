@@ -8,15 +8,14 @@ published: true
 status: poetry
 ---
 
-Humpherus Hubertus,\
-David K. Lewis's\
-Counterpart Theory is\
-Too much to bear.
+## Humpherus Hubertus
 
-I want my identity\
-Nonqualitatively;\
-Mere similarity?\
-Then I don't care.
-
-
-
+> Humpherus Hubertus,\
+> David K. Lewis's\
+> Counterpart Theory is\
+> Too much to bear.
+> 
+> I want my identity\
+> Nonqualitatively;\
+> Mere similarity?\
+> Then I don't care.

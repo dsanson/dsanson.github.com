@@ -13,7 +13,7 @@ When emailing about a course, please include your full name in the body of your 
 ## Future
 
 +   Winter 2011
-	+	Ancient Philosophy (301)
+	+	[Ancient Philosophy](/301) (301)
 
 +	Spring 2012
 	+	Medieval Philosophy (302)

@@ -1,0 +1,35 @@
+---
+layout: default
+sections: [Syllabus, Readings, Assignments]
+---
+
+{% assign base = '/301w2012' %}
+{% assign sectiontitle = '<span class="extra">Philosophy </span>301' %}
+
+<header>
+{% include nav-course2.html %}
+</header>
+<hr>
+
+<div id="page">
+	{{ content }}
+</div>
+
+<!--Begin Disqus Comment Count Code-->
+
+    <script type="text/javascript">
+    //<![CDATA[
+    (function() {
+    	var links = document.getElementsByTagName('a');
+    	var query = '?';
+    	for(var i = 0; i < links.length; i++) {
+    	if(links[i].href.indexOf('#disqus_thread') >= 0) {
+    		query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+    	}
+    	}
+    	document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/301w2012/get_num_replies.js' + query + '"></' + 'script>');
+    })();
+    //]]>
+    </script>
+    
+<!--End Disqus Comment Count Code-->

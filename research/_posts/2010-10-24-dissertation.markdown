@@ -14,5 +14,12 @@ UCLA, 2005.
 
 > In my dissertation, I tried to make sense of the view that the
 > facts that constitute reality---the facts about what there is, and
-> what properties things instantiate---are temporary facts.
-
+> what properties things instantiate---are temporary facts. But I don't
+> that's quite how I put it at the time. The core of the dissertation is
+> the argument in "Once Present, Now Past". It also contains
+> a critical discussion of one interpretation of the view Michael Tooley defends
+> in *Time, Tense, and Causation* (1997). On that interpretation, Tooley's
+> view---that we can understand temporary facts only by supposing that
+> reality is fundamentally relative to times---ends up looking a lot like
+> the "external relativism" that Kit Fine describes in "Tense and Reality"
+> (2005).

@@ -8,7 +8,7 @@ published: true
 status: under-revision 
 ---
 
-"[Maximal Possibilities](http://files.davidsanson.com/research/maximal-possibilities.pdf)" 
+"[Maximal Possibilities](http://files.davidsanson.com/research/maximal-possibilities.pdf)," under revision. 
 
 <span
    class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rfr_id=info%3Asid%2Focoins.info%3Agenerator&amp;rft.genre=article&amp;rft.atitle=Maximal+Possibilities&amp;rft.date=2010&amp;rft.aulast=Sanson&amp;rft.aufirst=David&amp;rft.au=David+Sanson"></span>

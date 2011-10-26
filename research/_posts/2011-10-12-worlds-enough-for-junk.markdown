@@ -8,7 +8,7 @@ published: true
 status: under-revision 
 ---
 
-"Worlds Enough for Junk", under revision.
+"Worlds Enough for Junk," under revision.
 
 > The possibility of Junk is the possibility that everything is a proper
 > part of something else. Just as we might imagine that there are no

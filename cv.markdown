@@ -3,7 +3,7 @@
 % September 26, 2011
 
   --------------------------- --------------------------
-  Department of Philosophy                  614-292-2235
+  Department of Philosophy         614-292-2235 (office)
   The Ohio State University           <sanson.7@osu.edu>
   372 University Hall           <http://davidsanson.com>
   230 North Oval Mall
@@ -34,7 +34,7 @@
 # Areas of Competence
 
 -   Philosophy of Language, Medieval Philosophy, Ancient Philosophy,
-    Logic
+    Logic, Philosophy of Religion
 
 # Publications
 
@@ -44,14 +44,17 @@
 -   "The Early Arabic Liar," with Ahmed Alwishah, *Vivarium* (47:1)
     2009: 97-127.
 
-# Papers Under Review
+# Work in Progress and Under Review 
 
--    "Once Present, Now Past"
--    "Maximal Possibilities"
--    "Worlds Enough for Junk"
+-    "Once Present, Now Past" (under review)
+-    "Maximal Possibilities" (under revision)
+-    "Worlds Enough for Junk" (under review)
+-    "Nonserious Nonfictionalism" (in progress)
+-    "Boethius on Seeing the Future" (in progress)
 
 # Presentations
 
+-   "Worlds Enough for Junk," Kenyon College, November 2011 (invited)
 -   "Locality and Necessity," with Ben Caplan, APA Pacific Meeting, Pasadena CA,
     March 2008 (refereed)
 -   "The Essentially Unreal Past," APA Central Meeting, Chicago, IL, April 2007
@@ -153,13 +156,12 @@
 
 # Refereeing
 
--   *American Philosophical Quarterly*, *Australasian Journal of Philosophy*, *Erkenntnis*, *Pacific Philosophical Quarterly*, *Philosophical Studies*
+-   *American Philosophical Quarterly*, *Australasian Journal of Philosophy*, *Erkenntnis*, *Pacific Philosophical Quarterly*, *Philosophical Studies*, *Southern Journal of Philosophy*
 
 # Departmental Service
 
--   Graduate Admissions, 2011-2012
 -   Colloquium Committee, 2005-present
--   Salary Commitee, 2009-10
+-   Salary Committee, 2009-10
 -   Hiring Committee, 2008-09
 -   Undergraduate Committee, 2005-06, 2008-09
 -   Bingham Committee, 2008-09

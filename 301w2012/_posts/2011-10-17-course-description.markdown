@@ -4,12 +4,10 @@ layout: phil301w2012-post
 section: main
 ---
 
-## Philosophy 301: Introduction to Ancient Greek Philosophy
+An introduction to Ancient Greek Philosophy, from its traditional beginning in 585 BCE to the death of Aristotle in 322 BCE. We will cover several Presocratics, Socrates, Plato, and Aristotle. Our focus will be on ancient views on the nature of reality, our knowledge of it, and our place in it. 
 
-Winter 2012
+We meet MW 11:30-1:18, in Caldwell Lab 0120.
 
-This course is introduction to Ancient Greek Philosophy, from the death of Aristotle in 322 BCE to its traditional beginning in 585 BCE. We will cover Aristotle, Plato, Socrates, and several presocratic philosophers, like Anaximander and Parmenides. We will focus on issues in natural philosophy and metaphysics.
-
-We will meet MW 11:30-1:18, in Caldwell Lab 0120. We will probably have a couple of exams and two or three papers.
+See the [syllabus](syllabus.html) for information on textbooks; see the [readings](readings.html) for a tentative schedule of readings.
 
 

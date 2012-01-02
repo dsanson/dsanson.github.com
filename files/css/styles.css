@@ -124,7 +124,7 @@ body.discuss li.discuss
 	border-bottom: 1px solid #ffffff;
 	-moz-border-radius-topright: 5px;
 	-moz-border-radius-topleft: 5px;
-	border-top-right-radius: 3px 5px;
+	border-top-right-radius: 2x 5px;
 	border-top-left-radius: 3px 5px;
 	background: white;
 }

@@ -8,18 +8,19 @@ When emailing about a course, please include your full name in the body of your 
 
 ## Present
 
-+	[First Year Seminar](/700f2011) (700) with William Taschek
-
-## Future
-
 +   Winter 2011
 	+	[Ancient Philosophy](/301) (301)
+
+## Future
 
 +	Spring 2012
 	+	Medieval Philosophy (302)
 	+	Graduate Seminar in Metaphysics (863)
 
 ## Past
+
+-   Fall 2011
+    +	[First Year Seminar](/700f2011) (700) with William Taschek
 
 -   Spring 2011
 	+	[Symbolic Logic (250)](/250s2011)

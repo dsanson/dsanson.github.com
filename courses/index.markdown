@@ -8,8 +8,8 @@ When emailing about a course, please include your full name in the body of your 
 
 ## Present
 
-+   Winter 2011
-	+	[Ancient Philosophy](/301) (301)
++	[Ancient Philosophy](/301) (301)
+    +   MW 11:30–1:18; Caldwell Lab 0120
 
 ## Future
 

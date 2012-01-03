@@ -4,12 +4,12 @@ layout: phil301w2012
 section: readings
 ---
 
-Schedule is tentative and may change. *PBR* abbreviates *Philosophy Before Socrates*. *RAGP* abbreviates *Readings in Ancient Greek Philosophy*.
+Schedule is tentative and may change. *PBS* abbreviates *Philosophy Before Socrates*. *RAGP* abbreviates *Readings in Ancient Greek Philosophy*.
 
 # Week 1
 
 +  1/4: Hesiod and the Early Ionians
-    +   Reading: *PBR*, chapters 1-8 
+    +   Reading: *PBS*, chapters 1-8 
     +   Optional Readings: 
         +   *RAGP*, chs. 1-2
         +   Patricia Curd, "[Presocratic Philosophy](http://plato.stanford.edu/entries/presocratics/)", *Stanford Encyclopedia of Philosophy*
@@ -18,12 +18,12 @@ Schedule is tentative and may change. *PBR* abbreviates *Philosophy Before Socra
 # Week 2
 
 +  1/9:  Heraclitus
-    +   Reading: *PBR*, ch. 10
+    +   Reading: *PBS*, ch. 10
     +   Optional: 
         +   *RAGP*, ch. 5
         +   Daniel Graham, "[Heraclitus](http://plato.stanford.edu/entries/heraclitus/)", *Stanford Encyclopedia of Philosophy*
 +  1/11: Parmenides and Zeno
-    +   Reading: *PBR*, chs. 11-12
+    +   Reading: *PBS*, chs. 11-12
     +   Optional:
         +   *RAGP*, 6-7
         +   John Palmer, "[Parmenides](http://plato.stanford.edu/entries/parmenides)", *Stanford Encyclopedia of Philosophy*
@@ -33,7 +33,7 @@ Schedule is tentative and may change. *PBR* abbreviates *Philosophy Before Socra
 
 +  1/16: *No Class*: Martin Luther King Day
 +  1/18: Empedocles and Anaxagoras; Atomism
-    +   Reading *PBR*, 13,14,16;
+    +   Reading *PBS*, 13,14,16;
     +   Optional:
         +   *RAGP*, 8-10
 

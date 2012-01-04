@@ -8,7 +8,7 @@ When emailing about a course, please include your full name in the body of your 
 
 ## Present
 
-+	[Ancient Philosophy](/301) (301)
++	[Ancient Philosophy (301)](/301w2012)
     +   MW 11:30–1:18; Caldwell Lab 0120
 
 ## Future
@@ -20,7 +20,7 @@ When emailing about a course, please include your full name in the body of your 
 ## Past
 
 -   Fall 2011
-    +	[First Year Seminar](/700f2011) (700) with William Taschek
+    +	[First Year Seminar (700)](/700f2011) with William Taschek
 
 -   Spring 2011
 	+	[Symbolic Logic (250)](/250s2011)

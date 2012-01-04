@@ -6,15 +6,16 @@ section: syllabus
 
 ## Syllabus --- Winter 2012 ([PDF Version](syllabus.pdf))##
 
-
 Professor
-:	David Sanson, 372 University Hall, Office hours: TBA or by appointment, sanson.7@osu.edu
+:	David Sanson, 372 University Hall, <sanson.7@osu.edu>
+:   Office hours: M 1:30-2:30, W 10:30-11:30, or by appointment
 
 Grader
-:	Jerilyn Tinio, 214 University Hall, Office hours: TBA or by appointment, tinio.1@osu.edu
+:	Jerilyn Tinio, 214 University Hall, <tinio.1@osu.edu>
+:   Office hours: M 3:30-4:30, Th 12:00-1:00, or by appointment
 
 Lecture
-:   Caldwell Lab 0120, MW 11:30am--1:18pm
+:   Caldwell Lab 0120, MW 11:30-1:18
 
 Webpage
 :	<http://davidsanson.com/301>
@@ -68,7 +69,7 @@ This course has been approved to fulfill both the *Arts & Humanities Literature*
 	2.   Through reading, discussing, and writing about literature, students learn to understand and evaluate the personal and social values of their own and other cultures.
 
 +   Arts and Humanities: Diversity
-	1.    Students exhibit an understanding of some combination of political, economic, cultural, physical, social, and philosophical differences in or among the world's nations, peoples and cultures outside the US.
-	2.    Students are able to describe, analyze and critically evaluate the roles of categories such as race, gender, class, ethnicity, national origin and religion as they relate to international/global institutions, issues, cultures and citizenship.
-	3.    Students recognize the role of national and international diversity in shaping their own attitudes and values as global citizens.
+	1.  Students exhibit an understanding of some combination of political, economic, cultural, physical, social, and philosophical differences in or among the world's nations, peoples and cultures outside the US.
+	2.  Students are able to describe, analyze and critically evaluate the roles of categories such as race, gender, class, ethnicity, national origin and religion as they relate to international/global institutions, issues, cultures and citizenship.
+	3.  Students recognize the role of national and international diversity in shaping their own attitudes and values as global citizens.
 

@@ -1,5 +1,5 @@
 ---
-title: Supplementary Reading 
+title: Supplementary Reading 1: Greek Culture
 layout: phil301w2012-post
 section: main
 excerpt: |

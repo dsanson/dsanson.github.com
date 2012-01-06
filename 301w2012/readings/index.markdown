@@ -41,7 +41,7 @@ Schedule is tentative and may change. *PBS* abbreviates *Philosophy Before Socra
 
 +  1/23: Socrates: *Euthyphro* and *Apology*
     +   Optional:
-        +   P.T. Geach, "Plato's Euthyphro"
+        +   P.T. Geach, "Plato's Euthyphro" (available on Carmen)
         +   S. Marc Cohen, "[Socrates on the Definition of Piety: Euthyphro 10A-11B](http://faculty.washington.edu/smcohen/Euthyphro.pdf)"
 +  1/25: Plato: Meno
 

@@ -1,5 +1,5 @@
 ---
-title: Supplementary Reading 2: Web Resources
+title: 'Supplementary Reading 2: Web Resources'
 layout: phil301w2012-post
 section: main
 excerpt: |

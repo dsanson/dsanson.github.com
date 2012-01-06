@@ -27,7 +27,7 @@ Schedule is tentative and may change. *PBS* abbreviates *Philosophy Before Socra
     +   Optional:
         +   *RAGP*, 6-7
         +   John Palmer, "[Parmenides](http://plato.stanford.edu/entries/parmenides)", *Stanford Encyclopedia of Philosophy*
-        +   G.E.L. Owen, "Eleatic Questions"
+        +   G.E.L. Owen, "[Eleatic Questions](http://www.jstor.org/stable/637593)" ([off-campus link](http://www.jstor.org.proxy.lib.ohio-state.edu/stable/637593))
 
 # Week 3
 

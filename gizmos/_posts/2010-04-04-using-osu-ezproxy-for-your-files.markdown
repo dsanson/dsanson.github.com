@@ -2,9 +2,16 @@
 layout: gizmos-post
 title: Using OSU EZProxy For Your Files
 section: gizmos
-comments: 1
+comments: 0
 excerpt: An htaccess file that redirects off-campus visitors through OSU's EZProxy server.
 ---
+
+## Important Note ##
+
+As of December 2011, this no longer works on the ASC web server, as ASC decided to move us over to a server running Microsoft IIS 6.0, rather than Apache, and there is no way to do this using Microsoft IIS 6.0. Oh well.
+
+<del>
+
 
 ## Important Note ##
 
@@ -29,3 +36,5 @@ RewriteRule (.*) http://proxy.lib.ohio-state.edu/login?url=http://%{SERVER_NAME}
 Now anyone who attempts to open something within that folder from off-campus will be automatically redirected through OSU's EZProxy service.
 
 Too complicated? Download [this file](rename_to_dot_htaccess.txt), upload it to the appropriate folder on the webserver, and rename it to ".htaccess" (best to rename it after it is on the server; file names that begin with periods get special treatment on many operating systems).
+
+</del>

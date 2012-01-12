@@ -8,6 +8,4 @@ An introduction to Ancient Greek Philosophy, from its traditional beginning in 5
 
 We meet MW 11:30-1:18, in Caldwell Lab 0120.
 
-See the [syllabus](syllabus.html) for information on textbooks; see the [readings](readings.html) for a tentative schedule of readings.
-
-
+See the [syllabus](syllabus.html) for information on textbooks; see the [readings](readings) for a tentative schedule of readings.

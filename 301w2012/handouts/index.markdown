@@ -4,6 +4,7 @@ layout: phil301w2012
 section: handouts
 ---
 
++   [Handout 7]: The *Phaedo*
 +   [Handout 5]: The *Euthyphro* 
 +   [Handout 4]: Pluralists and Atomists
 +   [Handout 3]: Parmenides and Zeno
@@ -15,3 +16,4 @@ section: handouts
 [Handout 3]: http://files.davidsanson.com/301/3_parmenides_and_zeno-handout.pdf
 [Handout 4]: http://files.davidsanson.com/301/4_pluralists_and_atomists-handout.pdf
 [Handout 5]: http://files.davidsanson.com/301/5_socrates.pdf
+[Handout 7]: http://files.davidsanson.com/301/7_phaedo-handout.pdf

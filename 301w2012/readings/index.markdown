@@ -47,8 +47,10 @@ Schedule is tentative and may change. *PBS* abbreviates *Philosophy Before Socra
 
 # Week 5
 
-+  1/30: Plato's Theory of Forms: Phaedo
-+  2/1:  Plato's Theory of Forms: Republic
+-   1/30: Plato's Theory of Forms: Phaedo
+-   2/1: Plato's Theory of Forms: Republic IV 427d-end; V.471c-end;
+    VI.504d-end; VII.
+
 
 # Week 6
 

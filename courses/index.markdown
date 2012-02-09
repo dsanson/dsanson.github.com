@@ -14,8 +14,10 @@ When emailing about a course, please include your full name in the body of your 
 ## Future
 
 +	Spring 2012
-	+	Medieval Philosophy (302)
-	+	Graduate Seminar in Metaphysics (863)
+	+	[Medieval Philosophy (302)](/302s2012)
+        + MW 1:30-3:18
+	+	[Graduate Seminar: Metaphysics of Modality (863)](/863s2012)
+        + Tue 3:30-6:18
 
 ## Past
 

@@ -48,23 +48,23 @@ Schedule is tentative and may change. *PBS* abbreviates *Philosophy Before Socra
 # Week 5
 
 -   1/30: Plato's Theory of Forms: Phaedo
--   2/1: Plato's Theory of Forms: Republic IV 427d-end; V.471c-end;
-    VI.504d-end; VII.
-
+-   2/1: No Class
 
 # Week 6
 
-+  2/6:  Midterm Exam
-+  2/8:  Plato's Theory of Forms: Parmenides
++  2/6: Midterm Exam
++  2/8: Plato's Theory of Forms: Phaedo 
 
 # Week 7
 
-+  2/13: Plato's Cosmology: Timaeus
-+  2/15: Aristotle: Categories
++  2/13: Plato's Theory of Forms: Republic IV 427d-end; V.471c-end;
+    VI.504d-end; VII.
++  2/15: Plato's Theory of Forms: Parmenides 127b-135d (selection in *RAGP*)
+
 
 # Week 8
-+  2/20: Aristotle: Physics
-+  2/22: Aristotle: Metaphysics
++  2/20: Aristotle: Categories
++  2/22: Aristotle: Physics
 
 # Week 9
 

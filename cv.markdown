@@ -1,10 +1,10 @@
 % Curriculum Vitae
 % David Sanson
-% September 26, 2011
+% February 18, 2012
 
   --------------------------- --------------------------
   Department of Philosophy         614-292-2235 (office)
-  The Ohio State University           <sanson.7@osu.edu>
+  The Ohio State University          <dsanson@gmail.com>
   372 University Hall           <http://davidsanson.com>
   230 North Oval Mall         
   Columbus, Ohio 43210        
@@ -13,8 +13,8 @@
 Employment
 ==========
 
--   Assistant Professor, The Ohio State University, 2005--2012.
 -   Assistant Professor, Illinois State University, starting Fall 2012.
+-   Assistant Professor, The Ohio State University, 2005--2012.
 
 Education
 =========
@@ -67,16 +67,18 @@ Presentations
     -   Kenyon College, November 2011 
     -   Illinois State University, February 2012
 
--   "Locality and Necessity," with Ben Caplan, APA Pacific Meeting,
-    Pasadena CA, March 2008 (refereed)
--   "The Essentially Unreal Past," APA Central Meeting, Chicago, IL,
-    April 2007
+-   "Locality and Necessity," with Ben Caplan, Pacific Division Meeting
+    of the American Philosophical Association, Pasadena CA, March 2008
+    (refereed)
+-   "The Essentially Unreal Past," Central Division Meeting of the
+    American Philosophical Association, Chicago, IL, April 2007
 -   "The Way Things Were," with Ben Caplan
-    -   CPA Annual Congress, University of Western Ontario, May 2005
-        (refereed)
-    -   APA Central Division Meeting, Chicago, IL, April 2005 (refereed)
-    -   8th Annual INPC, University of Idaho and WSU, April 2005
-        (refereed)
+    -   Canadian Philosophical Association Annual Congress, University
+        of Western Ontario, May 2005 (refereed)
+    -   Central Division Meeting of the American Philosophical
+        Association, Chicago, IL, April 2005 (refereed)
+    -   8th Annual Inland Northwest Philosophy Conference, University of
+        Idaho and Washington State University, April 2005 (refereed)
 
 -   "The Once Present and the Now Past"
     -   University of Rochester, February 2005
@@ -86,14 +88,20 @@ Presentations
 Comments
 ========
 
--   "Comments on Amy Seymour, 'The Advantages of Falsism'," APA Central
-    Meeting, Chicago, IL, February 2012
+-   "Comments on Amy Seymour, 'The Advantages of Falsism'," Central
+    Division Meeting of the American Philosophical Association, Chicago,
+    IL, February 2012
 -   "Comments on Dana Goswick, 'Counterfactual Analysis & Causal
-    Overdetermination,'" APA Pacific Meeting, Portland, OR, March 2006.
+    Overdetermination,'" Pacific Division Meeting of the American
+    Philosophical Association, Portland, OR, March 2006.
 -   "Comments on Marie Pannier, 'Presentism and Singular Propositions,'"
-    WCPA Meeting, University of Manitoba, October 2005.
+    Western Canadian Philosophical Association Meeting, University of
+    Manitoba, October 2005.
 -   "Comments on Kelly Trogdon, 'Dualism, Mental Causation, and
-    Counterfactuals,'" APA Pacific Meeting, San Francisco, March 2003.
+    Counterfactuals,'" Pacific Division Meeting of the American
+    Philosophical Association, San Francisco, March 2003.
+
+
 
 Teaching
 ========
@@ -102,39 +110,33 @@ Graduate Seminars
 -----------------
 
 -   Metaphysics of Modality (Spring 2012)
--   First Year Proseminar (Fall 2011)
--   Dissertation Seminar (Spring 2011)
 -   Tense and Passage (Winter 2010)
--   First Year Proseminar (Fall 2008)
--   Nonexistents (Fall 2007)
+-   Nonexistent Objects (Fall 2007)
 -   Time and Change (Spring 2006)
+-   First Year Proseminar, with William Taschek (Fall 2011)
+-   First Year Proseminar, with Ben Caplan (Fall 2008)
+-   Dissertation Seminar (Spring 2011)
 
 Undergraduate Courses
 ---------------------
 
--   Philosophy 670: Advanced Topics in Philosophy of Religion (Fall
-    2010)
--   Philosophy 663: Advanced Metaphysics (Winter 2009)
--   Philosophy 463: Introduction to Metaphysics (Winter 2010, Winter
-    2007)
--   Philosophy 302: Introduction to Medieval Philosophy (Spring 2012,
-    Fall 2008, Fall 2007, Spring 2007, Winter 2006)
--   Philosophy 301: Introduction to Ancient Philosophy (Winter 2012,
-    Fall 2010, Fall 2009, Winter 2009, Winter 2008, Winter 2007)
--   Philosophy 250: Symbolic Logic (Spring 2011, Winter 2008)
--   Philosophy 150: Informal Logic (Winter 2006)
--   Philosophy H101: Introduction to Philosophy, Honors (Fall 2009,
-    Spring 2006)
--   Philosophy 101: Introduction to Philosophy (Spring 2007)
+-   Advanced Topics in Philosophy of Religion: Omnipotence, Omniscience,
+    and Eternity (Fall 2010)
+-   Advanced Metaphysics: Modality and Time (Winter 2009)
+-   Metaphysics (Winter 2010, Winter 2007)
+-   Topics in Early Modern Philosophy: Place and Nature in Descartes,
+    Newton, and Leibniz (Summer 2003)
+-   Medieval Philosophy (Spring 2012, Fall 2008, Fall 2007, Spring 2007,
+    Winter 2006)
+-   Ancient Philosophy (Winter 2012, Fall 2010, Fall 2009, Winter 2009,
+    Winter 2008, Winter 2007)
+-   Symbolic Logic (Spring 2011, Winter 2008, Summer 2001)
+-   Informal Logic (Winter 2006)
+-   Introduction to Philosophy (Fall 2009 (Honors), Spring 2007, Spring
+    2006 (Honors))
 
-### At UCLA
-
--   Philosophy C119: Topics in Early Modern Philosophy (UCLA, Summer
-    2003)
--   Philosophy 31: Symbolic Logic (UCLA, Summer 2001)
-
-Teaching Presentations
-----------------------
+Presentations
+-------------
 
 -   "Nonstandard Tense Realism," OSU Undergraduate Philosophy Club,
     March 2009
@@ -148,15 +150,14 @@ Dissertation Committee Member
 -----------------------------
 
 -   Cathy Muller, *Harry Potter and the Rescue from Realism: A Novel
-    Defense of Anti-Realism about Fictional Objects*, 2008-2012
--   Eric Carter, *Objectivity and Communication*, 2007-2011
--   Vassilis Tsompanidis, *Tensed Belief* (UC Santa Barbara), 2008-2010
--   *In Progress:*
-    -   Wesley Cray, on the inconstancy of *de re* modal attributions,
-        2009-present
-    -   Scott Brown, on essence, modality, and the limits of
-        contingency, 2011-present
-    -   James McGlothlin, on logical truth and god, 2011-present
+    Defense of Anti-Realism about Fictional Objects*, 2012
+-   Eric Carter, *Objectivity and Communication*, 2011
+-   Vassilis Tsompanidis, *Tensed Belief* (UC Santa Barbara), 2010
+-   Wesley Cray, on the inconstancy of *de re* modal attributions,
+    in progress 
+-   Scott Brown, on essence, modality, and the limits of
+    contingency, in progress
+-   James McGlothlin, on logical truth and god, in progress
 
 Graduate Qualifying Exam Committee Member
 -----------------------------------------
@@ -171,6 +172,7 @@ Graduate Qualifying Exam Committee Member
 Graduate Candidacy Exam Committee Member
 ----------------------------------------
 
+-   Raleigh Miller, on perspectival facts, 2012
 -   David Blanks, on the metaphysics of dispositions, 2011
 -   Ben Horne, on well-being and the non-identity problem, 2011
 -   Scott Brown, on universals, 2010
@@ -233,5 +235,5 @@ Departmental Service
 Other Service
 =============
 
--   Session Chair: Central APA, 2010; Central APA, 2009; Pacific APA,
+-   Session Chair: Central Division Meeting of the American Philosophical Association, 2010; Central Division Meeting of the American Philosophical Association, 2009; Pacific Division Meeting of the American Philosophical Association,
     2006.

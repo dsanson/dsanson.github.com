@@ -24,11 +24,9 @@ Webpage
 
 ## Course Description ##
 
-A survey of the history of philosophy from Augustine to Ockham. We will read primary texts by such figures as Augustine, Philoponus, Boethius, Ghazali, Averroes, Avicenna, Anselm, Abelard, Aquinas,  Scotus, and Ockham. The course will be structured around four topics: creation, free will, material substance, and medieval theories of cognition. These topics will take us into a cluster of fundamental issues in metaphysics, epistemology, philosophy of mind, and ethics.
+A survey of the history of philosophy from Augustine to Ockham. We will read primary texts by such figures as Augustine, Philoponus, Boethius, Ghazali, Averroes, Avicenna, Anselm, Abelard, Aquinas, Scotus, and Ockham. The course will be structured around four topics: creation, free will, material substance, and medieval theories of cognition. These topics will take us into a cluster of fundamental issues in metaphysics, epistemology, philosophy of mind, and ethics.
 
-## Texts ##
-
-There are three required texts:
+## Required Texts ##
 
 -   Boethius, *The Consolation of Philosophy*, translated by P.G. Walsh.
     Oxford University Press, 2008. ISBN: 0199540543

@@ -1,3 +1,6 @@
+AddDefaultCharset UTF-8
+
+
 Redirect 301 /home/me.html /me
 Redirect 301 /home/gizmos.html /gizmos
 Redirect 301 /cv /cv.pdf

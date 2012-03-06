@@ -49,12 +49,12 @@ When emailing about a course, please include your full name in the body of your 
 	-   [First Year Seminar (700)](http://phil700f2008.wordpress.com/) with [Ben Caplan](http://people.cohums.ohio-state.edu/caplan16/)
 
 -	Winter 2008
-	-   [Symbolic Logic (250)](http://people.cohums.ohio-state.edu/sanson7/courses/250.2008.winter/index.html) 
-	-   [Ancient Philosophy (301)](http://people.cohums.ohio-state.edu/sanson7/301.2008.winter/index.html) 
+	-   Symbolic Logic (250)
+	-   Ancient Philosophy (301)
 
 -	Fall 2007
-	-   [Medieval Philosophy (302)](http://people.cohums.ohio-state.edu/sanson7/courses/302.2007.fall/index.html) 
-	-   [Seminar: Nonexistents (863)](http://people.cohums.ohio-state.edu/sanson7/courses/863.2007.fall/index.html)
+	-   Medieval Philosophy (302)
+	-   Seminar: Nonexistents (863)
 
 -	Spring 2007
 	-   Introduction to Philosophy (101)

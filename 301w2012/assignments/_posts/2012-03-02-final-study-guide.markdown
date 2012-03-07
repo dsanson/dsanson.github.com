@@ -8,6 +8,8 @@ excerpt: |
     The final exam is on Monday, March 12th, 11:30am–1:18pm, in our usual lecture hall. The exam will be closed book/closed notes. I will provide blue books.
 ---
 
+**NEW QUESTIONS ADDED---3/07**
+
 About the Exam
 --------------
 
@@ -18,7 +20,8 @@ pencil. I will provide blue books.
 The exam is much like the midterm, though a bit longer. It has three
 parts: identification, short answer, and essay. The exam is cumulative.
 All essay questions will be taken from the questions in this guide or
-the [midterm study guide][].
+the [midterm study
+guide](/301w2012/assignments/midterm_study_guide.html).
 
 Questions
 ---------
@@ -81,7 +84,13 @@ Questions
     universal negative, particular affirmative, and particular negative.
     Give examples of each.
 
-Additional questions will be added in light of what we manage to cover
-in the last week of class.
+16. Aristotle raises the following puzzle in the *Posterior Analytics*:
 
-  [midterm study guide]: /301w2012/assignments/midterm_study_guide.html
+    > Do you or do you not know that every pair is even? When you say
+    > you do, they produce a pair that you did not think existed and
+    > hence did not think was even.
+
+    What is the puzzle, and what is Aristotle's solution to the puzzle?
+
+17. Aristotle claims that we have the innate potential to come to know
+    universals via experience. Explain how he thinks that works.

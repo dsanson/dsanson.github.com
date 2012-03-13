@@ -1,20 +1,22 @@
 % Curriculum Vitae
-% David Sanson
+% David Sanson\
+  \ \
+  Department of Philosophy\
+  The Ohio State University\
+  372 University Hall\
+  Columbus, Ohio 43210\
+  <http://davidsanson.com>\
+  <dsanson@gmail.com>
 % March 13, 2012
 
-  --------------------------- --------------------------
-  Department of Philosophy         614-292-2235 (office)
-  The Ohio State University          <dsanson@gmail.com>
-  372 University Hall           <http://davidsanson.com>
-  230 North Oval Mall         
-  Columbus, Ohio 43210        
-  --------------------------- --------------------------
 
 Employment
 ==========
 
--   Assistant Professor, Illinois State University, starting Fall 2012.
--   Assistant Professor, The Ohio State University, 2005--2012.
+-   Assistant Professor, Department of Philosophy, Illinois State
+    University, starting Fall 2012.
+-   Assistant Professor, Department of Philosophy, The Ohio State
+    University, 2005--2012.
 
 Education
 =========
@@ -63,24 +65,22 @@ Work in Progress and Under Review
 Presentations
 =============
 
--   "Worlds Enough for Junk,"
+-   "Worlds Enough for Junk"
     -   Kenyon College, November 2011
     -   Illinois State University, February 2012
 
--   "Locality and Necessity," with Ben Caplan, Pacific Division Meeting
-    of the American Philosophical Association, Pasadena CA, March 2008
-    (refereed)
+-   "Locality and Necessity" (with Ben Caplan)
+    -   Pacific APA, Pasadena, CA, March 2008 (refereed)
 
--   "The Essentially Unreal Past," Central Division Meeting of the
-    American Philosophical Association, Chicago, IL, April 2007
+-   "The Essentially Unreal Past"
+    -   Central APA, Chicago, IL, April 2007
 
--   "The Way Things Were," with Ben Caplan
+-   "The Way Things Were" (with Ben Caplan)
     -   Canadian Philosophical Association Annual Congress, University
         of Western Ontario, May 2005 (refereed)
-    -   Central Division Meeting of the American Philosophical
-        Association, Chicago, IL, April 2005 (refereed)
-    -   8th Annual Inland Northwest Philosophy Conference, University of
-        Idaho and Washington State University, April 2005 (refereed)
+    -   Central APA, Chicago, IL, April 2005 (refereed)
+    -   Inland Northwest Philosophy Conference, University of Idaho and
+        Washington State University, April 2005 (refereed)
 
 -   "The Once Present and the Now Past"
     -   University of Rochester, February 2005
@@ -90,20 +90,20 @@ Presentations
 Comments
 ========
 
--   "Comments on Amy Seymour, 'The Advantages of Falsism'," Central
-    Division Meeting of the American Philosophical Association, Chicago,
-    IL, February 2012
--   "Comments on Dana Goswick, 'Counterfactual Analysis & Causal
-    Overdetermination,'" Pacific Division Meeting of the American
-    Philosophical Association, Portland, OR, March 2006.
--   "Comments on Marie Pannier, 'Presentism and Singular Propositions,'"
-    Western Canadian Philosophical Association Meeting, University of
-    Manitoba, October 2005.
--   "Comments on Kelly Trogdon, 'Dualism, Mental Causation, and
-    Counterfactuals,'" Pacific Division Meeting of the American
-    Philosophical Association, San Francisco, March 2003.
+-   Comments on Amy Seymour, "The Advantages of Falsism"
+    -   Central APA, Chicago, IL, February 2012
 
+-   Comments on Dana Goswick, "Counterfactual Analysis & Causal
+    Overdetermination"
+    -   Pacific APA, Portland, OR, March 2006
 
+-   Comments on Marie Pannier, "Presentism and Singular Propositions"
+    -   Western Canadian Philosophical Association Meeting, University
+        of Manitoba, October 2005
+
+-   Comments on Kelly Trogdon, "Dualism, Mental Causation, and
+    Counterfactuals"
+    -   Pacific APA, San Francisco, March 2003.
 
 Teaching
 ========
@@ -217,26 +217,23 @@ Awards and Grants
 Refereeing
 ==========
 
--   *American Philosophical Quarterly*, *Australasian Journal of
-    Philosophy*, *Erkenntnis*, *Pacific Philosophical Quarterly*,
-    *Philosophical Studies*, *Religious Studies*, *Southern Journal of
-    Philosophy*
+*American Philosophical Quarterly*, *Australasian Journal of
+Philosophy*, *Erkenntnis*, *Pacific Philosophical Quarterly*,
+*Philosophical Studies*, *Religious Studies*, *Southern Journal of
+Philosophy*
 
 Departmental Service
 ====================
 
--   Colloquium Committee, 2005-present; Salary Committee, 2009-10;
-    Hiring Committee, 2008-09; Undergraduate Committee, 2005-06,
-    2008-09; Bingham Committee, 2008-09; Research Committee, 2007-08;
-    Executive Committee, 2006-07; Curriculum Committee, 2005-06; Fink
-    Committee, 2005-06, 2011-2012
+Colloquium Committee, 2005-present; Salary Committee, 2009-10; Hiring
+Committee, 2008-09; Undergraduate Committee, 2005-06, 2008-09; Bingham
+Committee, 2008-09; Research Committee, 2007-08; Executive Committee,
+2006-07; Curriculum Committee, 2005-06; Fink Committee, 2005-06,
+2011-2012
 
 
 Other Service
 =============
 
--   Session Chair: Central Division Meeting of the American
-    Philosophical Association, 2010; Central Division Meeting of the
-    American Philosophical Association, 2009; Pacific Division Meeting
-    of the American Philosophical Association, 2006.
+Session Chair: Central APA, 2010; Central APA, 2009; Pacific APA, 2006.
 

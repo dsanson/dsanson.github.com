@@ -12,15 +12,15 @@ layout: 101f2009
 -   Camus, Albert (1955), “[The Myth of
     Sisyphus](readings/the-myth-of-sisyphus.html)”, Chapter 4 of his
     *The Myth of Sisyphus*, J. O’Brien (tr.), London: H. Hamilton.
--   Nagel, Thomas (1971) “[The
-    Absurd](http://people.cohums.ohio-state.edu/sanson7/courses/local/Nagel1971.pdf)”,
+-   Nagel, Thomas (1971) “The
+    Absurd”,
     *Journal of Philosophy* 68: 716-27.
--   Gordon, J., 1983, “[Is the Existence of God Relevant to the Meaning
+-   Gordon, J., 1983, “Is the Existence of God Relevant to the Meaning
     of
-    Life?](http://people.cohums.ohio-state.edu/sanson7/courses/local/Gordon1983.pdf)”
+    Life?”
     The Modern Schoolman, 60: 227-46.
--   Craig, W., 1994, “[The Absurdity of Life Without
-    God](http://people.cohums.ohio-state.edu/sanson7/courses/local/Craig.pdf).”
+-   Craig, W., 1994, “The Absurdity of Life Without
+    God.”
     Reprinted in his *Reasonable Faith*, 2001.
 -   Williams, B., 1973, “The Makropulos Case: Reflections on the Tedium
     of Immortality”, in his *Problems of the Self*, Cambridge: Cambridge
@@ -30,41 +30,41 @@ layout: 101f2009
 
 -   Sider, Ted (2005). “Free Will and Determinism.” Ch. 6 of Earl Conee
     and Ted Sider, *Riddles of Existence*, Oxford University Press.
--   Rée, Paul (1883). “[Determinism and the Illusion of Moral
-    Responsibility](http://people.cohums.ohio-state.edu/sanson7/courses/local/Ree.pdf).”
+-   Rée, Paul (1883). “Determinism and the Illusion of Moral
+    Responsibility.”
     (Our copy comes from Paul Edwards and Arthur Pap (eds.), *A Modern
     Introduction to Philosophy*, 1972.)
--   Chisholm, Roderick (), “[Human Freedom and the
-    Self](http://people.cohums.ohio-state.edu/sanson7/courses/local/Chisholm1982.pdf)”
+-   Chisholm, Roderick (), “Human Freedom and the
+    Self”
 -   Lewis, David (1981), “[Are We Free to Break the
     Laws?](Lewis_FreetoBreaktheLaws.pdf)” Reprinted in his
     *Philosophical Papers*, Vol. II, Oxford University Press, 1986.
--   Van Inwagen, Peter (2008), “[The Consequence
-    Argument](http://people.cohums.ohio-state.edu/sanson7/courses/local/vaninwagen.pdf),”
+-   Van Inwagen, Peter (2008), “The Consequence
+    Argument,”
     in *Metaphysics: the Big Questions* 2nd Ed., Peter van Inwagen and
     Dean Zimmerman (eds.), Basil Blackwell.
--   Van Inwagen, Peter (2008), “[The Mystery of Metaphysical
-    Freedom](http://people.cohums.ohio-state.edu/sanson7/courses/local/vaninwagen.pdf),”
+-   Van Inwagen, Peter (2008), “The Mystery of Metaphysical
+    Freedom,”
     in *Metaphysics: the Big Questions* 2nd Ed., Peter van Inwagen and
     Dean Zimmerman (eds.), Basil Blackwell.
--   Frankfurt, Harry (1971), “[Freedom of the Will and the Concept of a
-    Person](http://people.cohums.ohio-state.edu/sanson7/courses/local/Frankfurt1971.pdf)”,
+-   Frankfurt, Harry (1971), “Freedom of the Will and the Concept of a
+    Person”,
     *The Journal of Philosophy* 68: 5-20
--   Watson, Gary (1975). “[Free
-    Agency](http://people.cohums.ohio-state.edu/sanson7/courses/local/Watson1975.pdf),”
+-   Watson, Gary (1975). “Free
+    Agency,”
     *Journal of Philosophy* 72: 205-20.
 
 # Personal Identity
 
 -   Locke (selections).
--   Williams, Bernard (1970). “[The Self and the
-    Future](http://people.cohums.ohio-state.edu/sanson7/courses/local/Williams1970.pdf)”,
+-   Williams, Bernard (1970). “The Self and the
+    Future”,
     *Philosophical Review* 79.
--   Parfit, Derek (1971), “[Personal
-    Identity](http://people.cohums.ohio-state.edu/sanson7/courses/local/Parfit1971.pdf)”,
+-   Parfit, Derek (1971), “Personal
+    Identity”,
     *Philosophical Review* 80: 3-27.
--   Lewis, David (1976), “[Survival and
-    Identity](http://people.cohums.ohio-state.edu/sanson7/courses/local/Lewis1976.pdf).”
+-   Lewis, David (1976), “Survival and
+    Identity.”
     In Amelie O. Rorty, ed., *The Identities of Persons*, University of
     California Press. Reprinted with Postscripts in his *Philosophical
     Papers*, v. 1, Oxford University Press, 1983: 55—77.

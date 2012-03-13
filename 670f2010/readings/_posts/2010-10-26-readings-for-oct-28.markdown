@@ -7,4 +7,4 @@ comments: true
 published: true
 ---
 
-Geach, Peter. 1977. "[Omniscience and the Future](http://people.cohums.ohio-state.edu/sanson7/courses/local/geach1977.pdf)." Chapter 3 of his *Providence and Evil*. Cambridge University Press.
+Geach, Peter. 1977. "Omniscience and the Future." Chapter 3 of his *Providence and Evil*. Cambridge University Press.

@@ -6,7 +6,5 @@ published: true
 date:  2011-03-31 13:32:18
 ---
 
-Several people have emailed me saying that they don't yet have the book, or, in one memorable instance, that their copy of book was missing pages. As a temporary stop-gap, here is a copy of the first chapter:
+Several people have emailed me saying that they don't yet have the book, or, in one memorable instance, that their copy of book was missing pages. As a temporary stop-gap, here is a copy of the first chapter: link removed.
 
-+	[on-campus link](http://people.cohums.ohio-state.edu/sanson7/courses/local/logicbook-ch1.pdf)
-+	[off-campus link](http://people.cohums.ohio-state.edu.proxy.lib.ohio-state.edu/sanson7/courses/local/logicbook-ch1.pdf)

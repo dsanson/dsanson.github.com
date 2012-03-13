@@ -27,14 +27,14 @@ Some of the resources linked to from this page require a subscription. OSU has a
 # Omnipotence and Impossible Tasks
 
 -   Aquinas, *Summa Theologica* Part I, Q. 25, Art. 3: "[Whether God is Omnipotent](http://www.newadvent.org/summa/1025.htm#article3)"
--   Descartes, [Selections](http://people.cohums.ohio-state.edu/sanson7/courses/local/descartes1981a.pdf) from Kenny, A, trans.,
+-   Descartes, Selections from Kenny, A, trans.,
 *Descartes, philosophical letters*. Blackwell, 1981.
 -   Mavrodes, G. I. (1963).
     "[Some puzzles concerning omnipotence][]". Philosophical Review,
     72(2):221–223.
 -   Frankfurt (1964), "[The Logic of Omnipotence][]."
     *The Philosophical Review*, 73(2):262-263.
--   Plantinga (1967), [pp. 168--173][] from his
+-   Plantinga (1967), pp. 168--173 from his
     *God and Other Minds*.
 -   Swinburne, R. (1973). "[Omnipotence][1]."
     *American Philosophical Quarterly*, 10(3):231–237.
@@ -50,7 +50,7 @@ Some of the resources linked to from this page require a subscription. OSU has a
 # Against Omnipotence
 
 -   Geach, P. T. (1973). "[Omnipotence][2]." *Philosophy*,
-    48(183):7–20. Reprinted as [Chapter 1][] of his
+    48(183):7–20. Reprinted as Chapter 1 of his
     *Providence and Evil*. Cambridge University Press, Cambridge,
     1977.
 
@@ -62,7 +62,7 @@ Some of the resources linked to from this page require a subscription. OSU has a
 -   Rosenkrantz, G. and Hoffman, J. (1980).
     "[What an omnipotent agent can do][]".
     *International Journal for Philosophy of Religion*, 11(1):1–19.
--   Flint, T.P. and Freddoso, A.J. (1983). "[Maximal power][]". In
+-   Flint, T.P. and Freddoso, A.J. (1983). "Maximal power". In
     *The Existence and Nature of God*, pages 81–113. University of
     Notre Dame Press. Also available in [HTML][] from Freddoso's
     website.
@@ -76,14 +76,11 @@ Some of the resources linked to from this page require a subscription. OSU has a
   [Omnipotence]: http://plato.stanford.edu/archives/fall2009/entries/omnipotence/
   [Some puzzles concerning omnipotence]: http://www.jstor.org/stable/2183106
   [The Logic of Omnipotence]: http://www.jstor.org/stable/2183341
-  [pp. 168--173]: http://people.cohums.ohio-state.edu/sanson7/courses/local/plantinga1967a.pdf
   [1]: http://www.jstor.org/stable/20009498
   [Omnipotence and God’s ability to sin]: http://www.jstor.org/stable/20009309
   [Must God create the best?]: http://www.jstor.org/stable/2184329
   [2]: http://www.jstor.org/stable/3749704
-  [Chapter 1]: http://people.cohums.ohio-state.edu/sanson7/courses/local/geach1977c.pdf
   [Selections from his "Letter on Divine Omniscience"]: http://pvspade.com/Logic/docs/damian.pdf
   [What an omnipotent agent can do]: http://www.springerlink.com/content/m2r1431k217045gm/
-  [Maximal power]: http://people.cohums.ohio-state.edu/sanson7/courses/local/flint1983a.pdf
   [HTML]: http://www.nd.edu/~afreddos/papers/mp.htm
   [The possibility of power beyond possibility]: http://www.jstor.org/stable/2214105

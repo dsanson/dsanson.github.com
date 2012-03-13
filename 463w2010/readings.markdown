@@ -1,7 +1,9 @@
-% Reading List for 463
-%
-%
-meta-page: 1
+---
+title: Reading List
+layout: 463w2010
+section: readings
+
+---
 
 This is a draft and subject to change. Updated versions will be
 available at <http://davidsanson.com/463/readings>.

@@ -1,7 +1,9 @@
-% Syllabus: Philosophy 463
-%
-%
-meta-page: 1
+---
+title: Syllabus
+layout: 463w2010
+section: syllabus
+
+---
 
 Winter 2010, MW 12:30PM - 2:18PM, University Hall 0086  
 [http://davidsanson.com/463](http://davidsanson.com/463)

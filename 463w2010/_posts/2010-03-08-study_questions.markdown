@@ -1,6 +1,13 @@
-% Study Guide for Philosophy 463
-% David Sanson
-% March 08, 2010
+---
+title: Study Guide for Final Exam
+layout: 463w2010-post
+section: main
+date: March 08, 2010
+excerpt: |
+    The final will have three parts. Part I will consist of multiple choice and fill-in the blank questions. Part II will consist of questions that can be answered in one or two sentences. Part III will consist of short essay questions. All essay questions will be taken from the questions below.
+
+---
+
 
 ## Information
 

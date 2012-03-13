@@ -1,0 +1,11 @@
+---
+title: Rewrite due date reminder 
+layout: 463w2010-post
+section: main
+date: 2010-02-08
+---
+
+Just a reminder that your rewrites are due in class on Wednesday,
+February 10th.
+
+

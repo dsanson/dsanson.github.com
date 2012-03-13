@@ -1,6 +1,11 @@
-% 463: Handout on Change
-% David Sanson
-% February 22, 2010
+---
+title: handout on change
+layout: 463w2010-post
+section: main
+date: 2010-02-22
+excerpt: |
+    Here is the handout on change from class.
+---
 
 ## Material Replacement
 

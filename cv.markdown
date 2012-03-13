@@ -1,6 +1,6 @@
 % Curriculum Vitae
 % David Sanson
-% February 18, 2012
+% March 13, 2012
 
   --------------------------- --------------------------
   Department of Philosophy         614-292-2235 (office)
@@ -64,14 +64,16 @@ Presentations
 =============
 
 -   "Worlds Enough for Junk,"
-    -   Kenyon College, November 2011 
+    -   Kenyon College, November 2011
     -   Illinois State University, February 2012
 
 -   "Locality and Necessity," with Ben Caplan, Pacific Division Meeting
     of the American Philosophical Association, Pasadena CA, March 2008
     (refereed)
+
 -   "The Essentially Unreal Past," Central Division Meeting of the
     American Philosophical Association, Chicago, IL, April 2007
+
 -   "The Way Things Were," with Ben Caplan
     -   Canadian Philosophical Association Annual Congress, University
         of Western Ontario, May 2005 (refereed)
@@ -217,23 +219,24 @@ Refereeing
 
 -   *American Philosophical Quarterly*, *Australasian Journal of
     Philosophy*, *Erkenntnis*, *Pacific Philosophical Quarterly*,
-    *Philosophical Studies*, *Southern Journal of Philosophy*
+    *Philosophical Studies*, *Religious Studies*, *Southern Journal of
+    Philosophy*
 
 Departmental Service
 ====================
 
--   Colloquium Committee, 2005-present
--   Salary Committee, 2009-10
--   Hiring Committee, 2008-09
--   Undergraduate Committee, 2005-06, 2008-09
--   Bingham Committee, 2008-09
--   Research Committee, 2007-08
--   Executive Committee, 2006-07
--   Curriculum Committee, 2005-06
--   Fink Committee, 2005-06, 2011-2012
+-   Colloquium Committee, 2005-present; Salary Committee, 2009-10;
+    Hiring Committee, 2008-09; Undergraduate Committee, 2005-06,
+    2008-09; Bingham Committee, 2008-09; Research Committee, 2007-08;
+    Executive Committee, 2006-07; Curriculum Committee, 2005-06; Fink
+    Committee, 2005-06, 2011-2012
+
 
 Other Service
 =============
 
--   Session Chair: Central Division Meeting of the American Philosophical Association, 2010; Central Division Meeting of the American Philosophical Association, 2009; Pacific Division Meeting of the American Philosophical Association,
-    2006.
+-   Session Chair: Central Division Meeting of the American
+    Philosophical Association, 2010; Central Division Meeting of the
+    American Philosophical Association, 2009; Pacific Division Meeting
+    of the American Philosophical Association, 2006.
+

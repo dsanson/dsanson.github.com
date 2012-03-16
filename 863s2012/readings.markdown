@@ -4,7 +4,9 @@ layout: 863s2012
 section: readings
 ---
 
-**This is a draft**. Also, it is too much.
+This is a **draft**. It will change. If you have views about how it should change, let me know.
+
+One thing is certain: this is too much to get through in a quarter.
 
 # Modality and Possible Worlds
 

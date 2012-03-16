@@ -4,7 +4,7 @@ layout: 863s2012
 section: readings
 ---
 
-This is a draft...
+**This is a draft**. Also, it is too much.
 
 # Modality and Possible Worlds
 
@@ -22,7 +22,7 @@ Required:
     Modality. In *Reality and Humean Supervenience: Essays on the
     Philosophy of David Lewis*, ed. Gerhard Preyer and Frank Siebelt,
     27–55. Lanham, MD: Rowman & Littlefield.
--   Mcdaniel, Kris. 2006. “Modal Realisms.” *Philosophical Perspectives*
+-   McDaniel, Kris. 2006. “Modal Realisms.” *Philosophical Perspectives*
     20: 303–331.
 -   Dorr, Cian. 2010. “How to Be a Modal Realist.”
 

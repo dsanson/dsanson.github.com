@@ -17,28 +17,28 @@ Required:
 -   Lewis, David. 1986. Chapters 1 and 2 of *On the Plurality of
     Worlds*. Oxford: Blackwell.
 -   Yagisawa, Takashi. 1992. "Possible Worlds as Shifting Domains."
-    Erkenntnis, 36(1):83 – 101.
+    Erkenntnis, 36(1):83 – 101. <http://www.jstor.org/stable/20012391>
 -   Bricker, Phillip. 2001. Island Universes and the Analysis of
     Modality. In *Reality and Humean Supervenience: Essays on the
     Philosophy of David Lewis*, ed. Gerhard Preyer and Frank Siebelt,
     27–55. Lanham, MD: Rowman & Littlefield.
 -   McDaniel, Kris. 2006. “Modal Realisms.” *Philosophical Perspectives*
-    20: 303–331.
--   Dorr, Cian. 2010. “How to Be a Modal Realist.”
+    20: 303–331. <http://dx.doi.org/10.1111/j.1520-8583.2006.00109.x>
+-   Dorr, Cian. 2010. “How to Be a Modal Realist.” <http://users.ox.ac.uk/~sfop0257/papers/ModalRealism.pdf>
 
 
 Optional:
 
 -   Salmon, Nathan. 1988. “Review of *On the Plurality of Worlds* by
-    David Lewis.” *The Philosophical Review* 97 (apr): 237–244.
+    David Lewis.” *The Philosophical Review* 97 (apr): 237–244. <http://www.jstor.org.proxy.lib.ohio-state.edu/stable/2185263>
 -   Bricker, Phillip. 1996. “Isolation and Unification: The Realist
     Analysis of Possible Worlds.” *Philosophical Studies* 84 (December
-    01): 225–238.
+    01): 225–238. <http://dx.doi.org/10.1007/BF00354488>
 -   Divers, John. 2002. Chapter 6 of *Possible Worlds*. Routledge,
     London.
 -   Parsons, J. 2007. "Is Everything a World?" *Philosophical Studies*,
-    134:165–181.
--   Sanson, David. "Worlds Enough for Junk."
+    134:165–181. <http://dx.doi.org/10.1007/s11098-007-9078-z> 
+-   Sanson, David. "Worlds Enough for Junk." <http://files.davidsanson.com/research/worlds-enough-for-junk.pdf>
 
 ## Alternatives
 

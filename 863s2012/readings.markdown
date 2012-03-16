@@ -44,7 +44,7 @@ Optional:
 
 Required:
 
--   Stalnaker, Robert. 1976. “Possible Worlds.” *Noûs* 10: 65–75.
+-   Stalnaker, Robert. 1976. “Possible Worlds.” *Noûs* 10: 65–75. <http://www.jstor.org/stable/2214477>
 -   Plantinga, Alvin. 1976. “Actualism and Possible Worlds.” *Theoria*
     42: 139–160.
 -   Lewis, David. 1986. Chapter 3 of *On the Plurality of Worlds*.
@@ -59,16 +59,16 @@ Optional:
 -   Fine, Kit. 1977. "Postscript." In *Worlds, Times and Selves*, 116–168.
     Amherst: University of Massachusetts Press.
 -   Rosen, Gideon. 1990. “Modal Fictionalism.” *Mind* 99: 327–354.
--   Sanson, David. “Maximal Possibilities.”
+-   Sanson, David. “Maximal Possibilities.” <http://files.davidsanson.com/research/maximal-possibilities.pdf>
 
 # Counterpart Theory and Modality De Re
 
 Required:
 
 -   Lewis, David. 1968. “Counterpart Theory and Quantified Modal Logic.”
-    *The Journal of Philosophy* 65: 113–126.
+    *The Journal of Philosophy* 65: 113–126. <http://www.jstor.org/stable/2024555>
 -   Lewis, David. 1971. “Counterparts of Persons and Their Bodies.” *The
-    Journal of Philosophy* 68 (apr): 203–211.
+    Journal of Philosophy* 68 (apr): 203–211. <http://www.jstor.org/stable/2024902>
 -   Lewis, David. 1986. Chapter 4 of *On the Plurality of Worlds*.
 -   Kripke, Saul A. 1980. *Naming and Necessity*. Cambridge, MA: Harvard
     University Press. n. 13.
@@ -82,8 +82,7 @@ Required:
 Optional:
 
 -   Hazen, Allen. 1979. “Counterpart-Theoretic Semantics for Modal
-    Logic.” *The Journal of Philosophy* 76 (jun): 319–338.
-    doi:10.2307/2025472. <http://www.jstor.org/stable/2025472>.
+    Logic.” *The Journal of Philosophy* 76 (jun): 319–338. <http://www.jstor.org/stable/2025472>
 -   Fine, Kit. 1989. The Problem of De Re Modality. In *Themes from
     Kaplan*, ed. J. Almog, J. Perry, and H. Wettstein, 197–272. New
     York; Oxford: Oxford University Press.
@@ -95,7 +94,7 @@ Optional:
     <http://mind.oxfordjournals.org/content/108/430/217>
 -   Parsons, Josh. 2007. “Against Advanced Modalizing.”
 -   Stone, Jim. 2009. “Why Counterpart Theory and Modal Realism are
-    Incompatible.” *Analysis* 69: 650–653.
+    Incompatible.” *Analysis* 69: 650–653. <http://dx.doi.org/10.1093/analys/anp101>
 -   Conee, Earl. 2011. “Modal Realism, Counterpart Theory, and The
     Possibility of Multiversal Rectitude.” *Analysis* 71: 680–684.
 

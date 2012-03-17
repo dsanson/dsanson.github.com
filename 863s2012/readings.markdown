@@ -8,9 +8,7 @@ This is a **draft**. It will change. If you have views about how it should chang
 
 One thing is certain: this is too much to get through in a quarter.
 
-# Modality and Possible Worlds
-
-## Modal Realism and Worlds
+# Modal Realism and Possible Worlds
 
 Required:
 
@@ -42,7 +40,7 @@ Optional:
     134:165–181. <http://dx.doi.org/10.1007/s11098-007-9078-z> 
 -   Sanson, David. "Worlds Enough for Junk." <http://files.davidsanson.com/research/worlds-enough-for-junk.pdf>
 
-## Alternatives
+# Alternatives to Modal Realism and Possible Worlds
 
 Required:
 
@@ -118,8 +116,6 @@ Required:
 
 Optional:
 
--   Fine, Kit. 1994b. Senses of Essence. In *Modality, Morality, and
-    Belief*, ed. Walter Sinnott-Armstrong. New York: Cambridge
-    University Press.
--   Fine, Kit. 2000a. “Semantics For The Logic Of Essence.” *Journal of
-    Philosophical Logic* 29: 543–584.
+
+
+{% include proxifybutton.html %}

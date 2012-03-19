@@ -8,18 +8,15 @@ When emailing about a course, please include your full name in the body of your 
 
 ## Present
 
-+	[Ancient Philosophy (301)](/301w2012)
-    +   MW 11:30–1:18; Caldwell Lab 0120
-
-## Future
-
-+	Spring 2012
-	+	[Medieval Philosophy (302)](/302s2012)
-        + MW 1:30-3:18
-	+	[Graduate Seminar: Metaphysics of Modality (863)](/863s2012)
-        + Tue 3:30-6:18
++	[Medieval Philosophy (302)](/302s2012)
+    + MW 1:30pm-3:18pm
++	[Graduate Seminar: Metaphysics of Modality (863)](/863s2012)
+    + Tu 6:30pm-9:18pm
 
 ## Past
+
+-   Winter 2012
+    +	[Ancient Philosophy (301)](/301w2012)
 
 -   Fall 2011
     +	[First Year Seminar (700)](/700f2011) with William Taschek

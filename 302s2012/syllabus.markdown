@@ -47,7 +47,7 @@ course website.
 Requirements
 ------------
 
-One short (1 page) paper (worth 25%), one longer (3 page) paper (worth 35%), and one longer (5 page) paper (worth 40%).
+Two short papers (25% each), a midterm, and a final (25% each). The final exam is on Tuesday, June 5th, from 1:30--3:18, in our usual lecture hall. <http://registrar.osu.edu/scheduling/SchedulingContent/SP12Finals.pdf>
 
 Active participation and engagement, in class and/or office hours, will
 also be considered in the final assessment and assignment of grades, but

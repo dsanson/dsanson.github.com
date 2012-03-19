@@ -1,7 +1,6 @@
 ---
 title: "Welcome"
 layout: 302s2012-post
-comments: true
 published: true
 ---
 

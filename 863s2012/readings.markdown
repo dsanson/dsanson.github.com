@@ -22,9 +22,12 @@ Required:
     Modality. In *Reality and Humean Supervenience: Essays on the
     Philosophy of David Lewis*, ed. Gerhard Preyer and Frank Siebelt,
     27–55. Lanham, MD: Rowman & Littlefield.
+    <http://www.umass.edu/philosophy/PDF/Bricker/Island_Universes.pdf>
 -   McDaniel, Kris. 2006. “Modal Realisms.” *Philosophical Perspectives*
     20: 303–331. <http://dx.doi.org/10.1111/j.1520-8583.2006.00109.x>
--   Dorr, Cian. 2010. “How to Be a Modal Realist.” <http://users.ox.ac.uk/~sfop0257/papers/ModalRealism.pdf>
+-   Dorr, Cian. 2010. “How to Be a Modal Realist.”
+    <http://users.ox.ac.uk/~sfop0257/papers/ModalRealism.pdf>
+
 
 
 Optional:
@@ -56,10 +59,13 @@ Optional:
 
 -   Adams, Robert M. 1974. “Theories of Actuality.” *Noûs* 8 (Sep):
     211–231. <http://www.jstor.org/stable/10.2307/2214751>
--   Fine, Kit. 1977. "Prior on the Construction of Possible Worlds and Instants." In *Worlds, Times and Selves*, 116–168.
-    Amherst: University of Massachusetts Press.
--   Rosen, Gideon. 1990. “Modal Fictionalism.” *Mind* 99: 327–354. <http://www.jstor.org/stable/10.2307/2255102>
--   Sanson, David. “Maximal Possibilities.” <http://files.davidsanson.com/research/maximal-possibilities.pdf>
+-   Fine, Kit. 1977. "Prior on the Construction of Possible Worlds and
+    Instants." In *Worlds, Times and Selves*, 116–168. Amherst:
+    University of Massachusetts Press.
+-   Rosen, Gideon. 1990. “Modal Fictionalism.” *Mind* 99: 327–354.
+    <http://www.jstor.org/stable/10.2307/2255102>
+-   Sanson, David. “Maximal Possibilities.”
+    <http://files.davidsanson.com/research/maximal-possibilities.pdf>
 
 # Counterpart Theory and Modality De Re
 

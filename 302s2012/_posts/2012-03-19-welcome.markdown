@@ -1,0 +1,10 @@
+---
+title: "Welcome"
+layout: 302s2012-post
+comments: true
+published: true
+---
+
+This is the course webpage for Philosophy 302, Medieval Philosophy, taught by David Sanson, at Ohio State, Spring Quarter, 2012.
+
+A draft of the [syllabus](syllabus.html) is available, as is a [schedule of readings](readings.html).

@@ -10,7 +10,7 @@ Writing
 -   [Pandoc][]
 
 If you are fed up with Microsoft Word and thinking about drinking the
-LaTeX koolaid, take a good hard look at pandoc first.
+LaTeX koolaid, take a good hard look at pandoc first. If you are attracted to the trendy minimalist markdown friendly text editors (Writeroom, ByLine, iAWriter, etc.), and thinking about using [MultiMarkdown](http://fletcherpenney.net/multimarkdown/), take a good hard look at pandoc too.
 
 Pandoc is a command line tool that converts documents from one markup
 format to another. For academic writing, the key point is that it
@@ -31,6 +31,11 @@ that can be used as cross-references (this last is not as flexible or
 powerful as LaTeX's support for cross-references: count that as one
 remaining shortcoming in pandoc for academic writers).
 
+If you would rather not use pandoc from the command line, and you are on OS X, you might be interested in one of the following,
+
+-    [Pandoc Droplets and Services](https://github.com/dsanson/Pandoc-Droplets-and-Services)
+-    [TextMate Bundle for Pandoc](https://github.com/dsanson/Pandoc.tmbundle)
+
 My preferred text editor is
 
 -   ~~[TextMate][]~~
@@ -44,17 +49,21 @@ MacVim is just Vim, and Vim is available on just about every computer in
 existence, my investment in muscle memory should be reasonably future
 proof.
 
+If you use both Vim and pandoc, you might be interested in
+
+-   [vim-pandoc](https://github.com/vim-pandoc/vim-pandoc)
+
 I also use
 
 -   ~~[Notational Velocity][]~~
 -   [nvAlt][] (Brett Terpstra's fork of Notational Velocity)
 
 for storing quick notes and pounding out very rough drafts. But I find
-that I miss vim's normal mode. I've been playing with
+that I miss Vim's normal mode. I've been playing with
 
 -   [KeyRemap4MacBook][]
 
-which aims to provide something close to vim's normal mode everywhere,
+which aims to provide something close to Vim's normal mode everywhere,
 but it isn't sticking.
 
 As things progress, it is helpful to keep track of revisions. For this,
@@ -69,6 +78,8 @@ papers, see [Mark Kalderon's Blog][] and [the PhilTeX blog][].
 Research
 --------
 
+The best tool for downloading bibliographic data is
+
 -   [Zotero][]
 
 I am hoping that [Zotero Standalone][] is the first step toward a clean
@@ -82,17 +93,14 @@ which bypasses Zotero's client, and sends scraped data directly to
 
 Unfortunately, it does not send the PDF along as well.
 
-BibDesk is a great piece of software, but it is also a bit frustrating.
-BibTeX is an aging bibilographic database format, and BibDesk's web
-scraping and export options leave a lot to be desired. So using it with
-Zot2Bib seems to be the best compromise at the moment.
+BibDesk is a great piece of software, designed for managing a BibTeX database with attached PDF files. It keeps all my PDFs organized in a folder, with reasonable names. And pandoc makes use of the BibTeX database for auto-formatting citations.
 
 For reading and annotating PDFs, I use
 
 -   [Skim][]
 
 Apple's Preview.app keeps getting better at annotations. I'm not sure
-how much better Skim is at this point.
+how much better Skim is at this point, but it is what I am used to.
 
 Other things
 ------------

@@ -69,6 +69,7 @@ Optional:
     University of Massachusetts Press. Reprinted in his *Modality and
     Tense*.
     <http://www.oxfordscholarship.com/view/10.1093/0199278709.001.0001/acprof-9780199278701-chapter-5>
+-   Kripke, Saul. 1980. *Naming and Necessity*. Cambridge, MA: Harvard University Press. (Selections)
 -   Rosen, Gideon. 1990. “Modal Fictionalism.” *Mind* 99: 327–354.
     <http://www.jstor.org/stable/10.2307/2255102>
 -   Sanson, David. “Maximal Possibilities.”
@@ -86,8 +87,8 @@ Required:
     Journal of Philosophy* 68 (apr): 203–211.
     <http://www.jstor.org/stable/2024902>
 -   Lewis, David. 1986. Chapter 4 of *On the Plurality of Worlds*.
--   Kripke, Saul A. 1980. *Naming and Necessity*. Cambridge, MA: Harvard
-    University Press. n. 13.
+-   Kripke, Saul. 1980. *Naming and Necessity*. Cambridge, MA: Harvard
+    University Press. (Selections) 
 -   Divers, John. 2002. Chapter 8 of *Possible Worlds*.
 -   Sider, Ted. 2006. “Beyond the Humphrey Objection.”
     <http://www.tedsider.org/papers/counterpart_theory.pdf>

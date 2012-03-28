@@ -3,8 +3,8 @@
 % Spring 2012
 
 Professor
-  ~ David Sanson, 372 University Hall, <sanson.7@osu.edu>
-  ~ Office hours: TBA or by appointment
+  ~ David Sanson, 372 University Hall, <sanson.7@osu.edu>\
+    Office hours: M 3:30-4:30, W 12:30-1:30, or by appointment
 
 Webpage
   ~ <http://davidsanson.com/863>
@@ -12,18 +12,24 @@ Webpage
 Course Description
 ------------------
 
-A seminar on modal metaphysics, loosely organized around three topics:
+This will be a seminar on modal metaphysics, loosely organized around four topics:
 
-1.  Counterpart theory and the Humphrey objection;
-2.  Advanced modalizing;
-3.  Essence and modality.
+1.  Possible worlds;
+2.  Counterpart theory and the Humphrey objection;
+3.  Advanced modalizing;
+4.  Essence and modality.
 
-### 1. Counterpart Theory and the Humphrey Objection
+Along the way, we will read all of *On the Plurality of Worlds*.
+
+### Possible Worlds
+
+What are possible worlds, why do we need them, and what do they have to do with modality? These familiar questions tend to structure much of the literature on modality, so we will begin with them.
+
+### Counterpart Theory and the Humphrey Objection
 
 According to counterpart theory, to say that Humphrey could have won the
 election is to say that someone similar to Humphrey in some similar
-election in some possible world [@lewis1968]. @kripke1980 [p. 45]
-famously objects:
+election in some possible world. In a famous footnote in *Naming and Necessity*, Kripke objects:
 
 > Probably, however, Humphrey could not care less whether someone
 > *else*, no matter how much resembling him, would have been victorious
@@ -31,35 +37,19 @@ famously objects:
 
 Many have thought that there is something deeply right about what Kripke
 says. Others have thought that there is something deeply wrong about
-what Kripke says. Either way, I think its worth thinking about.
+what Kripke says. Either way, it's worth thinking about.
 
-### 2. Advanced Modalizing
+### Advanced Modalizing
 
 Advanced modal claims are modal claims about possible worlds or the
 possible worlds framework, like the claim that the only possible worlds
 that could exist are the possible worlds that do exist. It is not clear
 whether or not such claims make sense, and, if they do, how to make
-sense of them. Thinking about this helps to bring out some questions
-about what is and is not fundamental, when it comes to modality, and I
-think those questions are worth thinking about.
+sense of them.
 
-### 3. Essence and Modality
+### Essence and Modality
 
-@fine1994 revitalized the old distinction between substantial form
-(essence) and proper accident (necessary but non-essential property).
-The substantial form of a thing is its essence or real definition, the
-account of what it is. A proper accident is a feature a thing has of
-necessity, in virtue of its substantial form, that is not part of its
-substantial form. So,
-
--   essence: a human is a rational animal
--   proper accident: a human is risible (has the capacity to laugh)
--   essence: a triangle is essentially a three-sided polygon
--   proper accident: the interior angles of a triangle add up to 180
-    degrees.
-
-@fine2002a suggests that we can explain *all* necessities by appeal to
-essences. I think this is something worth thinking about.
+Fine's "Essence and Modality" (1994) revitalized an old distinction between *essence* and *necessity*. Necessarily, Venus is distinct from Saturn, but, Fine says, it is no part of Venus's essence---no part of what it is to be Venus---that Venus is distinct from Saturn. So not all necessary properties are essential properties. And, taking things a step further, Fine suggests a reduction of all necessity to essence.
 
 Required Text
 --------------
@@ -110,5 +100,3 @@ accommodations for any student with a documented disability.
   Being affected:         being cut, being burned
   ----------------------- ------------------------------------
 
-References
-----------

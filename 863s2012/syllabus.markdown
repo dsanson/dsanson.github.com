@@ -1,14 +1,10 @@
----
-title: Modal Metaphysics
-layout: 863s2012
-section: syllabus
----
-
-**THIS IS A DRAFT**
+% Philosophy 863: Modal Metaphysics
+% David Sanson
+% Spring 2012
 
 Professor
   ~ David Sanson, 372 University Hall, <sanson.7@osu.edu>\
-    Office hours: TBA or by appointment
+    Office hours: M 3:30-4:30, W 12:30-1:30, or by appointment
 
 Webpage
   ~ <http://davidsanson.com/863>
@@ -33,7 +29,7 @@ What are possible worlds, why do we need them, and what do they have to do with 
 
 According to counterpart theory, to say that Humphrey could have won the
 election is to say that someone similar to Humphrey in some similar
-election in some possible world. In famous footnote in *Naming and Necessity*, Kripke objects:
+election in some possible world. In a famous footnote in *Naming and Necessity*, Kripke objects:
 
 > Probably, however, Humphrey could not care less whether someone
 > *else*, no matter how much resembling him, would have been victorious

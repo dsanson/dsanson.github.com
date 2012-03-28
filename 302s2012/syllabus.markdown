@@ -9,7 +9,7 @@ Syllabus --- Spring 2012 ([PDF Version][])
 
 Professor
   ~ David Sanson, 372 University Hall, <sanson.7@osu.edu>
-  ~ Office hours: TBA or by appointment
+  ~ Office hours: M 3:30-4:30, W 12:30-1:30, or by appointment
 
 Lecture
   ~ Mendenhall Lab 0191, MW 1:30-3:18

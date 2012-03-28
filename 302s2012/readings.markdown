@@ -11,12 +11,12 @@ Week 1
 
 3/26
   ~ [*Genesis* 1](genesis-1)\
-    Plato, selections from the *Timaios* (*BIMP* VI.1)\
-    Aristotle, *Physics* VIII.1 (*BIMP* III.1)
+    Plato, selections from the *Timaios* (all of *BIMP* VI.1)\
+    Aristotle, *Physics* VIII.1 (all of *BIMP* III.1)
 
 3/28
   ~ Al-Ghazali and Ibn Rushd (Averroes), selections from Ibn Rushd's
-    *Tahāfut al-Tahāfut* (*BIMP* III.3)
+    *Tahāfut al-Tahāfut* (all of *BIMP* III.3)
 
 Week 2
 ------

@@ -8,12 +8,15 @@ excerpt: |
     The new official Pandoc installer for OS X only works on 10.6 and 10.7. I've compiled an [unofficial installer](http://files.davidsanson.com/pandoc-1.8.2_ppc_installer.dmg) that works on 10.5.
 ---
 
+    This build is out-of-date and has some serious problems (see the
+    comments below). Unfortunately, my PPC iMac is dead, so I can't
+    build a new version. I'm leaving this up in case anyone finds it
+    useful, but *please* understand that it is flawed. (2012-04-02)
+
 For a long time, the only way to install [Pandoc] on a Mac was to first install the [Haskell Platform] and then build from source by executing 
 
-~~~{.sh}
-
+~~~ {.sh}
 $ cabal install pandoc
-
 ~~~
 
 from the command line.

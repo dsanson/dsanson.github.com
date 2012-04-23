@@ -4,9 +4,11 @@ layout: 302s2012-post
 section: assignments
 published: true
 excerpt: |
-    The midterm is on Wednesday, April 25th, in class. It will be closed book and closed notes. I will supply blue books. Be sure to bring a pen or pencil.
+    **EDITED TO REFLECT PROGRESS IN LECTURE**. The midterm is on Wednesday, April 25th, in class. It will be closed book and closed notes. I will supply blue books. Be sure to bring a pen or pencil.
 
 ---
+
+**QUESTIONS 21 THROUGH 25 HAVE BEEN REMOVED TO REFLECT OUR PROGRESS THROUGH THE MATERIAL IN LECTURE.**
 
 The midterm is on Wednesday, April 25th, in class. It will be closed book and closed notes. I will supply blue books. Be sure to bring a pen or pencil.
 
@@ -56,13 +58,13 @@ The essay questions will all be taken from this study guide. The short answer an
 
 20. According to Lady Philosophy (Book V, Prose 2), "freedom does not exist equally in all", but exists to the highest degree in God and the angels, and to the lowest degree in vicious human beings. Explain this view.
 
-21. In Book V Prose 3, Boethius presents several arguments to show that divine foreknowledge is inconsistent with free will. Present and evaluate one of those arguments.
+21. ~~In Book V Prose 3, Boethius presents several arguments to show that divine foreknowledge is inconsistent with free will. Present and evaluate one of those arguments.~~
 
-22. In Book V Prose 4, Lady Philosophy imagines a dispute between sense and imagination, on the one hand, and reason, on the other, and says we should side with reason in this dispute. What is the dispute? What does she think it shows?
+22. ~~In Book V Prose 4, Lady Philosophy imagines a dispute between sense and imagination, on the one hand, and reason, on the other, and says we should side with reason in this dispute. What is the dispute? What does she think it shows?~~
 
-23. According to Lady Philosophy, God knows future contingent events because they are present to him from eternity. Explain this view. Do you think it solves the problem? Why or why not?
+23. ~~According to Lady Philosophy, God knows future contingent events because they are present to him from eternity. Explain this view. Do you think it solves the problem? Why or why not?~~
 
-24. Present Boethius's definition of eternity, explain what it means, and explain the contrast between eternity and sempiternity.
+24. ~~Present Boethius's definition of eternity, explain what it means, and explain the contrast between eternity and sempiternity.~~
 
-25. Explain the distinction between the necessity of the consequence and the necessity of the consequent and why the one does not follow from the other.
+25. ~~Explain the distinction between the necessity of the consequence and the necessity of the consequent and why the one does not follow from the other.~~
 

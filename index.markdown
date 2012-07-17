@@ -44,7 +44,7 @@ section: home
 <a class="email" href="&#x6d;&#x61;&#x69;&#108;&#116;&#x6f;&#58;&#100;&#x73;&#x61;&#110;&#x73;&#x6f;&#110;&#64;&#x67;&#x6d;&#x61;&#x69;&#108;&#46;&#x63;&#x6f;&#x6d;">&#100;&#x73;&#x61;&#110;&#x73;&#x6f;&#110;&#64;&#x67;&#x6d;&#x61;&#x69;&#108;&#46;&#x63;&#x6f;&#x6d;</a>
 </div>
 <div class="tel">
-    <abbr class="type" title="home"></abbr>
+    <abbr class="type" title="office"></abbr>
     <span class="value">309-438-2466</span>
 </div>
 

@@ -6,14 +6,17 @@ section: courses
 
 When emailing about a course, please include your full name in the body of your email and the course number (e.g., "463") in the subject line. 
 
-## Present
+## Future
 
-+	[Medieval Philosophy (302)](/302s2012)
-    + MW 1:30pm-3:18pm
-+	[Graduate Seminar: Metaphysics of Modality (863)](/863s2012)
-    + Tu 6:30pm-9:18pm
+-   Fall 2012
+    +   Symbolic Logic I (210)
+    +   Visions of the Self (251)
 
-## Past
+## Past (at OSU)
+
+-   Spring 2012
+    +	[Medieval Philosophy (302)](/302s2012)
+    +	[Graduate Seminar: Metaphysics of Modality (863)](/863s2012)
 
 -   Winter 2012
     +	[Ancient Philosophy (301)](/301w2012)
@@ -45,7 +48,7 @@ When emailing about a course, please include your full name in the body of your 
 	-   [Medieval Philosophy (302)](http://phil302f2008.wordpress.com)
 	-   [First Year Seminar (700)](http://phil700f2008.wordpress.com/) with [Ben Caplan](http://people.cohums.ohio-state.edu/caplan16/)
 
--	Winter 2008
+-	Winter 2008)
 	-   Symbolic Logic (250)
 	-   Ancient Philosophy (301)
 
@@ -69,3 +72,9 @@ When emailing about a course, please include your full name in the body of your 
 	-	Introduction to Logic (150)
 	-	Medieval Philosophy (302)
 
+# Past (at UCLA)
+
+-   Summer 2003
+    -   Topics in Early Modern Philosophy (119)
+-   Summer 2001
+    -   Symbolic Logic (31)

@@ -5,7 +5,8 @@ section: home
 ---
 
 <div style="text-align:center" id="David-Sanson" class="vcard">
-    <abbr id="fn" title="David Sanson"></abbr>
+    <abbr class="fn" title="David Sanson"></abbr>
+    <abbr class="url" title="http://davidsanson.com"></abbr>
 <script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=1&amp;display=random&amp;size=m&amp;layout=x&amp;source=user_tag&amp;user=40808145%40N00&amp;tag=picforhomepage"></script>
 <noscript>
     <div class="flickr_badge_image">
@@ -19,24 +20,32 @@ section: home
 </div>
 
 <div>
-	<span class="title">Assistant Professor</span> of <a href="http://philosophy.osu.edu/" class="organization-unit" title="The Philosophy Department">Philosophy</a>
+	<span class="title">Assistant Professor</span>
 </div>
+
 <div>
-	<a href="http://www.osu.edu" class="organization-name" title="The Ohio State University">The Ohio State University</a>
+    323F Stevenson Hall
 </div>
+
 <div class="adr">
 	<div class="extended-address">
-		372 <a href="http://www.osu.edu/map/building.php?building=339" title="Find University Hall on a Campus Map">University Hall</a>
-	</div>
-	<div class="street-address">
-		230 North Oval Mall
-	</div>
+    <div>
+     <a href="http://philosophy.illinoisstate.edu/" class="organization-unit" title="Department of Philosophy">Department of Philosophy</a> (4540)
+     </div>
+     <div>
+	<a href="http://illinoisstate.edu/" class="organization-name" title="Illinois State University">Illinois State University</a>
+</div>
+    </div>
 	<div>
-		<span class="locality">Columbus</span>, <span class="region">OH</span> <span class="postal-code">43210</span>
+		<span class="locality">Normal</span>, <span class="region">IL</span> <span class="postal-code">61790</span>
 	</div>
 </div>
 <div>
-	<a class="email" href="mailto:&#115;&#097;&#110;&#115;&#111;&#110;&#046;&#055;&#064;&#111;&#115;&#117;&#046;&#101;&#100;&#117;">&#115;&#097;&#110;&#115;&#111;&#110;&#046;&#055;&#064;&#111;&#115;&#117;&#046;&#101;&#100;&#117;</a>
+<a class="email" href="&#x6d;&#x61;&#x69;&#108;&#116;&#x6f;&#58;&#100;&#x73;&#x61;&#110;&#x73;&#x6f;&#110;&#64;&#x67;&#x6d;&#x61;&#x69;&#108;&#46;&#x63;&#x6f;&#x6d;">&#100;&#x73;&#x61;&#110;&#x73;&#x6f;&#110;&#64;&#x67;&#x6d;&#x61;&#x69;&#108;&#46;&#x63;&#x6f;&#x6d;</a>
+</div>
+<div class="tel">
+    <abbr class="type" title="home"></abbr>
+    <span class="value">309-438-2466</span>
 </div>
 
 <p id="hcardlink"><a type="text/directory" href="http://h2vx.com/vcf/davidsanson.com/"><img id="img-link" src="/files/img/hcard.png" alt="download vcard" title="download vcard"></a></p>

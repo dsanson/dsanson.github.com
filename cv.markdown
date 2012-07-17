@@ -1,13 +1,13 @@
 % Curriculum Vitae
 % David Sanson\
   \ \
-  Department of Philosophy\
-  The Ohio State University\
-  372 University Hall\
-  Columbus, Ohio 43210\
+  Department of Philosophy (4540)\
+  Illinois State University\
+  Normal, Illinois 61790\
   <http://davidsanson.com>\
-  <dsanson@gmail.com>
-% March 13, 2012
+  <dsanson@gmail.com>\
+  309-438-2466
+% July 17, 2012
 
 
 Employment
@@ -89,6 +89,9 @@ Presentations
 
 Comments
 ========
+
+-   Comments on Ned Markosian, "A New Answer to the Special Composition Question"
+    -   Pacific APA, Seattle, WA, April 2012
 
 -   Comments on Amy Seymour, "The Advantages of Falsism"
     -   Central APA, Chicago, IL, February 2012

@@ -1,5 +1,4 @@
-I am an assistant professor of philosophy at the Ohio State University,
-soon to be an assistant professor of philosophy at [Illinois State
+I am an assistant professor of philosophy at [Illinois State
 University]. I'm primarily a metaphysician, but I also have research
 projects in the history of philosophy. A chunk of my current research
 focuses on the unreal: the past and future, the merely possible, and the
@@ -22,8 +21,7 @@ When not working, I am probably playing with [my daughter][], working in
 the garden, watching TV, or messing around on a computer. If I were the
 person I'd like to be, I'd instead be playing with my daughter,
 [collecting wild mushrooms][] and messing around in boats: specifically,
-guerilla camping from my [East German folding kayak][] along the
-Olentangy River.
+guerilla camping from my [East German folding kayak][].
 
 You can ~~stalk~~ find me on [PhilPapers][] and [Picasaweb][] and
 [Twitter][] and [Github][]. and [Google+][]. I still have accounts on

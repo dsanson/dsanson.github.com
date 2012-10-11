@@ -42,6 +42,8 @@ Redirect 301 /302 /302s2012/
 Redirect 301 /250 /250s2011/
 Redirect 301 /999 /999s2011/
 Redirect 301 /999s2011/signup http://signupgenius.com/go/philosophy
+Redirect 301 /251 /251f2012/
+Redirect 301 /210 /210f2012/
 
 ErrorDocument 404 /404.html
 ErrorDocument 410 /410.html

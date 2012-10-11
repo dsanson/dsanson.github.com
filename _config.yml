@@ -5,6 +5,6 @@ pygments    : false
 permalink   : none
 markdown    : rdiscount
 exclude     : ['README.markdown', 'scripts']
-url         : http://www.davidsanson.com
+url         : 'http://www.davidsanson.com'
 pandoc      :
     extensions : [smart, mathjax]

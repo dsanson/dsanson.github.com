@@ -14,7 +14,7 @@ Employment
 ==========
 
 -   Assistant Professor, Department of Philosophy, Illinois State
-    University, starting Fall 2012.
+    University, 2012-present.
 -   Assistant Professor, Department of Philosophy, The Ohio State
     University, 2005--2012.
 
@@ -90,7 +90,8 @@ Presentations
 Comments
 ========
 
--   Comments on Ned Markosian, "A New Answer to the Special Composition Question"
+-   Comments on Ned Markosian, "A New Answer to the Special Composition
+    Question"
     -   Pacific APA, Seattle, WA, April 2012
 
 -   Comments on Amy Seymour, "The Advantages of Falsism"
@@ -111,8 +112,8 @@ Comments
 Teaching
 ========
 
-Graduate Seminars
------------------
+Graduate Seminars (at OSU)
+--------------------------
 
 -   Metaphysics of Modality (Spring 2012)
 -   Tense and Passage (Winter 2010)
@@ -128,14 +129,15 @@ Undergraduate Courses
 -   Advanced Topics in Philosophy of Religion: Omnipotence, Omniscience,
     and Eternity (Fall 2010)
 -   Advanced Metaphysics: Modality and Time (Winter 2009)
--   Metaphysics (Winter 2010, Winter 2007)
+-   Introduction to Metaphysics (Winter 2010, Winter 2007)
 -   Topics in Early Modern Philosophy: Place and Nature in Descartes,
     Newton, and Leibniz (Summer 2003)
 -   Medieval Philosophy (Spring 2012, Fall 2008, Fall 2007, Spring 2007,
     Winter 2006)
 -   Ancient Philosophy (Winter 2012, Fall 2010, Fall 2009, Winter 2009,
     Winter 2008, Winter 2007)
--   Symbolic Logic (Spring 2011, Winter 2008, Summer 2001)
+-   Visions of the Self (Philosophy of Mind and Personal Identity) (Fall 2012)
+-   Symbolic Logic (Fall 2012, Spring 2011, Winter 2008, Summer 2001)
 -   Informal Logic (Winter 2006)
 -   Introduction to Philosophy (Fall 2009 (Honors), Spring 2007, Spring
     2006 (Honors))
@@ -148,10 +150,10 @@ Presentations
 -   "Fatalism and Future Contingents," OSU Undergraduate Philosophy
     Club, November 2005
 
-Advising
-========
+Graduate and Undergraduate Advising
+===================================
 
-Dissertation Committee Member
+Dissertation Committee Member (at OSU)
 -----------------------------
 
 -   Cathy Muller, *Harry Potter and the Rescue from Realism: A Novel
@@ -164,7 +166,7 @@ Dissertation Committee Member
     contingency, in progress
 -   James McGlothlin, on logical truth and god, in progress
 
-Graduate Qualifying Exam Committee Member
+Graduate Qualifying Exam Committee Member (at OSU)
 -----------------------------------------
 
 -   David Blanks, on the metaphysics of dispositions, 2012
@@ -174,7 +176,7 @@ Graduate Qualifying Exam Committee Member
 -   Patrick Reeder, on infinitesimals and contact, 2009
 -   Cathy Muller, on the ontology of fictional characters, 2008
 
-Graduate Candidacy Exam Committee Member
+Graduate Candidacy Exam Committee Member (at OSU)
 ----------------------------------------
 
 -   Raleigh Miller, on perspectival facts, 2012
@@ -188,7 +190,7 @@ Graduate Candidacy Exam Committee Member
 -   Thomas Evans, on content and vehicle externalism, 2007
 -   Cathy Muller, on fiction and pretense, 2007
 
-Undergraduate Honors Thesis Committee Member
+Undergraduate Honors Thesis Committee Member (at OSU)
 --------------------------------------------
 
 -   Gabbrielle Johnson (Philosophy), "Reference Magnetism and
@@ -200,12 +202,12 @@ Undergraduate Honors Thesis Committee Member
 -   Matthew Grover (Psychology), "Using Attitude Formation Towards Novel
     Stimuli to Predict Changes in Depressive Symptoms," 2009
 
-Undergraduate Honors Thesis External Examiner
+Undergraduate Honors Thesis External Examiner (at Oberlin)
 ---------------------------------------------
 
--   Rachel Randall (Philosophy, Oberlin), "The Ethics of Creation of
+-   Rachel Randall (Philosophy), "The Ethics of Creation of
     Persons," 2007
--   Michael Siniscalchi (Philosophy, Oberlin), "Can Representationalism
+-   Michael Siniscalchi (Philosophy), "Can Representationalism
     Bridge Levine's Gap?" 2007
 
 Awards and Grants
@@ -228,11 +230,15 @@ Philosophy*
 Departmental Service
 ====================
 
-Colloquium Committee, 2005-present; Salary Committee, 2009-10; Hiring
-Committee, 2008-09; Undergraduate Committee, 2005-06, 2008-09; Bingham
-Committee, 2008-09; Research Committee, 2007-08; Executive Committee,
-2006-07; Curriculum Committee, 2005-06; Fink Committee, 2005-06,
-2011-2012
+At ISU
+:   History of Philosophy Search Committee
+
+At OSU
+:   Colloquium Committee, 2005-2012; Salary Committee, 2009-10; Hiring
+    Committee, 2008-09; Undergraduate Committee, 2005-06, 2008-09;
+    Bingham Committee, 2008-09; Research Committee, 2007-08; Executive
+    Committee, 2006-07; Curriculum Committee, 2005-06; Fink Committee,
+    2005-06, 2011-2012
 
 
 Other Service

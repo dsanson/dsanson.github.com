@@ -6,11 +6,17 @@ section: courses
 
 When emailing about a course, please include your full name in the body of your email and the course number (e.g., "463") in the subject line. 
 
-## Future
+## Present (at ISU) 
 
 -   Fall 2012
     +   Symbolic Logic I (210)
     +   Visions of the Self (251)
+
+## Future
+
+-   Spring 2012
+    +   Language, Logic and Mathematics (112)
+    +   Topics in 20th Century Philosophy (305)
 
 ## Past (at OSU)
 

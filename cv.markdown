@@ -58,16 +58,15 @@ Work in Progress and Under Review
 
 -   "Once Present, Now Past" (under review)
 -   "Maximal Possibilities" (under revision)
--   "Worlds Enough for Junk" (under review)
+-   "Worlds Enough for Junk" (under revision)
 -   "Nonserious Nonfictionalism" (in progress)
--   "Boethius on Seeing the Future" (in progress)
 
 Presentations
 =============
 
 -   "Worlds Enough for Junk"
-    -   Kenyon College, November 2011
     -   Illinois State University, February 2012
+    -   Kenyon College, November 2011
 
 -   "Locality and Necessity" (with Ben Caplan)
     -   Pacific APA, Pasadena, CA, March 2008 (refereed)
@@ -90,22 +89,25 @@ Presentations
 Comments
 ========
 
--   Comments on Ned Markosian, "A New Answer to the Special Composition
+-   David Liebesman, "Necessarily, Sherlock Holmes is not a Person"
+    -   Illinois Philosophical Association, Champaign-Urbana, November 2012
+    
+-   Ned Markosian, "A New Answer to the Special Composition
     Question"
     -   Pacific APA, Seattle, WA, April 2012
 
--   Comments on Amy Seymour, "The Advantages of Falsism"
+-   Amy Seymour, "The Advantages of Falsism"
     -   Central APA, Chicago, IL, February 2012
 
--   Comments on Dana Goswick, "Counterfactual Analysis & Causal
+-   Dana Goswick, "Counterfactual Analysis & Causal
     Overdetermination"
     -   Pacific APA, Portland, OR, March 2006
 
--   Comments on Marie Pannier, "Presentism and Singular Propositions"
+-   Marie Pannier, "Presentism and Singular Propositions"
     -   Western Canadian Philosophical Association Meeting, University
         of Manitoba, October 2005
 
--   Comments on Kelly Trogdon, "Dualism, Mental Causation, and
+-   Kelly Trogdon, "Dualism, Mental Causation, and
     Counterfactuals"
     -   Pacific APA, San Francisco, March 2003.
 
@@ -142,7 +144,7 @@ Undergraduate Courses
 -   Introduction to Philosophy (Fall 2009 (Honors), Spring 2007, Spring
     2006 (Honors))
 
-Presentations
+Teaching Presentations
 -------------
 
 -   "Nonstandard Tense Realism," OSU Undergraduate Philosophy Club,
@@ -160,11 +162,10 @@ Dissertation Committee Member (at OSU)
     Defense of Anti-Realism about Fictional Objects*, 2012
 -   Eric Carter, *Objectivity and Communication*, 2011
 -   Vassilis Tsompanidis, *Tensed Belief* (UC Santa Barbara), 2010
--   Wesley Cray, on the inconstancy of *de re* modal attributions,
-    in progress 
--   Scott Brown, on essence, modality, and the limits of
-    contingency, in progress
--   James McGlothlin, on logical truth and god, in progress
+-   Wesley Cray, *Modal Inconstancy: How Our Interests Influence How
+    Things Could Be*, 2012
+-   Scott Brown, on essence, modality, and the limits of contingency, in
+    progress
 
 Graduate Qualifying Exam Committee Member (at OSU)
 -----------------------------------------
@@ -231,15 +232,18 @@ Departmental Service
 ====================
 
 At ISU
-:   History of Philosophy Search Committee
+------
+
+History of Philosophy Search Committee, 2012-13
 
 At OSU
-:   Colloquium Committee, 2005-2012; Salary Committee, 2009-10; Hiring
-    Committee, 2008-09; Undergraduate Committee, 2005-06, 2008-09;
-    Bingham Committee, 2008-09; Research Committee, 2007-08; Executive
-    Committee, 2006-07; Curriculum Committee, 2005-06; Fink Committee,
-    2005-06, 2011-2012
+------
 
+Colloquium Committee, 2005-2012; Salary Committee, 2009-10; Hiring
+Committee, 2008-09; Undergraduate Committee, 2005-06, 2008-09; Bingham
+Committee, 2008-09; Research Committee, 2007-08; Executive Committee,
+2006-07; Curriculum Committee, 2005-06; Fink Committee, 2005-06,
+2011-2012
 
 Other Service
 =============

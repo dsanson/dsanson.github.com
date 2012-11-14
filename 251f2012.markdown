@@ -1,7 +1,7 @@
 ---
 title: 'Philosophy 251: Visions of the Self' 
-layout: 251f2012
-section: main
+layout: name
+section: courses
 
 ---
 

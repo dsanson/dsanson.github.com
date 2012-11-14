@@ -9,14 +9,17 @@ When emailing about a course, please include your full name in the body of your 
 ## Present (at ISU) 
 
 -   Fall 2012
-    +   Symbolic Logic I (210)
-    +   Visions of the Self (251)
+    +   [Symbolic Logic I (210)](/210f2012)
+    +   [Visions of the Self (251)](/251f2012)
 
 ## Future
 
--   Spring 2012
+-   Spring 2013
     +   Language, Logic and Mathematics (112)
     +   Topics in 20th Century Philosophy (305)
+
+-   May Term, 2013
+    +   Introduction to Philosophy (101)
 
 ## Past (at OSU)
 

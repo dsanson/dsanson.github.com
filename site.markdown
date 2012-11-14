@@ -40,10 +40,6 @@ The site makes use of several useful scripts and services:
     javascript-powered functionality easy
 -   [html5shiv](http://code.google.com/p/html5shiv/) makes older
     versions of Internet Explorer recognize HTML5 elements.
--   [H2VX Contacts Conversion Service](http://h2vx.com/vcf/) converts
-    the hcard on the index page to a downloadable vcard.
--   [Gravatar](http://gravatar.com/) provides avatars for commenters and
-    the image on my [about me](/me) page.
 -   I use the [COinS Generator](http://generator.ocoins.info/) to
     generate COinS metadata for papers on my research page.
 

@@ -4,19 +4,20 @@ title: Software
 section: about
 ---
 
-Writing
--------
-
--   [Pandoc][]
+[Pandoc][]
+----------
 
 If you are fed up with Microsoft Word and thinking about drinking the
-LaTeX koolaid, take a good hard look at pandoc first. If you are attracted to the trendy minimalist markdown friendly text editors (Writeroom, ByLine, iAWriter, etc.), and thinking about using [MultiMarkdown](http://fletcherpenney.net/multimarkdown/), take a good hard look at pandoc too.
+LaTeX koolaid, take a good hard look at pandoc first. If you are
+attracted to the trendy minimalist markdown friendly text editors
+(Writeroom, ByLine, iAWriter, etc.), and thinking about using
+[MultiMarkdown][], take a good hard look at pandoc too.
 
 Pandoc is a command line tool that converts documents from one markup
-format to another. For academic writing, the key point is that it
-converts its own [extended][] [markdown][] into HTML, LaTeX, PDF, ePub,
-Microsoft Word's DOCX, and OpenOffice's ODT. Pandoc's extended markdown
-includes everything you need to write and structure a philosophy paper:
+format to another. In particular, it converts its own [extended][]
+[markdown][] into HTML, LaTeX, PDF, ePub, Microsoft Word's DOCX, and
+OpenOffice's ODT. Pandoc's extended markdown includes just about
+everything you need to write and structure a philosophy paper:
 footnotes, labeled propositions (i.e., "definition lists"), citations,
 diagrams, support for LaTeX maths... With few exceptions, anything you
 can't do in pandoc's markdown is probably something you shouldn't be
@@ -31,40 +32,42 @@ that can be used as cross-references (this last is not as flexible or
 powerful as LaTeX's support for cross-references: count that as one
 remaining shortcoming in pandoc for academic writers).
 
-If you would rather not use pandoc from the command line, and you are on OS X, you might be interested in one of the following,
+If you would rather not use pandoc from the command line, and you are on
+OS X, you might be interested in one of the following,
 
--    [Pandoc Droplets and Services](https://github.com/dsanson/Pandoc-Droplets-and-Services)
--    [TextMate Bundle for Pandoc](https://github.com/dsanson/Pandoc.tmbundle)
+-   [Pandoc Droplets and Services][]
+-   [TextMate Bundle for Pandoc][]
 
-My preferred text editor is
+Text Editor
+-----------
 
 -   ~~[TextMate][]~~
 -   [MacVim][]
 
-I switched from TextMate to MacVim about a year ago, and haven't looked
-back. TextMate is a wonderful text editor, with an easy learning curve
-and a lot of powerful features. MacVim is just as powerful, and, for me,
-easier on the fingers, but it has a steep learning curve. And since
-MacVim is just Vim, and Vim is available on just about every computer in
-existence, my investment in muscle memory should be reasonably future
-proof.
+I switched from TextMate to MacVim, and haven't looked back. TextMate is
+a wonderful text editor, with an easy learning curve and a lot of
+powerful features. MacVim is just as powerful, and, for me, easier on
+the fingers, but it has a steep learning curve. And since MacVim is just
+Vim, and Vim is available on just about every computer in existence, my
+investment in muscle memory should be reasonably future proof.
 
 If you use both Vim and pandoc, you might be interested in
 
--   [vim-pandoc](https://github.com/vim-pandoc/vim-pandoc)
+-   [vim-pandoc][]
+
+Notes
+-----
 
 I also use
 
 -   ~~[Notational Velocity][]~~
 -   [nvAlt][] (Brett Terpstra's fork of Notational Velocity)
 
-for storing quick notes and pounding out very rough drafts. But I find
-that I miss Vim's normal mode. I've been playing with
+for storing quick notes and (sometimes) pounding out very rough drafts.
+But I find that I miss Vim's normal mode.
 
--   [KeyRemap4MacBook][]
-
-which aims to provide something close to Vim's normal mode everywhere,
-but it isn't sticking.
+Version Control
+---------------
 
 As things progress, it is helpful to keep track of revisions. For this,
 I use
@@ -87,20 +90,29 @@ and simple OS X client. For now, I use
 
 -   [Zot2Bib][]
 
-which bypasses Zotero's client, and sends scraped data directly to
+which bypasses Zotero's client, and sends the scraped data directly to
 
 -   [BibDesk][]
 
 Unfortunately, it does not send the PDF along as well.
 
-BibDesk is a great piece of software, designed for managing a BibTeX database with attached PDF files. It keeps all my PDFs organized in a folder, with reasonable names. And pandoc makes use of the BibTeX database for auto-formatting citations.
+BibDesk is a great piece of software, designed for managing a BibTeX
+database with attached PDF files. It keeps all my PDFs organized in a
+folder, with reasonable names. And pandoc makes use of the BibTeX
+database for auto-formatting citations.
+
+PDFs
+----
 
 For reading and annotating PDFs, I use
 
 -   [Skim][]
 
 Apple's Preview.app keeps getting better at annotations. I'm not sure
-how much better Skim is at this point, but it is what I am used to.
+how much better Skim is at this point, but Skim is what I am used to.
+
+(This is the one thing that keeps me from seriously considering Linux:
+no adequate PDF viewer with support for annotations.)
 
 Other things
 ------------
@@ -114,6 +126,7 @@ Other things
 -   [Pentadactyl][] (a vim-like interface for Firefox)
 
   [Pandoc]: http://johnmacfarlane.net/pandoc/
+  [MultiMarkdown]: http://fletcherpenney.net/multimarkdown/
   [extended]: http://johnmacfarlane.net/pandoc/README.html#pandocs-markdown-vs.standard-markdown
   [markdown]: http://daringfireball.net/projects/markdown/
   [this post]: http://groups.google.com/group/pandoc-discuss/msg/5eb2960b289e283a?
@@ -122,11 +135,13 @@ Other things
   [John MacFarlane]: http://johnmacfarlane.net/
   [LaTeX macros]: http://johnmacfarlane.net/pandoc/README.html#macros
   [non-continguous numbered example lists]: http://johnmacfarlane.net/pandoc/README.html#numbered-example-lists
+  [Pandoc Droplets and Services]: https://github.com/dsanson/Pandoc-Droplets-and-Services
+  [TextMate Bundle for Pandoc]: https://github.com/dsanson/Pandoc.tmbundle
   [TextMate]: http://macromates.com/
   [MacVim]: http://code.google.com/p/macvim/
+  [vim-pandoc]: https://github.com/vim-pandoc/vim-pandoc
   [Notational Velocity]: http://notational.net/
   [nvAlt]: http://brettterpstra.com/project/nvalt/
-  [KeyRemap4MacBook]: http://pqrs.org/macosx/keyremap4macbook/
   [git]: http://git.or.cz/
   [Mark Kalderon's Blog]: http://markelikalderon.com/category/version-control/git/
   [the PhilTeX blog]: http://www.charlietanksley.net/philtex/category/git/

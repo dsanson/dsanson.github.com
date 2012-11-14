@@ -379,11 +379,6 @@ pre {
 	border-radius: 4px;
 }
 
-.strikeout {
-	text-decoration: line-through;
-	color: red;
-}
-
 ul {
     list-style-type: circle;
 }
@@ -393,28 +388,9 @@ ul ul {
 	list-style-type: none;
 }
 
-/*dt {*/
-	/*font-weight: bold;*/
-	/*float: left;*/
-	/*padding-right: 1em;*/
-/*}*/
-
-/*dt:after {*/
-	/*content: ".";*/
-/*}*/
-
 dl {
-	/*margin: -1.2em 0 1em 0;*/
 	padding: 0;
 }
-
-/*dt {*/
-	/*position: relative;*/
-	/*left: 0;*/
-	/*top: 1.2em;*/
-	/*width: 5em;*/
-	/*font-weight: bold;*/
-/*}*/
 
 dt {
 	float: left;

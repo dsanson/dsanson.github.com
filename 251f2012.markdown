@@ -1,0 +1,19 @@
+---
+title: 'Philosophy 251: Visions of the Self' 
+layout: 251f2012
+section: main
+
+---
+
+The webpage for this course is on [ReggieNet][].
+
+The course approaches the question, "What am I?" in three ways:
+
+1.  Suppose I am a thing that thinks---a thing with a mind. What is the
+    relation between my mind and my body?
+2.  Suppose I am a thing that persists over time. What does it take me
+    to survive from one moment to the next?
+3.  Suppose I am a thing with a will. How can a thing with a will be a
+    part of a world governed by cause and effect?
+
+  [ReggieNet]: http://reggienet.illinoisstate.edu

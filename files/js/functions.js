@@ -46,12 +46,3 @@ function deproxify() {
 	$('#proxify').click( function(event){ proxify() });
 }
 
-function moreMe() {
-	$('#me').slideToggle();
-	$('#more-about-me').slideToggle();
-}
-
-function dm() {
-	window.location='/tty'
-//	$('html').load('/tty.html')
-}

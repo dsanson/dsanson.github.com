@@ -1,0 +1,12 @@
+---
+title: 'Philosophy 210: Symbolic Logic' 
+layout: name
+section: courses
+
+---
+
+The webpage for this course is on [ReggieNet][].
+
+This course is an introduction to symbolic logic, through predicate logic with identity. 
+
+  [ReggieNet]: http://reggienet.illinoisstate.edu

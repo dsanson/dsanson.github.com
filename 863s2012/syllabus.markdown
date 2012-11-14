@@ -1,6 +1,10 @@
-% Philosophy 863: Modal Metaphysics
-% David Sanson
-% Spring 2012
+---
+title: Syllabus
+layout: 863s2012
+section: syllabus
+---
+
+# Philosophy 863: Modal Metaphysics (Spring 2012)
 
 Professor
   ~ David Sanson, 372 University Hall, <sanson.7@osu.edu>\

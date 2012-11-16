@@ -14,4 +14,4 @@ status: published
 > An analysis of the earliest discussions of the Liar Paradox in
 > the Medieval Arabic tradition, including the earliest known text in
 > any tradition to blame the paradox on self-reference. English
-> translations of the main texts are included.
+> translations included.

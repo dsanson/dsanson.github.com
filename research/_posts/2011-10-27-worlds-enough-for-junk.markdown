@@ -8,7 +8,7 @@ published: true
 status: in-review 
 ---
 
-"[Worlds Enough for Junk](http://files.davidsanson.com/research/worlds-enough-for-junk.pdf)," in review.
+"[Worlds Enough for Junk](http://files.davidsanson.com/research/worlds-enough-for-junk.pdf)," under revision.
 
 > The possibility of *Junk* is the possibility that something exists and
 > everything is a proper part. Just as we might imagine that there are
@@ -18,6 +18,6 @@ status: in-review
 > possibility can be accommodated within a Lewisian modal framework. For
 > Lewis, every possibility involves the existence of a possible world,
 > and a possible world is just is a maximal sum, and so a cap. But the
-> Lewisian can accommodate Junk, if she wishes, by allowing parts of
-> possible worlds to represent complete possibilities.
+> Lewisian can accommodate Junk, if she wishes, by allowing that parts
+> of possible worlds collectively represent complete possibilities.
 

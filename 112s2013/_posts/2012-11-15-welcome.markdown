@@ -1,0 +1,8 @@
+---
+title: "Welcome"
+layout: 112s2013-post
+published: true
+---
+
+This will be a first course in symbolic logic.
+

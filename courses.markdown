@@ -6,7 +6,7 @@ section: courses
 
 When emailing about a course, please include your full name in the body of your email and the course number (e.g., "463") in the subject line. 
 
-## Present: Spring 2013
+## Present (Spring 2013)
 
 -   Language, Logic and Mathematics (112)
     -   CVA 149, TR 12:35-1:50pm
@@ -19,6 +19,9 @@ When emailing about a course, please include your full name in the body of your 
 -   May Term, 2013
     -   Introduction to Philosophy (101)
         -   This will be a three week asynchronous online course.
+-   Fall 2013
+    -   Visions of the Self (251)
+    -   Topics in Metaphysics and Epistemology (363)
 
 ## Past 
 

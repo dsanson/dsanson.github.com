@@ -53,10 +53,10 @@ Publications
 -   "The Early Arabic Liar," with Ahmed Alwishah, *Vivarium* (47:1)
     2009: 97-127.
 
-Work in Progress and Under Review
-=================================
+Work in Progress 
+================
 
--   "Once Present, Now Past" (under review)
+-   "Once Present, Now Past" (under revision)
 -   "Maximal Possibilities" (under revision)
 -   "Worlds Enough for Junk" (under revision)
 -   "Nonserious Nonfictionalism" (in progress)
